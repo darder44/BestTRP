@@ -1,0 +1,1126 @@
+[Root]
+Most Recent Package=BestTMS
+
+
+[Package|LogicTown逼ó╰参|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\My Documents\VBEXE\BestTRP
+
+[Package|LogicTown逼ó╰参|Configure DAO ISAMs]
+Applicable=No
+
+[Package|LogicTown逼ó╰参|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|LogicTown逼ó╰参|Files Found]
+RDC20CHT.DLL=D:\My Documents\VBEXE\BestTRP\Support\RDC20CHT.DLL
+
+[Package|LogicTown逼ó╰参|Files Released]
+
+[Package|LogicTown逼ó╰参|Missing Dependency Information]
+C:\Program Files\Microsoft Office\Office\MSOUTL9.OLB=
+C:\Program Files\Microsoft Office\Office\MSO9.DLL=
+C:\Program Files\Microsoft Office\Office\EXCEL9.OLB=
+C:\WINDOWS\system32\cdonts.dll=
+C:\WINDOWS\system32\msscript.ocx=
+C:\WINDOWS\system32\cdosys.dll=
+C:\Program Files\Microsoft SQL Server\80\Tools\Binn\DTSPkg.dll=
+C:\Program Files\Common Files\System\ado\msadox.dll=
+C:\Program Files\Common Files\System\ado\msado27.tlb=
+C:\Program Files\Common Files\System\ado\msadomd.dll=
+C:\Program Files\Microsoft Office\Office\MSACC9.OLB=
+C:\WINDOWS\system32\iphlpapi.dll=
+D:\My Documents\VBProject\UTL\LogicTown\BestTRP\cdonts.dll=
+
+[Package|LogicTown逼ó╰参|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MCI32.OCX=
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+C:\WINDOWS\system32\scrrun.dll=
+
+[Package|LogicTown逼ó╰参|Files Added]
+d:\my documents\vbproject\utl\logictown\besttrp\besttrp.mdb=
+d:\my documents\vbproject\utl\logictown\besttrp\besttrp.ini=
+
+[Package|LogicTown逼ó╰参|Files Removed]
+
+[Package|LogicTown逼ó╰参|Files In Project]
+C:\WINDOWS\system32\MSVBVM60.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\VB6CHT.DLL=Yes
+C:\WINDOWS\system32\iphlpapi.dll=Yes
+C:\Program Files\Microsoft Office\Office\MSACC9.OLB=Yes
+C:\Program Files\Common Files\System\ado\msadomd.dll=Yes
+C:\Program Files\Common Files\System\ado\msado27.tlb=Yes
+C:\Program Files\Common Files\System\ado\msadox.dll=Yes
+C:\Program Files\Microsoft SQL Server\80\Tools\Binn\DTSPkg.dll=Yes
+C:\WINDOWS\system32\scrrun.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=Yes
+C:\WINDOWS\system32\scrrncht.dll=Yes
+C:\WINDOWS\system32\cdosys.dll=Yes
+C:\WINDOWS\system32\msscript.ocx=Yes
+C:\WINDOWS\system32\MSBIND.DLL=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\STDFTCHT.DLL=Yes
+C:\Program Files\Microsoft Office\Office\EXCEL9.OLB=Yes
+C:\Program Files\Microsoft Office\Office\MSO9.DLL=Yes
+C:\Program Files\Microsoft Office\Office\MSOUTL9.OLB=Yes
+C:\WINDOWS\system32\MSRDC20.OCX=Yes
+C:\WINDOWS\system32\MSRDO20.DLL=Yes
+C:\WINDOWS\system32\RDOCURS.DLL=Yes
+C:\WINDOWS\system32\RDO20CHT.DLL=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\WINDOWS\system32\TABCTCHT.DLL=Yes
+C:\WINDOWS\system32\MSFLXGRD.OCX=Yes
+C:\WINDOWS\system32\FLXGDCHT.DLL=Yes
+C:\WINDOWS\system32\Comdlg32.ocx=Yes
+C:\WINDOWS\system32\CMDLGCHT.DLL=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCMCCHT.DLL=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\WINDOWS\system32\MSCC2CHT.DLL=Yes
+C:\WINDOWS\system32\MSINET.OCX=Yes
+C:\WINDOWS\system32\INETCHT.DLL=Yes
+C:\WINDOWS\system32\RICHTX32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\GAPI32.DLL=Yes
+C:\WINDOWS\system32\RCHTXCHT.DLL=Yes
+C:\WINDOWS\system32\MSCHRT20.OCX=Yes
+C:\WINDOWS\system32\MSCH2CHT.DLL=Yes
+C:\WINDOWS\system32\MSWINSCK.OCX=Yes
+C:\WINDOWS\system32\WINSKCHT.DLL=Yes
+C:\WINDOWS\system32\MSMAPI32.OCX=Yes
+C:\WINDOWS\system32\MSMPICHT.DLL=Yes
+C:\WINDOWS\system32\MCI32.OCX=Yes
+C:\WINDOWS\system32\MCICHT.DLL=Yes
+C:\WINDOWS\system32\PICCLP32.OCX=Yes
+C:\WINDOWS\system32\PCCLPCHT.DLL=Yes
+C:\WINDOWS\system32\SYSINFO.OCX=Yes
+C:\WINDOWS\system32\SYSINCHT.DLL=Yes
+C:\WINDOWS\system32\MSCOMM32.OCX=Yes
+C:\WINDOWS\system32\MSCOMCHT.DLL=Yes
+C:\WINDOWS\system32\MSMASK32.OCX=Yes
+C:\WINDOWS\system32\MSMSKCHT.DLL=Yes
+C:\WINDOWS\system32\MSDATGRD.OCX=Yes
+C:\WINDOWS\system32\DATGDCHT.DLL=Yes
+C:\WINDOWS\system32\MSDATLST.OCX=Yes
+C:\WINDOWS\system32\DATLSCHT.DLL=Yes
+C:\WINDOWS\system32\COMCT332.OCX=Yes
+C:\WINDOWS\system32\CMCT3CHT.DLL=Yes
+C:\WINDOWS\system32\MSADODC.OCX=Yes
+C:\WINDOWS\system32\ADODCCHT.DLL=Yes
+C:\WINDOWS\system32\MSHFLXGD.OCX=Yes
+C:\WINDOWS\system32\MSHFGCHT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\My Documents\VBProject\UTL\LogicTown\BestTRP\BestTRP.mdb=Yes
+D:\My Documents\VBProject\UTL\LogicTown\BestTRP\BestTRP.ini=Yes
+D:\My Documents\VBEXE\BestTRP\BestTRP.exe=Yes
+C:\WINDOWS\system32\RDC20CHT.DLL=Yes
+C:\WINDOWS\system32\cdonts.dll=Yes
+
+[Package|LogicTown逼ó╰参|Configure Registry Files]
+Applicable=No
+
+[Package|LogicTown逼ó╰参|Configure Remote Servers]
+Applicable=No
+
+[Package|LogicTown逼ó╰参|Install Locations]
+D:\My Documents\VBProject\UTL\LogicTown\BestTRP\BestTRP.exe=$(AppPath)
+C:\WINDOWS\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6CHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\iphlpapi.dll=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office\MSACC9.OLB=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\msadomd.dll=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\msado27.tlb=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\msadox.dll=$(WinSysPath)
+C:\Program Files\Microsoft SQL Server\80\Tools\Binn\DTSPkg.dll=$(AppPath)
+C:\WINDOWS\system32\scrrun.dll=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\scrrncht.dll=$(WinSysPath)
+C:\WINDOWS\system32\cdosys.dll=$(WinSysPath)
+C:\WINDOWS\system32\msscript.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\STDFTCHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\cdonts.dll=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office\EXCEL9.OLB=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office\MSO9.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office\MSOUTL9.OLB=$(WinSysPath)
+C:\WINDOWS\system32\MSRDC20.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSRDO20.DLL=$(WinSysPath)
+C:\WINDOWS\system32\RDOCURS.DLL=$(WinSysPath)
+C:\WINDOWS\system32\RDO20CHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\RDC20CHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\TABCTCHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\FLXGDCHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\Comdlg32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\CMDLGCHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCCHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCC2CHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSINET.OCX=$(WinSysPath)
+C:\WINDOWS\system32\INETCHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\RICHTX32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\GAPI32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\RCHTXCHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCHRT20.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCH2CHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSWINSCK.OCX=$(WinSysPath)
+C:\WINDOWS\system32\WINSKCHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSMAPI32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSMPICHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MCI32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MCICHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\PICCLP32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\PCCLPCHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\SYSINFO.OCX=$(WinSysPath)
+C:\WINDOWS\system32\SYSINCHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMM32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSMASK32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSMSKCHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\DATGDCHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSDATLST.OCX=$(WinSysPath)
+C:\WINDOWS\system32\DATLSCHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\COMCT332.OCX=$(WinSysPath)
+C:\WINDOWS\system32\CMCT3CHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSADODC.OCX=$(WinSysPath)
+C:\WINDOWS\system32\ADODCCHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSHFLXGD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSHFGCHT.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\My Documents\VBProject\UTL\LogicTown\BestTRP\BestTRP.mdb=$(AppPath)
+D:\My Documents\VBProject\UTL\LogicTown\BestTRP\BestTRP.ini=$(AppPath)
+D:\My Documents\VBEXE\BestTRP\BestTRP.exe=$(AppPath)
+D:\My Documents\VBEXE\BestTRP\Support\RDC20CHT.DLL=$(WinSysPath)
+D:\My Documents\VBProject\UTL\LogicTown\BestTRP\RDC20CHT.DLL=$(WinSysPath)
+D:\My Documents\VBProject\UTL\LogicTown\BestTRP\cdonts.dll=$(WinSysPath)
+
+[Package|LogicTown逼ó╰参|Configure Shared Files]
+Applicable=Yes
+D:\My Documents\VBProject\UTL\LogicTown\BestTRP\BestTRP.exe=No
+C:\Program Files\Microsoft SQL Server\80\Tools\Binn\DTSPkg.dll=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+D:\My Documents\VBProject\UTL\LogicTown\BestTRP\BestTRP.mdb=No
+D:\My Documents\VBProject\UTL\LogicTown\BestTRP\BestTRP.ini=No
+D:\My Documents\VBEXE\BestTRP\BestTRP.exe=No
+
+[Package|LogicTown逼ó╰参|Distribution]
+Type=single
+Size=
+Title=LogicTown逼ó╰参
+
+[Package|LogicTown逼ó╰参|Package]
+PackageFolder=D:\My Documents\VBEXE\BestTRP
+ProjectFolder=D:\My Documents\VBProject\UTL\LogicTown\BestTRP
+ServerSideCab=
+File1=D:\My Documents\VBEXE\BestTRP\setup.exe
+File2=D:\My Documents\VBEXE\BestTRP\Setup.Lst
+File3=D:\My Documents\VBEXE\BestTRP\BestTRP.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|LogicTown逼ó╰参|IconGroups]
+Group0=LogicTown逼ó╰参
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|LogicTown逼ó╰参|LogicTown逼ó╰参]
+Icon1=BestTRP.exe
+Title1=LogicTown逼ó╰参
+StartIn1=$(AppPath)
+Key1=Icon1
+
+
+[Package|LogicTown 逼ó╰参|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\My Documents\VBEXE\TKK
+
+[Package|LogicTown 逼ó╰参|Configure DAO ISAMs]
+Applicable=No
+
+[Package|LogicTown 逼ó╰参|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|LogicTown 逼ó╰参|Files Found]
+RDC20CHT.DLL=D:\My Documents\VBEXE\BestTRP\Support\RDC20CHT.DLL
+
+[Package|LogicTown 逼ó╰参|Files Released]
+
+[Package|LogicTown 逼ó╰参|Missing Dependency Information]
+C:\Program Files\Microsoft Office\Office\MSOUTL9.OLB=
+C:\Program Files\Microsoft Office\Office\MSO9.DLL=
+C:\Program Files\Microsoft Office\Office\EXCEL9.OLB=
+C:\WINDOWS\system32\cdonts.dll=
+C:\WINDOWS\system32\msscript.ocx=
+C:\WINDOWS\system32\cdosys.dll=
+C:\Program Files\Microsoft SQL Server\80\Tools\Binn\DTSPkg.dll=
+C:\Program Files\Common Files\System\ado\msadox.dll=
+C:\Program Files\Common Files\System\ado\msado27.tlb=
+C:\Program Files\Common Files\System\ado\msadomd.dll=
+C:\Program Files\Microsoft Office\Office\MSACC9.OLB=
+C:\WINDOWS\system32\iphlpapi.dll=
+D:\My Documents\VBProject\UTL\LogicTown\BestTRP\cdonts.dll=
+D:\My Documents\VBProject\YFY\LogicTown_YFYDC\cdonts.dll=
+
+[Package|LogicTown 逼ó╰参|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MCI32.OCX=
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+C:\WINDOWS\system32\scrrun.dll=
+
+[Package|LogicTown 逼ó╰参|Files Added]
+d:\my documents\vbproject\utl\logictown\besttrp\besttrp.mdb=
+d:\my documents\vbproject\utl\logictown\besttrp\besttrp.ini=
+
+[Package|LogicTown 逼ó╰参|Files Removed]
+
+[Package|LogicTown 逼ó╰参|Files In Project]
+C:\WINDOWS\system32\MSVBVM60.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\VB6CHT.DLL=Yes
+C:\WINDOWS\system32\iphlpapi.dll=Yes
+C:\Program Files\Microsoft Office\Office\MSACC9.OLB=Yes
+C:\Program Files\Common Files\System\ado\msadomd.dll=Yes
+C:\Program Files\Common Files\System\ado\msado27.tlb=Yes
+C:\Program Files\Common Files\System\ado\msadox.dll=Yes
+C:\Program Files\Microsoft SQL Server\80\Tools\Binn\DTSPkg.dll=Yes
+C:\WINDOWS\system32\scrrun.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=Yes
+C:\WINDOWS\system32\scrrncht.dll=Yes
+C:\WINDOWS\system32\cdosys.dll=Yes
+C:\WINDOWS\system32\msscript.ocx=Yes
+C:\WINDOWS\system32\MSBIND.DLL=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\STDFTCHT.DLL=Yes
+C:\Program Files\Microsoft Office\Office\EXCEL9.OLB=Yes
+C:\Program Files\Microsoft Office\Office\MSO9.DLL=Yes
+C:\Program Files\Microsoft Office\Office\MSOUTL9.OLB=Yes
+C:\WINDOWS\system32\MSRDC20.OCX=Yes
+C:\WINDOWS\system32\MSRDO20.DLL=Yes
+C:\WINDOWS\system32\RDOCURS.DLL=Yes
+C:\WINDOWS\system32\RDO20CHT.DLL=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\WINDOWS\system32\TABCTCHT.DLL=Yes
+C:\WINDOWS\system32\MSFLXGRD.OCX=Yes
+C:\WINDOWS\system32\FLXGDCHT.DLL=Yes
+C:\WINDOWS\system32\Comdlg32.ocx=Yes
+C:\WINDOWS\system32\CMDLGCHT.DLL=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCMCCHT.DLL=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\WINDOWS\system32\MSCC2CHT.DLL=Yes
+C:\WINDOWS\system32\MSINET.OCX=Yes
+C:\WINDOWS\system32\INETCHT.DLL=Yes
+C:\WINDOWS\system32\RICHTX32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\GAPI32.DLL=Yes
+C:\WINDOWS\system32\RCHTXCHT.DLL=Yes
+C:\WINDOWS\system32\MSCHRT20.OCX=Yes
+C:\WINDOWS\system32\MSCH2CHT.DLL=Yes
+C:\WINDOWS\system32\MSWINSCK.OCX=Yes
+C:\WINDOWS\system32\WINSKCHT.DLL=Yes
+C:\WINDOWS\system32\MSMAPI32.OCX=Yes
+C:\WINDOWS\system32\MSMPICHT.DLL=Yes
+C:\WINDOWS\system32\MCI32.OCX=Yes
+C:\WINDOWS\system32\MCICHT.DLL=Yes
+C:\WINDOWS\system32\PICCLP32.OCX=Yes
+C:\WINDOWS\system32\PCCLPCHT.DLL=Yes
+C:\WINDOWS\system32\SYSINFO.OCX=Yes
+C:\WINDOWS\system32\SYSINCHT.DLL=Yes
+C:\WINDOWS\system32\MSCOMM32.OCX=Yes
+C:\WINDOWS\system32\MSCOMCHT.DLL=Yes
+C:\WINDOWS\system32\MSMASK32.OCX=Yes
+C:\WINDOWS\system32\MSMSKCHT.DLL=Yes
+C:\WINDOWS\system32\MSDATGRD.OCX=Yes
+C:\WINDOWS\system32\DATGDCHT.DLL=Yes
+C:\WINDOWS\system32\MSDATLST.OCX=Yes
+C:\WINDOWS\system32\DATLSCHT.DLL=Yes
+C:\WINDOWS\system32\COMCT332.OCX=Yes
+C:\WINDOWS\system32\CMCT3CHT.DLL=Yes
+C:\WINDOWS\system32\MSADODC.OCX=Yes
+C:\WINDOWS\system32\ADODCCHT.DLL=Yes
+C:\WINDOWS\system32\MSHFLXGD.OCX=Yes
+C:\WINDOWS\system32\MSHFGCHT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\My Documents\VBProject\UTL\LogicTown\BestTRP\BestTRP.mdb=Yes
+D:\My Documents\VBProject\UTL\LogicTown\BestTRP\BestTRP.ini=Yes
+C:\WINDOWS\system32\RDC20CHT.DLL=Yes
+D:\My Documents\VBEXE\TKK\BestTRP.exe=Yes
+D:\My Documents\VBProject\YFY\LogicTown_YFYDC\cdonts.dll=Yes
+
+[Package|LogicTown 逼ó╰参|Configure Registry Files]
+Applicable=No
+
+[Package|LogicTown 逼ó╰参|Configure Remote Servers]
+Applicable=No
+
+[Package|LogicTown 逼ó╰参|Install Locations]
+D:\My Documents\VBProject\UTL\LogicTown\BestTRP\BestTRP.exe=$(AppPath)
+C:\WINDOWS\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6CHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\iphlpapi.dll=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office\MSACC9.OLB=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\msadomd.dll=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\msado27.tlb=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\msadox.dll=$(WinSysPath)
+C:\Program Files\Microsoft SQL Server\80\Tools\Binn\DTSPkg.dll=$(AppPath)
+C:\WINDOWS\system32\scrrun.dll=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\scrrncht.dll=$(WinSysPath)
+C:\WINDOWS\system32\cdosys.dll=$(WinSysPath)
+C:\WINDOWS\system32\msscript.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\STDFTCHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\cdonts.dll=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office\EXCEL9.OLB=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office\MSO9.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office\MSOUTL9.OLB=$(WinSysPath)
+C:\WINDOWS\system32\MSRDC20.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSRDO20.DLL=$(WinSysPath)
+C:\WINDOWS\system32\RDOCURS.DLL=$(WinSysPath)
+C:\WINDOWS\system32\RDO20CHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\RDC20CHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\TABCTCHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\FLXGDCHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\Comdlg32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\CMDLGCHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCCHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCC2CHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSINET.OCX=$(WinSysPath)
+C:\WINDOWS\system32\INETCHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\RICHTX32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\GAPI32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\RCHTXCHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCHRT20.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCH2CHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSWINSCK.OCX=$(WinSysPath)
+C:\WINDOWS\system32\WINSKCHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSMAPI32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSMPICHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MCI32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MCICHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\PICCLP32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\PCCLPCHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\SYSINFO.OCX=$(WinSysPath)
+C:\WINDOWS\system32\SYSINCHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMM32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSMASK32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSMSKCHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\DATGDCHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSDATLST.OCX=$(WinSysPath)
+C:\WINDOWS\system32\DATLSCHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\COMCT332.OCX=$(WinSysPath)
+C:\WINDOWS\system32\CMCT3CHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSADODC.OCX=$(WinSysPath)
+C:\WINDOWS\system32\ADODCCHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSHFLXGD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSHFGCHT.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\My Documents\VBProject\UTL\LogicTown\BestTRP\BestTRP.mdb=$(AppPath)
+D:\My Documents\VBProject\UTL\LogicTown\BestTRP\BestTRP.ini=$(AppPath)
+D:\My Documents\VBEXE\BestTRP\BestTRP.exe=$(AppPath)
+D:\My Documents\VBEXE\BestTRP\Support\RDC20CHT.DLL=$(WinSysPath)
+D:\My Documents\VBProject\UTL\LogicTown\BestTRP\RDC20CHT.DLL=$(WinSysPath)
+D:\My Documents\VBProject\UTL\LogicTown\BestTRP\cdonts.dll=$(WinSysPath)
+D:\My Documents\VBEXE\TKK\BestTRP.exe=$(AppPath)
+D:\My Documents\VBProject\YFY\LogicTown_YFYDC\cdonts.dll=$(WinSysPath)
+
+[Package|LogicTown 逼ó╰参|Configure Shared Files]
+Applicable=Yes
+D:\My Documents\VBProject\UTL\LogicTown\BestTRP\BestTRP.exe=No
+C:\Program Files\Microsoft SQL Server\80\Tools\Binn\DTSPkg.dll=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+D:\My Documents\VBProject\UTL\LogicTown\BestTRP\BestTRP.mdb=No
+D:\My Documents\VBProject\UTL\LogicTown\BestTRP\BestTRP.ini=No
+D:\My Documents\VBEXE\BestTRP\BestTRP.exe=No
+D:\My Documents\VBEXE\TKK\BestTRP.exe=No
+
+[Package|LogicTown 逼ó╰参|Distribution]
+Type=single
+Size=
+Title=LogicTown 逼ó╰参
+
+[Package|LogicTown 逼ó╰参|IconGroups]
+Group0=LogicTown逼ó╰参
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|LogicTown 逼ó╰参|LogicTown逼ó╰参]
+Icon1=BestTRP.exe
+Title1=LogicTown 逼ó╰参
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|LogicTown 逼ó╰参|Package]
+PackageFolder=D:\My Documents\VBEXE\TKK
+ProjectFolder=D:\My Documents\VBProject\TKK\LogicTown\BestTRP
+ServerSideCab=
+File1=D:\My Documents\VBEXE\TKK\setup.exe
+File2=D:\My Documents\VBEXE\TKK\Setup.Lst
+File3=D:\My Documents\VBEXE\TKK\BestTRP.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|TMS|BestTMS]
+Icon1=BestTRP.exe
+Title1=BestTMS
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|TMS|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=d:\My Documents\VBEXE\TMS
+
+[Package|TMS|Configure DAO ISAMs]
+Applicable=No
+
+[Package|TMS|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|TMS|Files Found]
+
+[Package|TMS|Files Released]
+
+[Package|TMS|Missing Dependency Information]
+C:\Program Files\Microsoft Office\Office\MSOUTL9.OLB=
+C:\Program Files\Microsoft Office\Office\MSO9.DLL=
+C:\Program Files\Microsoft Office\Office\EXCEL9.OLB=
+D:\My Documents\VBProject\TMS\BestTRP\cdonts.dll=
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+C:\WINDOWS\system32\msscript.ocx=
+C:\WINDOWS\system32\cdosys.dll=
+C:\Program Files\Microsoft SQL Server\80\Tools\Binn\DTSPkg.dll=
+C:\Program Files\Common Files\System\ado\msadox.dll=
+C:\Program Files\Common Files\System\ado\msado27.tlb=
+C:\Program Files\Common Files\System\ado\msadomd.dll=
+C:\Program Files\Microsoft Office\Office\MSACC9.OLB=
+C:\WINDOWS\system32\iphlpapi.dll=
+C:\WINDOWS\system32\EXCEL9.OLB=
+
+[Package|TMS|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\COMCT332.OCX=
+C:\WINDOWS\system32\mscomct2.ocx=
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+C:\WINDOWS\system32\scrrun.dll=
+C:\WINDOWS\system32\Comdlg32.ocx=
+
+[Package|TMS|Files Added]
+d:\my documents\vbproject\tms\besttrp\besttrp.ini=
+d:\my documents\vbproject\tms\besttrp\besttrp.mdb=
+d:\my documents\vbproject\tms\besttrp\1280x800.pic=
+d:\my documents\vbproject\tms\besttrp\1024x768.pic=
+
+[Package|TMS|Files Removed]
+
+[Package|TMS|Files In Project]
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\VB6CHT.DLL=Yes
+C:\WINDOWS\system32\iphlpapi.dll=Yes
+C:\Program Files\Microsoft Office\Office\MSACC9.OLB=Yes
+C:\Program Files\Common Files\System\ado\msadomd.dll=Yes
+C:\Program Files\Common Files\System\ado\msado27.tlb=Yes
+C:\Program Files\Common Files\System\ado\msadox.dll=Yes
+C:\Program Files\Microsoft SQL Server\80\Tools\Binn\DTSPkg.dll=Yes
+C:\WINDOWS\system32\scrrun.dll=Yes
+C:\WINDOWS\system32\cdosys.dll=Yes
+C:\WINDOWS\system32\msscript.ocx=Yes
+C:\WINDOWS\system32\MSBIND.DLL=Yes
+D:\My Documents\VBProject\TMS\BestTRP\cdonts.dll=Yes
+C:\Program Files\Microsoft Office\Office\MSO9.DLL=Yes
+C:\Program Files\Microsoft Office\Office\MSOUTL9.OLB=Yes
+C:\WINDOWS\system32\MSRDC20.OCX=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\WINDOWS\system32\MSFLXGRD.OCX=Yes
+C:\WINDOWS\system32\Comdlg32.ocx=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\mscomct2.ocx=Yes
+C:\WINDOWS\system32\MSINET.OCX=Yes
+C:\WINDOWS\system32\RICHTX32.OCX=Yes
+C:\WINDOWS\system32\MSCHRT20.OCX=Yes
+C:\WINDOWS\system32\MSWINSCK.OCX=Yes
+C:\WINDOWS\system32\MSMAPI32.OCX=Yes
+C:\WINDOWS\system32\MCI32.OCX=Yes
+C:\WINDOWS\system32\PICCLP32.OCX=Yes
+C:\WINDOWS\system32\SYSINFO.OCX=Yes
+C:\WINDOWS\system32\MSCOMM32.OCX=Yes
+C:\WINDOWS\system32\MSMASK32.OCX=Yes
+C:\WINDOWS\system32\MSDATGRD.OCX=Yes
+C:\WINDOWS\system32\MSDATLST.OCX=Yes
+C:\WINDOWS\system32\COMCT332.OCX=Yes
+C:\WINDOWS\system32\MSADODC.OCX=Yes
+C:\WINDOWS\system32\MSHFLXGD.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\My Documents\VBProject\TMS\BestTRP\BestTRP.ini=Yes
+D:\My Documents\VBProject\TMS\BestTRP\BestTRP.mdb=Yes
+D:\My Documents\VBProject\TMS\BestTRP\1280x800.pic=Yes
+D:\My Documents\VBProject\TMS\BestTRP\1024x768.pic=Yes
+D:\My Documents\VBEXE\TMS\BestTRP.exe=Yes
+C:\WINDOWS\system32\EXCEL9.OLB=Yes
+C:\WINDOWS\system32\msvcrt.dll=Yes
+C:\WINDOWS\system32\scrrncht.dll=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\MSRDO20.DLL=Yes
+C:\WINDOWS\system32\RDOCURS.DLL=Yes
+C:\WINDOWS\system32\RDO20CHT.DLL=Yes
+C:\WINDOWS\system32\RDC20CHT.DLL=Yes
+C:\WINDOWS\system32\TABCTCHT.DLL=Yes
+C:\WINDOWS\system32\FLXGDCHT.DLL=Yes
+C:\WINDOWS\system32\CMDLGCHT.DLL=Yes
+C:\WINDOWS\system32\MSCMCCHT.DLL=Yes
+C:\WINDOWS\system32\MSCC2CHT.DLL=Yes
+C:\WINDOWS\system32\INETCHT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\GAPI32.DLL=Yes
+C:\WINDOWS\system32\RCHTXCHT.DLL=Yes
+C:\WINDOWS\system32\MSCH2CHT.DLL=Yes
+C:\WINDOWS\system32\WINSKCHT.DLL=Yes
+C:\WINDOWS\system32\MSMPICHT.DLL=Yes
+C:\WINDOWS\system32\MCICHT.DLL=Yes
+C:\WINDOWS\system32\PCCLPCHT.DLL=Yes
+C:\WINDOWS\system32\SYSINCHT.DLL=Yes
+C:\WINDOWS\system32\MSCOMCHT.DLL=Yes
+C:\WINDOWS\system32\MSMSKCHT.DLL=Yes
+C:\WINDOWS\system32\DATGDCHT.DLL=Yes
+C:\WINDOWS\system32\DATLSCHT.DLL=Yes
+C:\WINDOWS\system32\CMCT3CHT.DLL=Yes
+C:\WINDOWS\system32\ADODCCHT.DLL=Yes
+C:\WINDOWS\system32\MSHFGCHT.DLL=Yes
+
+[Package|TMS|Configure Registry Files]
+Applicable=No
+
+[Package|TMS|Configure Remote Servers]
+Applicable=No
+
+[Package|TMS|Install Locations]
+D:\My Documents\VBEXE\TMS\BestTRP.exe=$(ProgramFiles)\TMS
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6CHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\iphlpapi.dll=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office\MSACC9.OLB=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\msadomd.dll=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\msado27.tlb=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\msadox.dll=$(WinSysPath)
+C:\Program Files\Microsoft SQL Server\80\Tools\Binn\DTSPkg.dll=$(ProgramFiles)\TMS
+C:\WINDOWS\system32\scrrun.dll=$(WinSysPath)
+C:\WINDOWS\system32\msvcrt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\scrrncht.dll=$(WinSysPath)
+C:\WINDOWS\system32\cdosys.dll=$(WinSysPath)
+C:\WINDOWS\system32\msscript.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+D:\My Documents\VBProject\TMS\BestTRP\cdonts.dll=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office\EXCEL9.OLB=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office\MSO9.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office\MSOUTL9.OLB=$(WinSysPath)
+C:\WINDOWS\system32\MSRDC20.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSRDO20.DLL=$(WinSysPath)
+C:\WINDOWS\system32\RDOCURS.DLL=$(WinSysPath)
+C:\WINDOWS\system32\RDO20CHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\RDC20CHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\TABCTCHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\FLXGDCHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\Comdlg32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\CMDLGCHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCCHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\mscomct2.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSCC2CHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSINET.OCX=$(WinSysPath)
+C:\WINDOWS\system32\INETCHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\RICHTX32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\GAPI32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\RCHTXCHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCHRT20.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCH2CHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSWINSCK.OCX=$(WinSysPath)
+C:\WINDOWS\system32\WINSKCHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSMAPI32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSMPICHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MCI32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MCICHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\PICCLP32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\PCCLPCHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\SYSINFO.OCX=$(WinSysPath)
+C:\WINDOWS\system32\SYSINCHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMM32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSMASK32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSMSKCHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\DATGDCHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSDATLST.OCX=$(WinSysPath)
+C:\WINDOWS\system32\DATLSCHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\COMCT332.OCX=$(WinSysPath)
+C:\WINDOWS\system32\CMCT3CHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSADODC.OCX=$(WinSysPath)
+C:\WINDOWS\system32\ADODCCHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSHFLXGD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSHFGCHT.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(ProgramFiles)\TMS
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\My Documents\VBProject\TMS\BestTRP\BestTRP.ini=$(ProgramFiles)\TMS
+D:\My Documents\VBProject\TMS\BestTRP\BestTRP.mdb=$(ProgramFiles)\TMS
+D:\My Documents\VBEXE\TMS\Support\BestTRP.exe=$(AppPath)
+D:\My Documents\VBProject\TMS\BestTRP\1280x800.pic=$(ProgramFiles)\TMS
+D:\My Documents\VBProject\TMS\BestTRP\1024x768.pic=$(ProgramFiles)\TMS
+C:\WINDOWS\system32\EXCEL9.OLB=$(WinSysPath)
+
+[Package|TMS|Configure Shared Files]
+Applicable=Yes
+D:\My Documents\VBEXE\TMS\BestTRP.exe=No
+C:\Program Files\Microsoft SQL Server\80\Tools\Binn\DTSPkg.dll=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+D:\My Documents\VBProject\TMS\BestTRP\BestTRP.ini=No
+D:\My Documents\VBProject\TMS\BestTRP\BestTRP.mdb=No
+D:\My Documents\VBEXE\TMS\Support\BestTRP.exe=No
+D:\My Documents\VBProject\TMS\BestTRP\1280x800.pic=No
+D:\My Documents\VBProject\TMS\BestTRP\1024x768.pic=No
+
+[Package|TMS|Distribution]
+Type=single
+Size=
+Title=TMS
+
+[Package|TMS|Package]
+PackageFolder=d:\My Documents\VBEXE\TMS
+ProjectFolder=D:\My Documents\VBProject\TMS\BestTRP
+ServerSideCab=
+File1=d:\My Documents\VBEXE\TMS\setup.exe
+File2=d:\My Documents\VBEXE\TMS\Setup.Lst
+File3=d:\My Documents\VBEXE\TMS\BestTRP.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|TMS|IconGroups]
+Group0=TMS
+PrivateGroup0=False
+Parent0=$(Programs)
+
+[Package|TMS|TMS]
+Icon1=BestTRP.exe
+Title1=TMS
+StartIn1=$(AppPath)
+Key1=Icon1
+
+
+[Package|BestTMS|TMS]
+Icon1=BestTRP.exe
+Title1=TMS
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|BestTMS|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\TMS
+
+[Package|BestTMS|Configure DAO ISAMs]
+Applicable=No
+
+[Package|BestTMS|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|BestTMS|Files Found]
+
+[Package|BestTMS|Files Released]
+1024x768.pic=
+1280x800.pic=
+besttrp.mdb=
+besttrp.ini=
+
+[Package|BestTMS|Missing Dependency Information]
+C:\Program Files\Microsoft Office\Office\MSOUTL9.OLB=
+C:\Program Files\Microsoft Office\Office\MSO9.DLL=
+C:\Program Files\Microsoft Office\Office\EXCEL9.OLB=
+D:\My Documents\VBProject\TMS\BestTRP\cdonts.dll=
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+C:\WINDOWS\system32\msscript.ocx=
+C:\WINDOWS\system32\cdosys.dll=
+C:\Program Files\Microsoft SQL Server\80\Tools\Binn\DTSPkg.dll=
+C:\Program Files\Common Files\System\ado\msadox.dll=
+C:\Program Files\Common Files\System\ado\msado27.tlb=
+C:\Program Files\Common Files\System\ado\msadomd.dll=
+C:\Program Files\Microsoft Office\Office\MSACC9.OLB=
+C:\WINDOWS\system32\iphlpapi.dll=
+C:\Program Files (x86)\Microsoft Office\Office\MSOUTL9.OLB=
+C:\Program Files (x86)\Microsoft Office\Office\MSO9.DLL=
+C:\Program Files (x86)\Microsoft Office\Office\EXCEL9.OLB=
+D:\My Documents\VBProject\BestTMS\BestTRP\cdonts.dll=
+C:\Windows\SysWOW64\msscript.ocx=
+C:\Windows\SysWOW64\cdosys.dll=
+C:\Program Files (x86)\Microsoft SQL Server\80\Tools\Binn\dtspkg.dll=
+C:\Program Files (x86)\Common Files\System\ado\msadox.dll=
+C:\Program Files (x86)\Common Files\System\ado\msado27.tlb=
+C:\Program Files (x86)\Common Files\System\ado\msadomd.dll=
+C:\Program Files (x86)\Microsoft Office\Office\MSACC9.OLB=
+
+[Package|BestTMS|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\COMCT332.OCX=
+C:\WINDOWS\system32\mscomct2.ocx=
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+C:\WINDOWS\system32\scrrun.dll=
+C:\WINDOWS\system32\Comdlg32.ocx=
+C:\Windows\SysWOW64\ComCt332.ocx=
+C:\Windows\SysWOW64\msstdfmt.dll=
+C:\Windows\SysWOW64\scrrun.dll=
+
+[Package|BestTMS|Files Added]
+
+[Package|BestTMS|Files Removed]
+d:\my documents\vbexe\tms\support\besttrp.exe=
+c:\besttrp穖翧.exe=
+
+[Package|BestTMS|Files In Project]
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\VB6CHT.DLL=Yes
+C:\WINDOWS\system32\iphlpapi.dll=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files (x86)\Microsoft Office\Office\MSACC9.OLB=Yes
+C:\Program Files (x86)\Common Files\System\ado\msadomd.dll=Yes
+C:\Program Files (x86)\Common Files\System\ado\msado27.tlb=Yes
+C:\Program Files (x86)\Common Files\System\ado\msadox.dll=Yes
+C:\Program Files (x86)\Microsoft SQL Server\80\Tools\Binn\dtspkg.dll=Yes
+C:\Windows\SysWOW64\scrrun.dll=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=Yes
+C:\Windows\SysWOW64\SCRRNCHT.DLL=Yes
+C:\Windows\SysWOW64\cdosys.dll=Yes
+C:\Windows\SysWOW64\msscript.ocx=Yes
+C:\Windows\SysWOW64\MSBind.dll=Yes
+C:\Windows\SysWOW64\msstdfmt.dll=Yes
+C:\Windows\SysWOW64\STDFTCHT.DLL=Yes
+D:\My Documents\VBProject\BestTMS\BestTRP\cdonts.dll=Yes
+C:\Program Files (x86)\Microsoft Office\Office\EXCEL9.OLB=Yes
+C:\Program Files (x86)\Microsoft Office\Office\MSO9.DLL=Yes
+C:\Program Files (x86)\Microsoft Office\Office\MSOUTL9.OLB=Yes
+C:\Windows\SysWOW64\msrdc20.Ocx=Yes
+C:\Windows\SysWOW64\msrdo20.dll=Yes
+C:\Windows\SysWOW64\RDOCURS.DLL=Yes
+C:\Windows\SysWOW64\RDO20CHT.DLL=Yes
+C:\Windows\SysWOW64\RDC20CHT.DLL=Yes
+C:\Windows\SysWOW64\TabCtl32.Ocx=Yes
+C:\Windows\SysWOW64\TABCTCHT.DLL=Yes
+C:\Windows\SysWOW64\MSFlxGrd.ocx=Yes
+C:\Windows\SysWOW64\FLXGDCHT.DLL=Yes
+C:\Windows\SysWOW64\ComDlg32.OCX=Yes
+C:\Windows\SysWOW64\CMDLGCHT.DLL=Yes
+C:\Windows\SysWOW64\mscomctl.OCX=Yes
+C:\Windows\SysWOW64\MSCMCCHT.DLL=Yes
+C:\Windows\SysWOW64\mscomct2.ocx=Yes
+C:\Windows\SysWOW64\MSCC2CHT.DLL=Yes
+C:\Windows\SysWOW64\MSINET.Ocx=Yes
+C:\Windows\SysWOW64\INETCHT.DLL=Yes
+C:\Windows\SysWOW64\richtx32.Ocx=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\GAPI32.DLL=Yes
+C:\Windows\SysWOW64\RCHTXCHT.DLL=Yes
+C:\Windows\SysWOW64\MSChrt20.ocx=Yes
+C:\Windows\SysWOW64\MSCH2CHT.DLL=Yes
+C:\Windows\SysWOW64\MSWINSCK.ocx=Yes
+C:\Windows\SysWOW64\WINSKCHT.DLL=Yes
+C:\Windows\SysWOW64\msmapi32.Ocx=Yes
+C:\Windows\SysWOW64\MSMPICHT.DLL=Yes
+C:\Windows\SysWOW64\mci32.Ocx=Yes
+C:\Windows\SysWOW64\MCICHT.DLL=Yes
+C:\Windows\SysWOW64\PicClp32.Ocx=Yes
+C:\Windows\SysWOW64\PCCLPCHT.DLL=Yes
+C:\Windows\SysWOW64\sysinfo.Ocx=Yes
+C:\Windows\SysWOW64\SYSINCHT.DLL=Yes
+C:\Windows\SysWOW64\MSComm32.Ocx=Yes
+C:\Windows\SysWOW64\MSCOMCHT.DLL=Yes
+C:\Windows\SysWOW64\msmask32.ocx=Yes
+C:\Windows\SysWOW64\MSMSKCHT.DLL=Yes
+C:\Windows\SysWOW64\MSDatGrd.ocx=Yes
+C:\Windows\SysWOW64\DATGDCHT.DLL=Yes
+C:\Windows\SysWOW64\MSDatLst.Ocx=Yes
+C:\Windows\SysWOW64\DATLSCHT.DLL=Yes
+C:\Windows\SysWOW64\ComCt332.ocx=Yes
+C:\Windows\SysWOW64\CMCT3CHT.DLL=Yes
+C:\Windows\SysWOW64\MSAdoDc.ocx=Yes
+C:\Windows\SysWOW64\ADODCCHT.DLL=Yes
+C:\Windows\SysWOW64\MShflxgd.ocx=Yes
+C:\Windows\SysWOW64\MSHFGCHT.DLL=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\My Documents\VBEXE\BestTMS\BestTRP.exe=Yes
+
+[Package|BestTMS|Configure Registry Files]
+Applicable=No
+
+[Package|BestTMS|Configure Remote Servers]
+Applicable=No
+
+[Package|BestTMS|Install Locations]
+D:\My Documents\VBEXE\TMS\BestTRP.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6CHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\iphlpapi.dll=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office\MSACC9.OLB=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\msadomd.dll=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\msado27.tlb=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\msadox.dll=$(WinSysPath)
+C:\Program Files\Microsoft SQL Server\80\Tools\Binn\DTSPkg.dll=$(ProgramFiles)\TMS
+C:\WINDOWS\system32\scrrun.dll=$(WinSysPath)
+C:\WINDOWS\system32\msvcrt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\scrrncht.dll=$(WinSysPath)
+C:\WINDOWS\system32\cdosys.dll=$(WinSysPath)
+C:\WINDOWS\system32\msscript.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+D:\My Documents\VBProject\TMS\BestTRP\cdonts.dll=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office\EXCEL9.OLB=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office\MSO9.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office\MSOUTL9.OLB=$(WinSysPath)
+C:\WINDOWS\system32\MSRDC20.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSRDO20.DLL=$(WinSysPath)
+C:\WINDOWS\system32\RDOCURS.DLL=$(WinSysPath)
+C:\WINDOWS\system32\RDO20CHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\RDC20CHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\TABCTCHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\FLXGDCHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\Comdlg32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\CMDLGCHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCCHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\mscomct2.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSCC2CHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSINET.OCX=$(WinSysPath)
+C:\WINDOWS\system32\INETCHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\RICHTX32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\GAPI32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\RCHTXCHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCHRT20.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCH2CHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSWINSCK.OCX=$(WinSysPath)
+C:\WINDOWS\system32\WINSKCHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSMAPI32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSMPICHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MCI32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MCICHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\PICCLP32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\PCCLPCHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\SYSINFO.OCX=$(WinSysPath)
+C:\WINDOWS\system32\SYSINCHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMM32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSMASK32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSMSKCHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\DATGDCHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSDATLST.OCX=$(WinSysPath)
+C:\WINDOWS\system32\DATLSCHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\COMCT332.OCX=$(WinSysPath)
+C:\WINDOWS\system32\CMCT3CHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSADODC.OCX=$(WinSysPath)
+C:\WINDOWS\system32\ADODCCHT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSHFLXGD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSHFGCHT.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(ProgramFiles)\TMS
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\My Documents\VBProject\TMS\BestTRP\BestTRP.ini=$(ProgramFiles)\TMS
+D:\My Documents\VBProject\TMS\BestTRP\BestTRP.mdb=$(ProgramFiles)\TMS
+D:\My Documents\VBEXE\TMS\Support\BestTRP.exe=$(AppPath)
+D:\My Documents\VBProject\TMS\BestTRP\1280x800.pic=$(ProgramFiles)\TMS
+D:\My Documents\VBProject\TMS\BestTRP\1024x768.pic=$(ProgramFiles)\TMS
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Office\Office\MSACC9.OLB=$(WinSysPath)
+C:\Program Files (x86)\Common Files\System\ado\msadomd.dll=$(WinSysPath)
+C:\Program Files (x86)\Common Files\System\ado\msado27.tlb=$(WinSysPath)
+C:\Program Files (x86)\Common Files\System\ado\msadox.dll=$(WinSysPath)
+C:\Program Files (x86)\Microsoft SQL Server\80\Tools\Binn\dtspkg.dll=$(AppPath)
+C:\Windows\SysWOW64\scrrun.dll=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=$(WinSysPathSysFile)
+C:\Windows\SysWOW64\SCRRNCHT.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\cdosys.dll=$(WinSysPath)
+C:\Windows\SysWOW64\msscript.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\MSBind.dll=$(WinSysPath)
+C:\Windows\SysWOW64\msstdfmt.dll=$(WinSysPath)
+C:\Windows\SysWOW64\STDFTCHT.DLL=$(WinSysPath)
+D:\My Documents\VBProject\BestTMS\BestTRP\cdonts.dll=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Office\Office\EXCEL9.OLB=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Office\Office\MSO9.DLL=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Office\Office\MSOUTL9.OLB=$(WinSysPath)
+C:\Windows\SysWOW64\msrdc20.Ocx=$(WinSysPath)
+C:\Windows\SysWOW64\msrdo20.dll=$(WinSysPath)
+C:\Windows\SysWOW64\RDOCURS.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\RDO20CHT.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\RDC20CHT.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\TabCtl32.Ocx=$(WinSysPath)
+C:\Windows\SysWOW64\TABCTCHT.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSFlxGrd.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\FLXGDCHT.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\ComDlg32.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\CMDLGCHT.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\mscomctl.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSCMCCHT.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\mscomct2.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\MSCC2CHT.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSINET.Ocx=$(WinSysPath)
+C:\Windows\SysWOW64\INETCHT.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\richtx32.Ocx=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\GAPI32.DLL=$(WinSysPathSysFile)
+C:\Windows\SysWOW64\RCHTXCHT.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSChrt20.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\MSCH2CHT.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSWINSCK.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\WINSKCHT.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\msmapi32.Ocx=$(WinSysPath)
+C:\Windows\SysWOW64\MSMPICHT.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\mci32.Ocx=$(WinSysPath)
+C:\Windows\SysWOW64\MCICHT.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\PicClp32.Ocx=$(WinSysPath)
+C:\Windows\SysWOW64\PCCLPCHT.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\sysinfo.Ocx=$(WinSysPath)
+C:\Windows\SysWOW64\SYSINCHT.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSComm32.Ocx=$(WinSysPath)
+C:\Windows\SysWOW64\MSCOMCHT.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\msmask32.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\MSMSKCHT.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSDatGrd.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\DATGDCHT.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSDatLst.Ocx=$(WinSysPath)
+C:\Windows\SysWOW64\DATLSCHT.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\ComCt332.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\CMCT3CHT.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSAdoDc.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\ADODCCHT.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MShflxgd.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\MSHFGCHT.DLL=$(WinSysPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\My Documents\VBEXE\BestTMS\BestTRP.exe=$(AppPath)
+
+[Package|BestTMS|Configure Shared Files]
+Applicable=Yes
+D:\My Documents\VBEXE\TMS\BestTRP.exe=No
+C:\Program Files\Microsoft SQL Server\80\Tools\Binn\DTSPkg.dll=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+D:\My Documents\VBProject\TMS\BestTRP\BestTRP.ini=No
+D:\My Documents\VBProject\TMS\BestTRP\BestTRP.mdb=No
+D:\My Documents\VBEXE\TMS\Support\BestTRP.exe=No
+D:\My Documents\VBProject\TMS\BestTRP\1280x800.pic=No
+D:\My Documents\VBProject\TMS\BestTRP\1024x768.pic=No
+C:\Program Files (x86)\Microsoft SQL Server\80\Tools\Binn\dtspkg.dll=No
+C:\Program Files (x86)\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+D:\My Documents\VBEXE\BestTMS\BestTRP.exe=No
+
+[Package|BestTMS|Distribution]
+Type=single
+Size=
+Title=BestTMS
+
+[Package|BestTMS|IconGroups]
+Group0=BestTMS
+PrivateGroup0=0
+Parent0=$(Programs)
+
+[Package|BestTMS|BestTMS]
+Icon1=BestTRP.exe
+Title1=BestTMS
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|BestTMS|Package]
+PackageFolder=C:\TMS
+ProjectFolder=D:\My Documents\VBProject\BestTMS\BestTRP
+ServerSideCab=
+File1=C:\TMS\setup.exe
+File2=C:\TMS\Setup.Lst
+File3=C:\TMS\BestTRP.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

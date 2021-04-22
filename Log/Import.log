@@ -1,0 +1,292 @@
+2017-03-21 10:10:43，匯入 22 筆訂單， 133 筆明細，檔案 LPSI01.xls 匯入者 : ADMINISTRATOR
+
+2017-03-21 10:13:21，訂單重複select OrderKey from orders where rtrim(ExternOrderKey) ='4006796874' and storerkey = 'LPSI01' and isnull(type,'') <> '刪單'  匯入者 : ADMINISTRATOR
+
+2017-03-21 10:13:21，訂單重複select OrderKey from orders where rtrim(ExternOrderKey) ='4006796910' and storerkey = 'LPSI01' and isnull(type,'') <> '刪單'  匯入者 : ADMINISTRATOR
+
+2017-03-21 10:13:21，訂單重複select OrderKey from orders where rtrim(ExternOrderKey) ='4006797111' and storerkey = 'LPSI01' and isnull(type,'') <> '刪單'  匯入者 : ADMINISTRATOR
+
+2017-03-21 10:13:21，訂單重複select OrderKey from orders where rtrim(ExternOrderKey) ='4006797112' and storerkey = 'LPSI01' and isnull(type,'') <> '刪單'  匯入者 : ADMINISTRATOR
+
+2017-03-21 10:13:21，訂單重複select OrderKey from orders where rtrim(ExternOrderKey) ='4006797113' and storerkey = 'LPSI01' and isnull(type,'') <> '刪單'  匯入者 : ADMINISTRATOR
+
+2017-03-21 10:13:21，訂單重複select OrderKey from orders where rtrim(ExternOrderKey) ='4006797114' and storerkey = 'LPSI01' and isnull(type,'') <> '刪單'  匯入者 : ADMINISTRATOR
+
+2017-03-21 10:13:21，訂單重複select OrderKey from orders where rtrim(ExternOrderKey) ='4006797115' and storerkey = 'LPSI01' and isnull(type,'') <> '刪單'  匯入者 : ADMINISTRATOR
+
+2017-03-21 10:13:21，訂單重複select OrderKey from orders where rtrim(ExternOrderKey) ='4006797116' and storerkey = 'LPSI01' and isnull(type,'') <> '刪單'  匯入者 : ADMINISTRATOR
+
+2017-03-21 10:13:21，訂單重複select OrderKey from orders where rtrim(ExternOrderKey) ='4006797117' and storerkey = 'LPSI01' and isnull(type,'') <> '刪單'  匯入者 : ADMINISTRATOR
+
+2017-03-21 10:13:21，訂單重複select OrderKey from orders where rtrim(ExternOrderKey) ='4006797118' and storerkey = 'LPSI01' and isnull(type,'') <> '刪單'  匯入者 : ADMINISTRATOR
+
+2017-03-21 10:13:21，訂單重複select OrderKey from orders where rtrim(ExternOrderKey) ='4006797119' and storerkey = 'LPSI01' and isnull(type,'') <> '刪單'  匯入者 : ADMINISTRATOR
+
+2017-03-21 10:13:21，訂單重複select OrderKey from orders where rtrim(ExternOrderKey) ='4006797120' and storerkey = 'LPSI01' and isnull(type,'') <> '刪單'  匯入者 : ADMINISTRATOR
+
+2017-03-21 10:13:21，訂單重複select OrderKey from orders where rtrim(ExternOrderKey) ='4006797121' and storerkey = 'LPSI01' and isnull(type,'') <> '刪單'  匯入者 : ADMINISTRATOR
+
+2017-03-21 10:13:21，訂單重複select OrderKey from orders where rtrim(ExternOrderKey) ='4006797143' and storerkey = 'LPSI01' and isnull(type,'') <> '刪單'  匯入者 : ADMINISTRATOR
+
+2017-03-21 10:13:21，訂單重複select OrderKey from orders where rtrim(ExternOrderKey) ='4006797145' and storerkey = 'LPSI01' and isnull(type,'') <> '刪單'  匯入者 : ADMINISTRATOR
+
+2017-03-21 10:13:22，訂單重複select OrderKey from orders where rtrim(ExternOrderKey) ='4006797146' and storerkey = 'LPSI01' and isnull(type,'') <> '刪單'  匯入者 : ADMINISTRATOR
+
+2017-03-21 10:13:22，訂單重複select OrderKey from orders where rtrim(ExternOrderKey) ='4006797147' and storerkey = 'LPSI01' and isnull(type,'') <> '刪單'  匯入者 : ADMINISTRATOR
+
+2017-03-21 10:13:22，訂單重複select OrderKey from orders where rtrim(ExternOrderKey) ='4006797148' and storerkey = 'LPSI01' and isnull(type,'') <> '刪單'  匯入者 : ADMINISTRATOR
+
+2017-03-21 10:13:22，訂單重複select OrderKey from orders where rtrim(ExternOrderKey) ='4006797149' and storerkey = 'LPSI01' and isnull(type,'') <> '刪單'  匯入者 : ADMINISTRATOR
+
+2017-03-21 10:13:22，訂單重複select OrderKey from orders where rtrim(ExternOrderKey) ='4006797150' and storerkey = 'LPSI01' and isnull(type,'') <> '刪單'  匯入者 : ADMINISTRATOR
+
+2017-03-21 10:13:22，訂單重複select OrderKey from orders where rtrim(ExternOrderKey) ='4006797151' and storerkey = 'LPSI01' and isnull(type,'') <> '刪單'  匯入者 : ADMINISTRATOR
+
+2017-03-21 10:13:22，訂單重複select OrderKey from orders where rtrim(ExternOrderKey) ='4006797152' and storerkey = 'LPSI01' and isnull(type,'') <> '刪單'  匯入者 : ADMINISTRATOR
+
+2017-03-21 10:13:48，匯入 0 筆訂單， 0 筆明細，檔案 LPSI01_test.xls 匯入者 : ADMINISTRATOR
+
+2017-03-23 16:18:18，匯入 61 筆訂單， 370 筆明細，檔案 傳輸北DC-20170322.xls 匯入者 : ADMINISTRATOR
+
+2017-03-23 18:07:39，匯入 61 筆訂單， 370 筆明細，檔案 傳輸北DC-20170322.xls 匯入者 : TEST
+
+2017-04-24 14:32:35，匯入 65 筆訂單， 377 筆明細，檔案 傳輸北DC-20170322_Test.xls 匯入者 : GEMININB
+
+2017-04-24 14:43:45，匯入 65 筆訂單， 377 筆明細，檔案 傳輸北DC-20170322_Test.xls 匯入者 : GEMININB
+
+2017-07-08 09:32:48，匯入 1 筆訂單， 5 筆明細，檔案 傳輸北DC-20170322_Test.xls 匯入者 : ADMINISTRATOR
+
+2018-01-16 上午 11:02:28，匯入 1 筆訂單匯入1 筆明細檔案 BestTMS手動訂單匯入.xls 匯入者 : ADMINISTRATOR
+
+2018-01-18 下午 02:29:42，匯入 1 筆訂單匯入1 筆明細檔案 BestTMS手動訂單匯入-1.xls 匯入者 : ADMINISTRATOR
+
+2018-01-18 下午 03:23:02，訂單重複select externorderkey from orders(nolock) where rtrim(ExternOrderKey) ='4011850649-11' and storerkey = 'LPSI01' and isnull(type,'') <> '刪單'  匯入者 : ADMINISTRATOR
+
+2018-01-18 下午 03:23:04，匯入 0 筆訂單匯入0 筆明細檔案 BestTMS手動訂單匯入-122.xls 匯入者 : ADMINISTRATOR
+
+2018-01-18 下午 03:32:36，匯入 1 筆訂單匯入2 筆明細檔案 BestTMS手動訂單匯入-12.xls 匯入者 : ADMINISTRATOR
+
+2018-01-29 下午 07:04:08，匯入 1 筆訂單匯入5 筆明細檔案 0129.xls 匯入者 : ADMINISTRATOR
+
+2018-01-29 下午 07:07:41，訂單重複select externorderkey from orders(nolock) where rtrim(ExternOrderKey) ='81086068' and storerkey = 'LPSI01' and isnull(type,'') <> '刪單'  匯入者 : ADMINISTRATOR
+
+2018-01-29 下午 07:07:44，匯入 10 筆訂單匯入47 筆明細檔案 0125.xls 匯入者 : ADMINISTRATOR
+
+2018-01-29 下午 07:24:06，匯入 11 筆訂單匯入52 筆明細檔案 0125.xls 匯入者 : ADMINISTRATOR
+
+2018-01-29 下午 07:51:16，匯入 11 筆訂單匯入52 筆明細檔案 0125.xls 匯入者 : ADMINISTRATOR
+
+2018-01-30 上午 09:55:08，匯入 11 筆訂單匯入52 筆明細檔案 0125.xls 匯入者 : ADMINISTRATOR
+
+2018-01-30 上午 10:49:31，匯入 11 筆訂單匯入52 筆明細檔案 0125.xls 匯入者 : ADMINISTRATOR
+
+2018-01-30 下午 02:44:11，匯入 11 筆訂單匯入52 筆明細檔案 0125.xls 匯入者 : ADMINISTRATOR
+
+2018-01-30 下午 03:12:39，匯入 11 筆訂單匯入52 筆明細檔案 0125.xls 匯入者 : ADMINISTRATOR
+
+2018-01-30 下午 03:24:05，匯入 11 筆訂單匯入52 筆明細檔案 0125.xls 匯入者 : ADMINISTRATOR
+
+2018-01-30 下午 03:40:13，匯入 11 筆訂單匯入52 筆明細檔案 0125.xls 匯入者 : ADMINISTRATOR
+
+2018-01-30 下午 03:53:51，匯入 11 筆訂單匯入52 筆明細檔案 0125.xls 匯入者 : ADMINISTRATOR
+
+2018-01-31 下午 02:44:12，匯入 11 筆訂單匯入52 筆明細檔案 0125.xls 匯入者 : ADMINISTRATOR
+
+2018-01-31 下午 02:57:53，匯入 11 筆訂單匯入52 筆明細檔案 0125.xls 匯入者 : ADMINISTRATOR
+
+2018-02-02 上午 10:24:23，訂單重複select externorderkey from orders(nolock) where rtrim(ExternOrderKey) ='81086068' and storerkey = 'LPSI01' and isnull(type,'') <> '刪單'  匯入者 : ADMINISTRATOR
+
+2018-02-02 上午 10:24:57，匯入 10 筆訂單匯入47 筆明細檔案 0125.xls 匯入者 : ADMINISTRATOR
+
+2018-02-02 下午 02:27:34，匯入 11 筆訂單匯入52 筆明細檔案 0125.xls 匯入者 : ADMINISTRATOR
+
+2018-02-07 上午 11:12:26，訂單重複select externorderkey from orders(nolock) where rtrim(ExternOrderKey) ='81086068' and storerkey = 'LPSI01' and isnull(type,'') <> '刪單'  匯入者 : ADMINISTRATOR
+
+2018-02-07 上午 11:12:57，匯入 10 筆訂單匯入47 筆明細檔案 0125.xls 匯入者 : ADMINISTRATOR
+
+2018-02-08 上午 10:37:26，匯入 10 筆訂單匯入47 筆明細檔案 0125.xls 匯入者 : ADMINISTRATOR
+
+2018-02-08 上午 10:45:49，匯入 10 筆訂單匯入47 筆明細檔案 0125.xls 匯入者 : ADMINISTRATOR
+
+2018-02-08 下午 05:12:52，匯入 10 筆訂單匯入47 筆明細檔案 0125.xls 匯入者 : ADMINISTRATOR
+
+2018-02-08 下午 05:50:13，匯入 10 筆訂單匯入47 筆明細檔案 0125.xls 匯入者 : ADMINISTRATOR
+
+2018-02-08 下午 06:24:37，訂單重複select externorderkey from orders(nolock) where rtrim(ExternOrderKey) ='81086069' and storerkey = 'LPSI01' and isnull(type,'') <> '刪單'  匯入者 : ADMINISTRATOR
+
+2018-02-08 下午 06:24:41，匯入 0 筆訂單匯入0 筆明細檔案 1.xls 匯入者 : ADMINISTRATOR
+
+2018-02-08 下午 06:32:47，匯入 1 筆訂單匯入16 筆明細檔案 2.xls 匯入者 : ADMINISTRATOR
+
+2018-02-09 上午 09:47:12，匯入 10 筆訂單匯入47 筆明細檔案 0125.xls 匯入者 : ADMINISTRATOR
+
+2018-02-09 上午 10:59:16，匯入 10 筆訂單匯入47 筆明細檔案 0125.xls 匯入者 : ADMINISTRATOR
+
+2018-02-09 上午 11:21:47，匯入 10 筆訂單匯入47 筆明細檔案 0125.xls 匯入者 : ADMINISTRATOR
+
+2018-02-12 下午 01:45:45，匯入 10 筆訂單匯入47 筆明細檔案 0125.xls 匯入者 : ADMINISTRATOR
+
+2018-07-04 下午 03:26:24，匯入 1 筆訂單匯入1 筆明細檔案 BestTMS手動訂單匯入.xls 匯入者 : ADMINISTRATOR
+
+2018-07-12 下午 06:10:54，匯入 3 筆訂單匯入3 筆明細檔案 Excel手動訂單匯入0707.xls 匯入者 : ADMINISTRATOR
+
+2018-07-19 上午 10:09:55，訂單重複select externorderkey from orders(nolock) where rtrim(ExternOrderKey) ='20180707' and storerkey = 'LCHF01' and isnull(type,'') <> '刪單'  匯入者 : ADMINISTRATOR
+
+2018-07-19 上午 10:09:55，訂單重複select externorderkey from orders(nolock) where rtrim(ExternOrderKey) ='20180707-1' and storerkey = 'LCHF01' and isnull(type,'') <> '刪單'  匯入者 : ADMINISTRATOR
+
+2018-07-19 上午 10:09:55，訂單重複select externorderkey from orders(nolock) where rtrim(ExternOrderKey) ='20180707-2' and storerkey = 'LCHF01' and isnull(type,'') <> '刪單'  匯入者 : ADMINISTRATOR
+
+2018-07-19 上午 10:09:58，匯入 16 筆訂單匯入16 筆明細檔案 Excel手動訂單匯入0708.xls 匯入者 : ADMINISTRATOR
+
+2018-07-19 上午 10:36:07，匯入 50 筆訂單匯入50 筆明細檔案 匯入檔20180705匯入-2.xls 匯入者 : ADMINISTRATOR
+
+2018-07-19 上午 11:03:17，匯入 9 筆訂單匯入9 筆明細檔案 20180719測試訂單.xls 匯入者 : ADMINISTRATOR
+
+2018-07-19 下午 04:27:29，訂單重複select externorderkey from orders(nolock) where rtrim(ExternOrderKey) ='20180706' and storerkey = 'LCHF01' and isnull(type,'') <> '刪單'  匯入者 : ADMINISTRATOR
+
+2018-07-19 下午 04:27:29，訂單重複select externorderkey from orders(nolock) where rtrim(ExternOrderKey) ='20180706-1' and storerkey = 'LCHF01' and isnull(type,'') <> '刪單'  匯入者 : ADMINISTRATOR
+
+2018-07-19 下午 04:27:29，訂單重複select externorderkey from orders(nolock) where rtrim(ExternOrderKey) ='20180706-2' and storerkey = 'LCHF01' and isnull(type,'') <> '刪單'  匯入者 : ADMINISTRATOR
+
+2018-07-19 下午 04:27:29，訂單重複select externorderkey from orders(nolock) where rtrim(ExternOrderKey) ='20180707' and storerkey = 'LCHF01' and isnull(type,'') <> '刪單'  匯入者 : ADMINISTRATOR
+
+2018-07-19 下午 04:27:29，訂單重複select externorderkey from orders(nolock) where rtrim(ExternOrderKey) ='20180707-1' and storerkey = 'LCHF01' and isnull(type,'') <> '刪單'  匯入者 : ADMINISTRATOR
+
+2018-07-19 下午 04:27:29，訂單重複select externorderkey from orders(nolock) where rtrim(ExternOrderKey) ='20180707-2' and storerkey = 'LCHF01' and isnull(type,'') <> '刪單'  匯入者 : ADMINISTRATOR
+
+2018-07-19 下午 04:27:29，訂單重複select externorderkey from orders(nolock) where rtrim(ExternOrderKey) ='20180709-1' and storerkey = 'LCHF01' and isnull(type,'') <> '刪單'  匯入者 : ADMINISTRATOR
+
+2018-07-19 下午 04:27:29，訂單重複select externorderkey from orders(nolock) where rtrim(ExternOrderKey) ='20180710' and storerkey = 'LCHF01' and isnull(type,'') <> '刪單'  匯入者 : ADMINISTRATOR
+
+2018-07-19 下午 04:27:29，訂單重複select externorderkey from orders(nolock) where rtrim(ExternOrderKey) ='20180710-1' and storerkey = 'LCHF01' and isnull(type,'') <> '刪單'  匯入者 : ADMINISTRATOR
+
+2018-07-19 下午 04:27:30，訂單重複select externorderkey from orders(nolock) where rtrim(ExternOrderKey) ='20180710-2' and storerkey = 'LCHF01' and isnull(type,'') <> '刪單'  匯入者 : ADMINISTRATOR
+
+2018-07-19 下午 04:27:30，訂單重複select externorderkey from orders(nolock) where rtrim(ExternOrderKey) ='20180712' and storerkey = 'LCHF01' and isnull(type,'') <> '刪單'  匯入者 : ADMINISTRATOR
+
+2018-07-19 下午 04:27:30，訂單重複select externorderkey from orders(nolock) where rtrim(ExternOrderKey) ='20180712-1' and storerkey = 'LCHF01' and isnull(type,'') <> '刪單'  匯入者 : ADMINISTRATOR
+
+2018-07-19 下午 04:27:30，訂單重複select externorderkey from orders(nolock) where rtrim(ExternOrderKey) ='20180712-2' and storerkey = 'LCHF01' and isnull(type,'') <> '刪單'  匯入者 : ADMINISTRATOR
+
+2018-07-19 下午 04:27:30，訂單重複select externorderkey from orders(nolock) where rtrim(ExternOrderKey) ='20180713' and storerkey = 'LCHF01' and isnull(type,'') <> '刪單'  匯入者 : ADMINISTRATOR
+
+2018-07-19 下午 04:27:30，訂單重複select externorderkey from orders(nolock) where rtrim(ExternOrderKey) ='20180713-1' and storerkey = 'LCHF01' and isnull(type,'') <> '刪單'  匯入者 : ADMINISTRATOR
+
+2018-07-19 下午 04:27:30，訂單重複select externorderkey from orders(nolock) where rtrim(ExternOrderKey) ='20180713-2' and storerkey = 'LCHF01' and isnull(type,'') <> '刪單'  匯入者 : ADMINISTRATOR
+
+2018-07-19 下午 04:27:30，訂單重複select externorderkey from orders(nolock) where rtrim(ExternOrderKey) ='20180714' and storerkey = 'LCHF01' and isnull(type,'') <> '刪單'  匯入者 : ADMINISTRATOR
+
+2018-07-19 下午 04:27:30，訂單重複select externorderkey from orders(nolock) where rtrim(ExternOrderKey) ='20180714-1' and storerkey = 'LCHF01' and isnull(type,'') <> '刪單'  匯入者 : ADMINISTRATOR
+
+2018-07-19 下午 04:27:30，訂單重複select externorderkey from orders(nolock) where rtrim(ExternOrderKey) ='20180716' and storerkey = 'LCHF01' and isnull(type,'') <> '刪單'  匯入者 : ADMINISTRATOR
+
+2018-07-19 下午 04:27:35，匯入 0 筆訂單匯入0 筆明細檔案 Excel手動訂單匯入0708.xls 匯入者 : ADMINISTRATOR
+
+2018-07-24 下午 06:35:56，匯入 20 筆訂單匯入55 筆明細檔案 拋單格式測試檔案提供-更正.XLS 匯入者 : ADMINISTRATOR
+
+2018-07-25 上午 10:06:36，匯入 55 筆訂單匯入55 筆明細檔案 測試訂單.XLS 匯入者 : ADMINISTRATOR
+
+2018-07-25 上午 11:45:56，匯入 61 筆訂單匯入61 筆明細檔案 TEST_0725.XLS 匯入者 : ADMINISTRATOR
+
+2018-07-27 下午 04:16:04，匯入 5 筆訂單匯入10 筆明細檔案 001.xls 匯入者 : ADMINISTRATOR
+
+2018-07-30 下午 05:08:57，匯入 1 筆訂單匯入3 筆明細檔案 Xl0001182.xls 匯入者 : ADMINISTRATOR
+
+2018-07-31 上午 09:41:36，訂單重複select externorderkey from orders(nolock) where rtrim(ExternOrderKey) ='S3180727007' and storerkey = 'LCHF01' and isnull(type,'') <> '刪單'  匯入者 : ADMINISTRATOR
+
+2018-07-31 上午 09:41:36，訂單重複select externorderkey from orders(nolock) where rtrim(ExternOrderKey) ='S3180727008' and storerkey = 'LCHF01' and isnull(type,'') <> '刪單'  匯入者 : ADMINISTRATOR
+
+2018-07-31 上午 09:41:36，訂單重複select externorderkey from orders(nolock) where rtrim(ExternOrderKey) ='S3180727009' and storerkey = 'LCHF01' and isnull(type,'') <> '刪單'  匯入者 : ADMINISTRATOR
+
+2018-07-31 上午 09:41:36，訂單重複select externorderkey from orders(nolock) where rtrim(ExternOrderKey) ='S3180727010' and storerkey = 'LCHF01' and isnull(type,'') <> '刪單'  匯入者 : ADMINISTRATOR
+
+2018-07-31 上午 09:41:36，訂單重複select externorderkey from orders(nolock) where rtrim(ExternOrderKey) ='S3180727012' and storerkey = 'LCHF01' and isnull(type,'') <> '刪單'  匯入者 : ADMINISTRATOR
+
+2018-07-31 上午 09:41:43，匯入 0 筆訂單匯入0 筆明細檔案 Xl0001182.xls 匯入者 : ADMINISTRATOR
+
+2018-07-31 上午 09:44:30，匯入 1 筆訂單匯入3 筆明細檔案 Xl0001182.xls 匯入者 : ADMINISTRATOR
+
+2018-08-01 上午 09:08:39，匯入 73 筆訂單匯入154 筆明細檔案 佰事達0731拋單通知.xls 匯入者 : ADMINISTRATOR
+
+2018-08-01 下午 04:13:42，匯入 73 筆訂單匯入154 筆明細檔案 佰事達0731拋單通知.xls 匯入者 : ADMINISTRATOR
+
+2018-08-03 上午 10:12:18，匯入 3 筆訂單匯入3 筆明細檔案 佰事達手動訂單0801匯入.xls 匯入者 : ADMINISTRATOR
+
+2018-08-06 下午 02:04:46，匯入 1 筆訂單匯入4 筆明細檔案 佰事達0806拋單通知.xls 匯入者 : ADMINISTRATOR
+
+2018-08-16 下午 03:14:20，匯入 2 筆訂單匯入2 筆明細檔案 佰事達手動退貨匯入-0815A-1.xls 匯入者 : ADMINISTRATOR
+
+2018-08-17 下午 05:20:12，匯入 1 筆訂單匯入5 筆明細檔案  匯入者 : ADMINISTRATOR
+
+2018-08-20 上午 09:28:52，匯入 1 筆訂單匯入5 筆明細檔案  匯入者 : ADMINISTRATOR
+
+2018-08-20 上午 10:00:52，匯入 1 筆訂單匯入5 筆明細檔案  匯入者 : ADMINISTRATOR
+
+2018-08-20 上午 10:08:37，訂單重複select externorderkey from orders(nolock) where rtrim(ExternOrderKey) ='test20180822' and storerkey = 'LCHF01' and isnull(type,'') <> '刪單'  匯入者 : ADMINISTRATOR
+
+2018-08-20 上午 10:08:44，匯入 0 筆訂單匯入4 筆明細檔案  匯入者 : ADMINISTRATOR
+
+2018-08-20 上午 10:10:41，訂單重複select externorderkey from orders(nolock) where rtrim(ExternOrderKey) ='test20180822' and storerkey = 'LCHF01' and isnull(type,'') <> '刪單'  匯入者 : ADMINISTRATOR
+
+2018-08-20 上午 10:25:10，匯入 1 筆訂單匯入5 筆明細檔案  匯入者 : ADMINISTRATOR
+
+2018-08-20 上午 11:21:14，匯入 1 筆訂單匯入5 筆明細檔案  匯入者 : ADMINISTRATOR
+
+2018-08-20 上午 11:25:15，匯入 1 筆訂單匯入5 筆明細檔案  匯入者 : ADMINISTRATOR
+
+2018-08-20 上午 11:31:05，匯入 1 筆訂單匯入5 筆明細檔案  匯入者 : ADMINISTRATOR
+
+2018-08-20 下午 03:57:32，匯入 1 筆訂單匯入5 筆明細檔案  匯入者 : ADMINISTRATOR
+
+2018-08-20 下午 04:00:15，匯入 5 筆訂單匯入19 筆明細檔案  匯入者 : ADMINISTRATOR
+
+2018-08-21 下午 03:03:12，匯入 3 筆訂單匯入7 筆明細檔案  匯入者 : ADMINISTRATOR
+
+2018-08-29 下午 01:27:22，訂單重複select externorderkey from orders(nolock) where rtrim(ExternOrderKey) ='20180828CR1' and storerkey = 'LCHF01' and isnull(type,'') <> '刪單'  匯入者 : ADMINISTRATOR
+
+2018-08-29 下午 01:27:23，匯入 0 筆訂單匯入0 筆明細檔案 佰事達手動退貨匯入-0828C.xls 匯入者 : ADMINISTRATOR
+
+2018-09-04 上午 09:10:58，匯入 1 筆訂單匯入14 筆明細檔案 佰事達訂單匯入0903.xls 匯入者 : ADMINISTRATOR
+
+2018-09-04 上午 09:15:26，匯入 1 筆訂單匯入14 筆明細檔案 test0002.xls 匯入者 : ADMINISTRATOR
+
+2018-09-04 上午 09:24:18，匯入 1 筆訂單匯入14 筆明細檔案 test0003.xls 匯入者 : ADMINISTRATOR
+
+2018-09-04 上午 09:35:14，匯入 1 筆訂單匯入14 筆明細檔案 test0004.xls 匯入者 : ADMINISTRATOR
+
+2018-09-04 上午 09:39:29，匯入 1 筆訂單匯入14 筆明細檔案 test0005.xls 匯入者 : ADMINISTRATOR
+
+2018-09-12 上午 11:08:40，匯入 29 筆訂單匯入69 筆明細檔案 佰事達0910拋單通知.xls 匯入者 : ADMINISTRATOR
+
+2018-09-13 上午 11:56:22，匯入 1 筆訂單匯入3 筆明細檔案 佰事達手動訂單09012匯入.xls 匯入者 : ADMINISTRATOR
+
+2018-09-13 下午 12:03:21，匯入 1 筆訂單匯入3 筆明細檔案 佰事達手動訂單09013匯入.xls 匯入者 : ADMINISTRATOR
+
+2019-03-15 下午 03:11:24，匯入 33 筆訂單， 97 筆明細，檔案 傳輸佰事達0316.xls 匯入者 : ADMINISTRATOR
+
+2019-03-27 下午 05:05:32，匯入 2 筆訂單匯入10 筆明細檔案 20190328中南.xls 匯入者 : ADMINISTRATOR
+
+2019-03-27 下午 05:18:45，匯入 2 筆訂單匯入10 筆明細檔案 20190328-1中南.xls 匯入者 : ADMINISTRATOR
+
+2019-04-01 上午 11:18:17，匯入 8 筆訂單匯入17 筆明細檔案 佰事達0329拋單通知.xls 匯入者 : ADMINISTRATOR
+
+2019-04-01 下午 12:24:43，匯入 8 筆訂單匯入17 筆明細檔案 佰事達0329拋單通知.xls 匯入者 : ADMINISTRATOR
+
+2019-04-01 下午 12:46:18，匯入 8 筆訂單匯入17 筆明細檔案 佰事達0329拋單通知.xls 匯入者 : ADMINISTRATOR
+
+2019-04-01 下午 01:02:01，匯入 37 筆訂單匯入118 筆明細檔案 佰事達0328拋單通知.xls 匯入者 : ADMINISTRATOR
+
+2019-04-01 下午 01:14:29，匯入 8 筆訂單匯入17 筆明細檔案 佰事達0329拋單通知.xls 匯入者 : ADMINISTRATOR
+
+2019-04-01 下午 02:18:19，匯入 8 筆訂單匯入17 筆明細檔案 佰事達0329拋單通知.xls 匯入者 : ADMINISTRATOR
+
+2019-04-01 下午 02:18:48，匯入 4 筆訂單匯入21 筆明細檔案 佰事達0329拋單通知-2.xls 匯入者 : ADMINISTRATOR
+
+2019-05-14 上午 09:50:30，匯入 2 筆訂單匯入4 筆明細檔案 20190514test1.xls 匯入者 : ADMINISTRATOR
+
+2019-10-09 下午 03:47:25，匯入 1 筆訂單匯入10 筆明細檔案 8269781.xls 匯入者 : ADMINISTRATOR
+
+2020-11-27 10:12:53，匯入 3 筆訂單匯入15 筆明細檔案 20201127test.xls 匯入者 : ADMINISTRATOR
+
+2021-01-25 17:57:43，匯入 1 筆訂單匯入1 筆明細檔案 百事訂單_20210125.xls 匯入者 : ADMINISTRATOR
+

@@ -1,0 +1,2517 @@
+
+記錄時間：2013/03/11 13:21:36 
+Form      Name:frm_OP_TRPPlan-路線編號列表-路線編號查詢
+Function  Name: 排  車  作  業
+Procedure Name:cmd_Tab1_RouteNoQuery_Click
+Error Code:-2147217900	Error Descr:行 1: 'F121130018' 附近的語法不正確。
+
+記錄時間：2013/03/18 09:20:25 
+Form      Name:frm_FTP-匯入
+Function  Name:訂單接收
+Procedure Name:cmdImportT15_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2013/03/19 16:20:01 
+Form      Name:frm_FTP-匯入
+Function  Name:訂單接收
+Procedure Name:cmdImportT15_Click
+Error Code:-2147217833	Error Descr:字串或二進位資料會被截斷。
+
+記錄時間：2013/03/19 16:20:23 
+Form      Name:frm_FTP-匯入
+Function  Name:訂單接收
+Procedure Name:cmdImportT15_Click
+Error Code:-2147217833	Error Descr:字串或二進位資料會被截斷。
+
+記錄時間：2013/03/19 16:20:46 
+Form      Name:frm_FTP-匯入
+Function  Name:訂單接收
+Procedure Name:cmdImportT15_Click
+Error Code:-2147217833	Error Descr:字串或二進位資料會被截斷。
+
+記錄時間：2013/03/19 16:26:18 
+Form      Name:frm_FTP-匯入
+Function  Name:訂單接收
+Procedure Name:cmdImportT15_Click
+Error Code:70	Error Descr:沒有使用權限
+
+記錄時間：2013/03/20 15:41:42 
+Form      Name:frm_FTP-匯入
+Function  Name:訂單接收
+Procedure Name:Cmd_Impdata_Click
+
+
+記錄時間：2013/03/20 17:06:28 
+Form      Name:frm_FTP-匯入
+Function  Name:訂單接收
+Procedure Name:Cmd_Impdata_Click
+
+
+記錄時間：2013/03/20 17:39:01 
+Form      Name:frm_FTP-匯入
+Function  Name:訂單接收
+Procedure Name:Cmd_Impdata_Click
+
+
+記錄時間：2013/03/22 08:52:21 
+Form      Name:frm_OP_BacktoEXE-回傳設定確認
+Function  Name:排車資料回傳設定
+Procedure Name:cmd_Update_Click
+Error Code:-2147168237	Error Descr:在此工作階段中無法啟動更多的異動。
+  
+
+記錄時間：2013/03/22 08:54:30 
+Form      Name:frm_OP_BacktoEXE-回傳設定確認
+Function  Name:排車資料回傳設定
+Procedure Name:cmd_Update_Click
+Error Code:5	Error Descr:程序呼叫或引數不正確
+
+記錄時間：2013/03/22 10:49:18 
+Form      Name:frm_Report_TRPPlan-VLL上貨表-查詢
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab0_Query_Click
+Error Code:-2147217871	Error Descr:查詢逾時過期
+
+記錄時間：2013/03/22 11:15:27 
+Form      Name:frm_Report_TRPPlan-VLL上貨表-列印
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab0_PrintReport_Click
+Error Code:-2147217900	Error Descr:資料行前置詞 's1' 與用於查詢中的資料表名稱或別名不符。
+
+記錄時間：2013/03/22 11:16:07 
+Form      Name:frm_Report_TRPPlan-VLL上貨表-列印
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab0_PrintReport_Click
+Error Code:-2147217900	Error Descr:資料行前置詞 's1' 與用於查詢中的資料表名稱或別名不符。
+
+記錄時間：2013/03/22 11:17:46 
+Form      Name:frm_Report_TRPPlan-VLL上貨表-列印
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab0_PrintReport_Click
+Error Code:-2147217900	Error Descr:資料行前置詞 's1' 與用於查詢中的資料表名稱或別名不符。
+
+記錄時間：2013/03/22 11:39:27 
+Form      Name:frm_Report_TRPPlan-VLL上貨表-列印
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab0_PrintReport_Click
+Error Code:-2147467259	Error Descr:資料庫被 'Admin' 使用者在 'BEST-GEMINI' 機器上設定為防止開啟或鎖定。
+
+記錄時間：2013/03/29 13:47:35 
+Form      Name:frm_BaseData_OPCode_1-矩陣圖碼-顯示所有資料
+Function  Name:進階代碼資料維護
+Procedure Name:cmd_Tab5GridCode_Show_Click
+Error Code:-2147217900	Error Descr:行 1: ')' 附近的語法不正確。
+
+記錄時間：2013/03/29 13:47:59 
+Form      Name:frm_BaseData_OPCode_1-矩陣圖碼-顯示所有資料
+Function  Name:進階代碼資料維護
+Procedure Name:cmd_Tab5GridCode_Show_Click
+Error Code:-2147217900	Error Descr:無效的資料行名稱 'GRID_CODE'。
+
+記錄時間：2013/03/29 14:13:17 
+Form      Name:frm_BaseData_OPCode_1-貨主-存檔
+Function  Name:進階代碼資料維護
+Procedure Name:cmd_Tab5GridCode_Save_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2013/03/29 14:15:54 
+Form      Name:frm_BaseData_OPCode_1-貨主-存檔
+Function  Name:進階代碼資料維護
+Procedure Name:cmd_Tab5GridCode_Save_Click
+Error Code:-2147217900	Error Descr:無效的資料行名稱 'storerkey_status'。
+
+記錄時間：2013/03/29 14:18:09 
+Form      Name:frm_BaseData_OPCode_1-貨主-存檔
+Function  Name:進階代碼資料維護
+Procedure Name:cmd_Tab5GridCode_Save_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2013/05/14 18:22:22 
+Form      Name:frm_OP_OrderImport-訂單及客戶資料轉入-確認存檔
+Function  Name:一般訂單轉入及客戶異動維護
+Procedure Name:cmd_Update_Click
+Error Code:-2147217900	Error Descr:程序或函數 Master_ConsigneeData_ImportUpdate 指定了太多的參數。
+
+記錄時間：2013/05/27 14:25:35 
+Form      Name:frm_OP_SDNConfirm-訂單查詢
+Function  Name:簽單確認
+Procedure Name:Form 內部 SubProgram Display_OrderData_OneReceiptNo
+Error Code:-2147217900	Error Descr:無效的資料行名稱 'o'。
+
+記錄時間：2013/05/27 14:26:58 
+Form      Name:frm_OP_SDNConfirm-訂單查詢
+Function  Name:簽單確認
+Procedure Name:Form 內部 SubProgram Display_OrderData_OneReceiptNo
+Error Code:3021	Error Descr:可能是 BOF 或 EOF 的值為 True，或目前的資料錄已被刪除。所要求的操作需要目前的資料錄。
+
+記錄時間：2013/05/27 14:27:43 
+Form      Name:frm_OP_SDNConfirm-訂單查詢
+Function  Name:簽單確認
+Procedure Name:Form 內部 SubProgram Display_OrderData_OneReceiptNo
+Error Code:3021	Error Descr:可能是 BOF 或 EOF 的值為 True，或目前的資料錄已被刪除。所要求的操作需要目前的資料錄。
+
+記錄時間：2013/05/27 14:31:11 
+Form      Name:frm_OP_SDNConfirm-訂單查詢
+Function  Name:簽單確認
+Procedure Name:Form 內部 SubProgram Display_OrderData_OneReceiptNo
+Error Code:3021	Error Descr:可能是 BOF 或 EOF 的值為 True，或目前的資料錄已被刪除。所要求的操作需要目前的資料錄。
+
+記錄時間：2013/05/31 12:43:39 
+Form      Name:frm_OP_ManualOrders-訂單維護-存檔-資料存檔
+Function  Name:訂單維護作業 
+Procedure Name:Form SubProgram SaveOrdersData
+Error Code:-2147217900	Error Descr:行 1: ',' 附近的語法不正確。
+
+記錄時間：2013/05/31 12:43:55 
+Form      Name:frm_OP_ManualOrders-訂單維護-存檔-資料存檔
+Function  Name:訂單維護作業 
+Procedure Name:Form SubProgram SaveOrdersData
+Error Code:-2147217900	Error Descr:行 1: ',' 附近的語法不正確。
+
+記錄時間：2013/05/31 12:44:30 
+Form      Name:frm_OP_ManualOrders-訂單維護-存檔-資料存檔
+Function  Name:訂單維護作業 
+Procedure Name:Form SubProgram SaveOrdersData
+Error Code:-2147217900	Error Descr:行 1: ',' 附近的語法不正確。
+
+記錄時間：2013/05/31 12:44:49 
+Form      Name:frm_OP_ManualOrders-訂單維護-存檔-資料存檔
+Function  Name:訂單維護作業 
+Procedure Name:Form SubProgram SaveOrdersData
+Error Code:-2147217900	Error Descr:行 1: ',' 附近的語法不正確。
+
+記錄時間：2013/06/03 16:42:19 
+Form      Name:frm_OP_SDNConfirm-訂單查詢
+Function  Name:簽單確認
+Procedure Name:Form 內部 SubProgram Display_OrderData_OneReceiptNo
+Error Code:3021	Error Descr:可能是 BOF 或 EOF 的值為 True，或目前的資料錄已被刪除。所要求的操作需要目前的資料錄。
+
+記錄時間：2013/06/03 16:43:11 
+Form      Name:frm_OP_SDNConfirm-訂單查詢
+Function  Name:簽單確認
+Procedure Name:Form 內部 SubProgram Display_OrderData_OneReceiptNo
+Error Code:3021	Error Descr:可能是 BOF 或 EOF 的值為 True，或目前的資料錄已被刪除。所要求的操作需要目前的資料錄。
+
+記錄時間：2013/07/02 13:26:02 
+Form      Name:frm_FTP-匯入
+Function  Name:訂單接收
+Procedure Name:cmd_Import_Click
+Error Code:-2147217887	Error Descr:多重步驟操作發生錯誤。請檢查每一個狀態值。
+
+記錄時間：2013/07/18 15:07:01 
+Form      Name:frm_Report_TRPPlan-分貨表-列印
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab5_PrintReport1_Click
+Error Code:-2147217900	Error Descr:行 1: '出車日期' 附近的語法不正確。
+
+記錄時間：2013/07/18 15:08:16 
+Form      Name:frm_Report_TRPPlan-分貨表-列印
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab5_PrintReport1_Click
+Error Code:-2147217900	Error Descr:行 1: '出車日期' 附近的語法不正確。
+
+記錄時間：2013/07/18 15:11:04 
+Form      Name:frm_Report_TRPPlan-分貨表-列印
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab5_PrintReport1_Click
+Error Code:-2147467259	Error Descr:'分貨表' 資料表已經被其他的使用者獨佔地開啟，或它已經由使用者介面開啟且無法用程式修改。
+
+記錄時間：2013/07/18 15:15:22 
+Form      Name:frm_Report_TRPPlan-分貨表-列印
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab5_PrintReport1_Click
+Error Code:-2147352571	Error Descr:類型不相符。
+
+記錄時間：2013/08/05 16:40:47 
+Form      Name:frm_Report_Other-退貨簽收單-列印
+Function  Name:其他排車報表
+Procedure Name:cmd_Tab0_Query_Click
+Error Code:-2147467259	Error Descr:資料庫被 'Admin' 使用者在 'BEST-GEMINI' 機器上設定為防止開啟或鎖定。
+
+記錄時間：2013/08/05 18:55:52 
+Form      Name:frm_Report_TRPPlan-VLL上貨表-查詢
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab0_Query_Click
+Error Code:-2147217871	Error Descr:查詢逾時過期
+
+記錄時間：2013/08/05 19:02:24 
+Form      Name:frm_Report_TRPPlan-VLL上貨表-查詢
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab0_Query_Click
+Error Code:-2147217871	Error Descr:查詢逾時過期
+
+記錄時間：2013/08/05 19:08:22 
+Form      Name:frm_Report_TRPPlan-VLL上貨表-查詢
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab0_Query_Click
+Error Code:-2147217871	Error Descr:查詢逾時過期
+
+記錄時間：2013/08/05 19:17:00 
+Form      Name:frm_Report_TRPPlan-VLL上貨表-查詢
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab0_Query_Click
+Error Code:-2147217871	Error Descr:查詢逾時過期
+
+記錄時間：2013/08/05 23:39:15 
+Form      Name:frm_Report_TRPPlan-VLL上貨表-查詢
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab0_Query_Click
+Error Code:-2147217871	Error Descr:查詢逾時過期
+
+記錄時間：2013/08/07 17:41:25 
+Form      Name:frm_OP_Other_OrderImport-訂單及客戶資料轉入
+Function  Name:其它訂單轉入及客戶異動維護
+Procedure Name:cmd_OrderImport_Click
+Error Code:-2147217873	Error Descr:PRIMARY KEY 違反條件約束 'PKPO'。無法在物件 'PO' 上插入重複索引鍵。insert into BestWMS..po (poKey,StorerKey,BuyersReference , sellername,selleraddress1,externpokey,potype,notes) values( '0000017602','LAPP01         ','RC20130807U-1','U104                ','鈺潔                                         ','0000290137','RC        ','') 
+
+記錄時間：2013/08/08 14:16:37 
+Form      Name:frm_Report_Other-退貨簽收單-查詢
+Function  Name:其他排車報表
+Procedure Name:cmd_Tab0_Query_Click
+Error Code:-2147217900	Error Descr:rtrim 函數的引數 1 其引數資料型別 text 無效。
+
+記錄時間：2013/08/12 10:40:14 
+Form      Name:frm_Report_Other-退貨簽收單-查詢
+Function  Name:其他排車報表
+Procedure Name:cmd_Tab0_Query_Click
+Error Code:-2147217900	Error Descr:行 1: 'ort01t' 附近的語法不正確。
+
+記錄時間：2013/08/12 18:32:45 
+Form      Name:frm_Report_TRPPlan-VLL上貨表-列印
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab0_PrintReport_Click
+Error Code:3021	Error Descr:可能是 BOF 或 EOF 的值為 True，或目前的資料錄已被刪除。所要求的操作需要目前的資料錄。
+
+記錄時間：2013/08/12 18:42:24 
+Form      Name:frm_Report_TRPPlan-VLL上貨表-列印
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab0_PrintReport_Click
+Error Code:-2147217871	Error Descr:查詢逾時過期
+
+記錄時間：2013/08/28 14:31:27 
+Form      Name:frm_Report_Other-退貨簽收單-查詢
+Function  Name:其他排車報表
+Procedure Name:cmd_Tab0_Query_Click
+Error Code:-2147217900	Error Descr:資料行 'o2t.PRIORITY' 在選取清單中無效，因為它並未包含在彙總函數中且沒有 GROUP BY 子句。
+
+記錄時間：2013/08/28 15:17:50 
+Form      Name:frm_Report_Other-退貨簽收單-查詢
+Function  Name:其他排車報表
+Procedure Name:cmd_Tab0_Query_Click
+Error Code:-2147217900	Error Descr:資料行 't1m.Notes' 在選取清單中無效，因為它並未包含在彙總函數或 GROUP BY 子句中。
+
+記錄時間：2013/09/03 14:38:47 
+Form      Name:frm_Report_TRPPlan-VLL上貨表-列印
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab0_PrintReport_Click
+Error Code:-2147217865	Error Descr:無效的物件名稱 'gv_Report_YFYOrder'。
+
+記錄時間：2013/09/03 14:47:32 
+Form      Name:frm_Report_TRPPlan-VLL上貨表-列印
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab0_PrintReport_Click
+Error Code:2501	Error Descr:巨集指令OpenReport被取消了。
+
+記錄時間：2013/09/06 10:08:20 
+Form      Name:frm_Report_TRPPlan-VLL上貨表-查詢
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab0_Query_Click
+Error Code:-2147217871	Error Descr:查詢逾時過期
+
+記錄時間：2013/09/06 10:15:15 
+Form      Name:frm_Report_TRPPlan-VLL上貨表-查詢
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab0_Query_Click
+Error Code:-2147217871	Error Descr:查詢逾時過期
+
+記錄時間：2013/09/06 11:30:38 
+Form      Name:frm_OP_SDNConfirm-出貨單-列印
+Function  Name:簽單確認
+Procedure Name:cmdShipNotes_Click
+Error Code:-2147217900	Error Descr:無效的資料行名稱 '訂單號碼'。
+
+記錄時間：2013/09/12 10:54:06 
+Form      Name:frm_Report_TRPPlan-VLL上貨表-列印
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab0_PrintReport_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2013/09/12 10:55:33 
+Form      Name:frm_Report_TRPPlan-VLL上貨表-列印
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab0_PrintReport_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2013/10/03 12:06:09 
+Form      Name:frm_BaseData_OPCode_1-車輛種類-顯示所有資料
+Function  Name:進階代碼資料維護
+Procedure Name:cmd_Tab1CarType_Show_Click
+Error Code:-2147217900	Error Descr:行 1: 'TRP17M' 附近的語法不正確。
+
+記錄時間：2013/10/03 12:06:24 
+Form      Name:frm_BaseData_OPCode_1-車輛種類-顯示所有資料
+Function  Name:進階代碼資料維護
+Procedure Name:cmd_Tab1CarType_Show_Click
+Error Code:-2147217900	Error Descr:行 1: 'TRP17M' 附近的語法不正確。
+
+記錄時間：2013/10/03 12:07:05 
+Form      Name:frm_BaseData_OPCode_1-車輛種類-顯示所有資料
+Function  Name:進階代碼資料維護
+Procedure Name:cmd_Tab1CarType_Show_Click
+Error Code:-2147217900	Error Descr:無效的資料行名稱 'ARnoDistribution'。
+
+記錄時間：2013/10/04 16:31:38 
+Form      Name:frm_BaseData_OPCode_1-車輛種類-顯示所有資料
+Function  Name:進階代碼資料維護
+Procedure Name:cmd_Tab1CarType_Show_Click
+Error Code:-2147217900	Error Descr:無效的資料行名稱 'ARnoDistribution'。
+
+記錄時間：2013/11/25 14:16:55 
+Form      Name:frm_FTP-匯入
+Function  Name:訂單接收
+Procedure Name:cmd_Import_Click
+Error Code:70	Error Descr:沒有使用權限
+
+記錄時間：2013/11/25 15:08:33 
+Form      Name:frm_FTP-匯入
+Function  Name:訂單接收
+Procedure Name:cmd_Import_Click
+Error Code:-2147168237	Error Descr:在此工作階段中無法啟動更多的異動。
+  
+
+記錄時間：2013/11/28 08:23:25 
+Form      Name:frm_FTP-匯入
+Function  Name:訂單接收
+Procedure Name:cmd_Import_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2013/12/02 09:50:54 
+Form      Name:frm_BaseData_OPCode_1-車輛種類-顯示所有資料
+Function  Name:進階代碼資料維護
+Procedure Name:cmd_Tab1CarType_Show_Click
+Error Code:-2147217900	Error Descr:無效的資料行名稱 'ARnoDistribution'。
+
+記錄時間：2013/12/02 09:51:43 
+Form      Name:frm_BaseData_OPCode_1-車輛種類-顯示所有資料
+Function  Name:進階代碼資料維護
+Procedure Name:cmd_Tab1CarType_Show_Click
+Error Code:-2147217900	Error Descr:無效的資料行名稱 'ARnoDistribution'。
+
+記錄時間：2013/12/02 09:52:32 
+Form      Name:frm_BaseData_OPCode_1-計費代碼-存檔
+Function  Name:進階代碼資料維護
+Procedure Name:cmd_Tab1CarType_Save_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2013/12/02 09:52:50 
+Form      Name:frm_BaseData_OPCode_1-計費代碼-存檔
+Function  Name:進階代碼資料維護
+Procedure Name:cmd_Tab1CarType_Save_Click
+Error Code:-2147217900	Error Descr:無效的資料行名稱 'ARnoDistribution'。
+
+記錄時間：2013/12/06 11:33:22 
+Form      Name:frm_Report_Other-其他排車一覽表-查詢
+Function  Name:其他排車報表
+Procedure Name:cmd_Tab1_Query_Click
+Error Code:91	Error Descr:沒有設定物件變數或 With 區塊變數
+
+記錄時間：2013/12/06 11:55:51 
+Form      Name:frm_Report_Other-退貨排車一覽表-轉 EXCEL
+Function  Name:其他排車報表
+Procedure Name:cmd_Tab0_SavetoExcel_Click
+Error Code:91	Error Descr:沒有設定物件變數或 With 區塊變數
+
+記錄時間：2013/12/06 13:32:40 
+Form      Name:frm_Report_Other--轉 EXCEL
+Function  Name:其他排車報表
+Procedure Name:cmd_Tab3SavetoExcel_Click
+Error Code:0	Error Descr:
+
+記錄時間：2013/12/06 13:34:43 
+Form      Name:frm_Report_Other--轉 EXCEL
+Function  Name:其他排車報表
+Procedure Name:cmd_Tab3SavetoExcel_Click
+Error Code:0	Error Descr:
+
+記錄時間：2013/12/06 13:35:26 
+Form      Name:frm_Report_Other--轉 EXCEL
+Function  Name:其他排車報表
+Procedure Name:cmd_Tab3SavetoExcel_Click
+Error Code:0	Error Descr:
+
+記錄時間：2013/12/06 13:49:16 
+Form      Name:frm_Report_Other-其他排車一覽表-查詢
+Function  Name:其他排車報表
+Procedure Name:cmd_Tab1_Query_Click
+Error Code:-2147217865	Error Descr:無效的物件名稱 '##temp'。
+
+記錄時間：2013/12/06 13:49:36 
+Form      Name:frm_Report_Other-其他排車一覽表-查詢
+Function  Name:其他排車報表
+Procedure Name:cmd_Tab1_Query_Click
+Error Code:-2147217865	Error Descr:無效的物件名稱 '##temp'。
+
+記錄時間：2013/12/06 14:06:59 
+Form      Name:frm_Report_Other-其他排車一覽表-查詢
+Function  Name:其他排車報表
+Procedure Name:cmd_Tab1_Query_Click
+Error Code:-2147217865	Error Descr:無效的物件名稱 '##temp'。
+
+記錄時間：2013/12/06 15:31:17 
+Form      Name:frm_Report_Other--轉 EXCEL
+Function  Name:其他排車報表
+Procedure Name:cmd_Tab3SavetoExcel_Click
+Error Code:424	Error Descr:此處需要物件
+
+記錄時間：2013/12/06 16:08:36 
+Form      Name:frm_Report_Other-其他排車一覽表-查詢
+Function  Name:其他排車報表
+Procedure Name:cmd_Tab1_Query_Click
+Error Code:3367	Error Descr:物件已經在集合物件中。無法附加。
+
+記錄時間：2013/12/06 16:08:58 
+Form      Name:frm_Report_Other-其他排車一覽表-查詢
+Function  Name:其他排車報表
+Procedure Name:cmd_Tab1_Query_Click
+Error Code:3367	Error Descr:物件已經在集合物件中。無法附加。
+
+記錄時間：2013/12/06 16:15:55 
+Form      Name:frm_Report_Other-其他排車一覽表-查詢
+Function  Name:其他排車報表
+Procedure Name:cmd_Tab1_Query_Click
+Error Code:3367	Error Descr:物件已經在集合物件中。無法附加。
+
+記錄時間：2014/01/02 15:12:59 
+Form      Name:frm_BaseData_UserSecurity-存檔
+Function  Name: User  使  用  權  限  設  定
+Procedure Name:cmd_Save_Click
+Error Code:9	Error Descr:陣列索引超出範圍
+
+記錄時間：2014/01/02 15:13:01 
+Form      Name:frm_BaseData_UserSecurity-存檔
+Function  Name: User  使  用  權  限  設  定
+Procedure Name:cmd_Save_Click
+Error Code:9	Error Descr:陣列索引超出範圍
+
+記錄時間：2014/01/13 09:25:26 
+Form      Name:frm_OP_RouteConfirm出車確認-確認路編
+Function  Name:出車確認
+Procedure Name:cmd_Tab0_Confirm_Click
+Error Code:-2147217873	Error Descr:PRIMARY KEY 違反條件約束 'PK_SDN01T'。無法在物件 'SDN01T' 上插入重複索引鍵。
+
+記錄時間：2014/01/13 09:31:55 
+Form      Name:frm_OP_RouteConfirm出車確認-確認路編
+Function  Name:出車確認
+Procedure Name:cmd_Tab0_Confirm_Click
+Error Code:-2147467259	Error Descr:交易 (處理序識別碼 83) 在 lock 資源上已經被另一個處理序鎖死並造成死結。請重新執行該交易。
+
+記錄時間：2014/01/13 09:39:58 
+Form      Name:frm_OP_RouteConfirm出車確認-確認路編
+Function  Name:出車確認
+Procedure Name:cmd_Tab0_Confirm_Click
+Error Code:-2147467259	Error Descr:交易 (處理序識別碼 83) 在 lock 資源上已經被另一個處理序鎖死並造成死結。請重新執行該交易。
+
+記錄時間：2014/01/13 17:45:29 
+Form      Name:frm_Report_Other-其他排車一覽表-查詢
+Function  Name:其他排車報表
+Procedure Name:cmd_Tab1_Query_Click
+Error Code:-2147217887	Error Descr:多重步驟操作發生錯誤。請檢查每一個狀態值。
+
+記錄時間：2014/01/14 10:03:30 
+Form      Name:frm_Report_Other-其他排車一覽表-查詢
+Function  Name:其他排車報表
+Procedure Name:cmd_Tab1_Query_Click
+Error Code:-2147217887	Error Descr:多重步驟操作發生錯誤。請檢查每一個狀態值。
+
+記錄時間：2014/01/14 10:05:23 
+Form      Name:frm_Report_Other-其他排車一覽表-查詢
+Function  Name:其他排車報表
+Procedure Name:cmd_Tab1_Query_Click
+Error Code:-2147217887	Error Descr:多重步驟操作發生錯誤。請檢查每一個狀態值。
+
+記錄時間：2014/01/14 10:10:57 
+Form      Name:frm_Report_Other-其他排車一覽表-查詢
+Function  Name:其他排車報表
+Procedure Name:cmd_Tab1_Query_Click
+Error Code:-2147217887	Error Descr:多重步驟操作發生錯誤。請檢查每一個狀態值。
+
+記錄時間：2014/01/14 10:11:48 
+Form      Name:frm_Report_Other-其他排車一覽表-查詢
+Function  Name:其他排車報表
+Procedure Name:cmd_Tab1_Query_Click
+Error Code:-2147217887	Error Descr:多重步驟操作發生錯誤。請檢查每一個狀態值。
+
+記錄時間：2014/01/14 10:22:02 
+Form      Name:frm_Report_Other-其他排車一覽表-查詢
+Function  Name:其他排車報表
+Procedure Name:cmd_Tab1_Query_Click
+Error Code:-2147217887	Error Descr:多重步驟操作發生錯誤。請檢查每一個狀態值。
+
+記錄時間：2014/01/14 11:23:58 
+Form      Name:frm_Report_Other-其他排車一覽表-查詢
+Function  Name:其他排車報表
+Procedure Name:cmd_Tab1_Query_Click
+Error Code:-2147217887	Error Descr:多重步驟操作發生錯誤。請檢查每一個狀態值。
+
+記錄時間：2014/01/14 11:24:07 
+Form      Name:frm_Report_Other-其他排車一覽表-查詢
+Function  Name:其他排車報表
+Procedure Name:cmd_Tab1_Query_Click
+Error Code:-2147217887	Error Descr:多重步驟操作發生錯誤。請檢查每一個狀態值。
+
+記錄時間：2014/01/14 11:34:36 
+Form      Name:frm_Report_Other-其他排車一覽表-查詢
+Function  Name:其他排車報表
+Procedure Name:cmd_Tab1_Query_Click
+Error Code:9	Error Descr:陣列索引超出範圍
+
+記錄時間：2014/01/14 17:00:46 
+Form      Name:frm_Other_OPTPlan-排車作業-建立路線編號
+Function  Name:其它排車作業
+Procedure Name:cmd_Tab0_CreateRoute_Click
+Error Code:-2147217833	Error Descr:轉換 numeric 到資料型別 numeric 時發生算術溢位錯誤。
+
+記錄時間：2014/01/14 17:37:06 
+Form      Name:frm_Other_OPTPlan-排車作業-建立路線編號
+Function  Name:其它排車作業
+Procedure Name:cmd_Tab0_CreateRoute_Click
+Error Code:-2147217833	Error Descr:轉換 numeric 到資料型別 numeric 時發生算術溢位錯誤。
+
+記錄時間：2014/01/14 17:48:59 
+Form      Name:frm_Other_OPTPlan-排車作業-建立路線編號
+Function  Name:其它排車作業
+Procedure Name:cmd_Tab0_CreateRoute_Click
+Error Code:-2147217833	Error Descr:轉換 numeric 到資料型別 numeric 時發生算術溢位錯誤。
+
+記錄時間：2014/01/14 17:52:52 
+Form      Name:frm_Other_OPTPlan-排車作業-建立路線編號
+Function  Name:其它排車作業
+Procedure Name:cmd_Tab0_CreateRoute_Click
+Error Code:-2147217833	Error Descr:轉換 numeric 到資料型別 numeric 時發生算術溢位錯誤。
+
+記錄時間：2014/01/14 17:52:57 
+Form      Name:frm_Other_OPTPlan-排車作業-建立路線編號
+Function  Name:其它排車作業
+Procedure Name:cmd_Tab0_CreateRoute_Click
+Error Code:-2147217833	Error Descr:轉換 numeric 到資料型別 numeric 時發生算術溢位錯誤。
+
+記錄時間：2014/01/14 17:58:01 
+Form      Name:frm_Other_OPTPlan-排車作業-建立路線編號
+Function  Name:其它排車作業
+Procedure Name:cmd_Tab0_CreateRoute_Click
+Error Code:-2147217833	Error Descr:轉換 numeric 到資料型別 numeric 時發生算術溢位錯誤。
+
+記錄時間：2014/01/14 17:59:56 
+Form      Name:frm_Other_OPTPlan-排車作業-建立路線編號
+Function  Name:其它排車作業
+Procedure Name:cmd_Tab0_CreateRoute_Click
+Error Code:-2147217833	Error Descr:轉換 numeric 到資料型別 numeric 時發生算術溢位錯誤。
+
+記錄時間：2014/01/14 18:07:10 
+Form      Name:frm_Other_OPTPlan-排車作業-建立路線編號
+Function  Name:其它排車作業
+Procedure Name:cmd_Tab0_CreateRoute_Click
+Error Code:-2147467259	Error Descr:交易 (處理序識別碼 58) 在 lock 資源上已經被另一個處理序鎖死並造成死結。請重新執行該交易。
+
+記錄時間：2014/01/15 11:34:54 
+Form      Name:frm_Report_Other-其他排車一覽表-查詢
+Function  Name:其他排車報表
+Procedure Name:cmd_Tab1_Query_Click
+Error Code:9	Error Descr:陣列索引超出範圍
+
+記錄時間：2014/01/15 16:08:15 
+Form      Name:frm_Report_DivideSku-其他排車一覽表-查詢
+Function  Name:花王分貨表
+Procedure Name:cmd_Tab1_Query_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2014/01/16 17:31:55 
+Form      Name:frm_Report_DivideSku-其他排車一覽表-查詢
+Function  Name:花王分貨表
+Procedure Name:cmd_Tab1_Query_Click
+Error Code:-2147217865	Error Descr:無效的物件名稱 '##DivideSku1'。
+
+記錄時間：2014/01/16 17:37:16 
+Form      Name:frm_Report_DivideSku--TIHI_LABEL
+Function  Name:花王分貨表
+Procedure Name:cmd_PrintReport_Click
+Error Code:-2147217900	Error Descr:INSERT INTO 陳述式包含以下未知的欄位名稱 'DeliveryDate'。確定您已正確地鍵入名稱，然後再試一次。
+
+記錄時間：2014/01/17 10:54:36 
+Form      Name:frm_Report_DivideSku--TIHI_LABEL
+Function  Name:花王分貨表
+Procedure Name:cmd_PrintReport_Click
+Error Code:-2147217900	Error Descr:INSERT INTO 陳述式包含以下未知的欄位名稱 'num1'。確定您已正確地鍵入名稱，然後再試一次。
+
+記錄時間：2014/01/17 13:11:34 
+Form      Name:frm_Report_DivideSku-其他排車一覽表-查詢
+Function  Name:花王分貨表
+Procedure Name:cmd_Tab1_Query_Click
+Error Code:3704	Error Descr:當物件關閉時，不允許操作。
+
+記錄時間：2014/01/20 10:47:18 
+Form      Name:frm_BaseData_OPCode-特殊需求-顯示所有資料
+Function  Name:   作   業   代  碼   資   料   維   護
+Procedure Name:cmd_Tab2SpecDemand_Show_Click
+Error Code:-2147217900	Error Descr:無效的資料行名稱 'custgroup'。
+
+記錄時間：2014/01/22 15:14:51 
+Form      Name:frm_FTP-匯入
+Function  Name:訂單接收
+Procedure Name:cmd_Import_Click
+Error Code:3021	Error Descr:可能是 BOF 或 EOF 的值為 True，或目前的資料錄已被刪除。所要求的操作需要目前的資料錄。
+
+記錄時間：2014/01/22 15:38:31 
+Form      Name:frm_FTP-匯入
+Function  Name:訂單接收
+Procedure Name:cmd_Import_Click
+Error Code:3021	Error Descr:可能是 BOF 或 EOF 的值為 True，或目前的資料錄已被刪除。所要求的操作需要目前的資料錄。
+
+記錄時間：2014/01/22 15:47:07 
+Form      Name:frm_FTP-匯入
+Function  Name:訂單接收
+Procedure Name:cmd_Import_Click
+Error Code:3021	Error Descr:可能是 BOF 或 EOF 的值為 True，或目前的資料錄已被刪除。所要求的操作需要目前的資料錄。
+
+記錄時間：2014/01/22 16:08:43 
+Form      Name:frm_FTP-匯入
+Function  Name:訂單接收
+Procedure Name:cmd_Import_Click
+Error Code:-2147217873	Error Descr:無法用唯一索引 'PK_ORDERDETAIL' 在物件 'ORDERDETAIL' 中插入重複的索引鍵資料列。
+
+記錄時間：2014/01/23 10:05:17 
+Form      Name:frm_FTP-匯入
+Function  Name:訂單接收
+Procedure Name:cmd_Import_Click
+Error Code:3021	Error Descr:可能是 BOF 或 EOF 的值為 True，或目前的資料錄已被刪除。所要求的操作需要目前的資料錄。
+
+記錄時間：2014/02/05 13:36:11 
+Form      Name:frm_OP_RouteConfirm出車確認-匯入未確認路編
+Function  Name:出車確認
+Procedure Name:cmd_Tab0_ConsigneeShow_Click
+Error Code:-2147467259	Error Descr:[DBNETLIB][ConnectionWrite (send()).]一般網路錯誤。 查閱您的網路文件。
+
+記錄時間：2014/02/06 14:41:17 
+Form      Name:frm_OP_TRPPlan-路線編號列表-路線編號查詢
+Function  Name: 排  車  作  業
+Procedure Name:cmd_Tab1_RouteNoQuery_Click
+Error Code:-2147217887	Error Descr:無法將非 Null 的資料行更新為 Null。
+
+記錄時間：2014/02/06 14:42:49 
+Form      Name:frm_OP_TRPPlan-路線編號列表-路線編號查詢
+Function  Name: 排  車  作  業
+Procedure Name:cmd_Tab1_RouteNoQuery_Click
+Error Code:-2147217887	Error Descr:無法將非 Null 的資料行更新為 Null。
+
+記錄時間：2014/02/06 17:05:10 
+Form      Name:frm_FTP-匯入
+Function  Name:訂單接收
+Procedure Name:cmd_Import_Click
+Error Code:-2147168242	Error Descr:沒有正在作用的異動。
+
+記錄時間：2014/02/06 17:18:38 
+Form      Name:frm_FTP-匯入
+Function  Name:訂單接收
+Procedure Name:cmd_Import_Click
+Error Code:70	Error Descr:沒有使用權限
+
+記錄時間：2014/02/12 13:35:33 
+Form      Name:frm_OP_RouteConfirm出車確認-確認路編
+Function  Name:出車確認
+Procedure Name:cmd_Tab0_Confirm_Click
+Error Code:-2147217873	Error Descr:PRIMARY KEY 違反條件約束 'PK_SDN02T'。無法在物件 'SDN02T' 上插入重複索引鍵。
+
+記錄時間：2014/02/13 11:36:09 
+Form      Name:frm_BaseData_OPCode-特殊需求-顯示所有資料
+Function  Name:   作   業   代  碼   資   料   維   護
+Procedure Name:cmd_Tab2SpecDemand_Show_Click
+Error Code:9	Error Descr:陣列索引超出範圍
+
+記錄時間：2014/02/13 11:45:05 
+Form      Name:frm_BaseData_OPCode-特殊需求細項-存檔
+Function  Name:   作   業   代  碼   資   料   維   護
+Procedure Name:cmd_Tab2SpecDemandDetail_Save_Click
+Error Code:-2147217900	Error Descr:關鍵字 'Where' 附近的語法不正確。
+
+記錄時間：2014/02/13 11:47:53 
+Form      Name:frm_BaseData_OPCode-特殊需求細項-存檔
+Function  Name:   作   業   代  碼   資   料   維   護
+Procedure Name:cmd_Tab2SpecDemandDetail_Save_Click
+Error Code:-2147217900	Error Descr:關鍵字 'Where' 附近的語法不正確。
+
+記錄時間：2014/02/13 11:49:01 
+Form      Name:frm_BaseData_OPCode-特殊需求細項-存檔
+Function  Name:   作   業   代  碼   資   料   維   護
+Procedure Name:cmd_Tab2SpecDemandDetail_Save_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2014/02/13 11:49:43 
+Form      Name:frm_BaseData_OPCode-特殊需求細項-存檔
+Function  Name:   作   業   代  碼   資   料   維   護
+Procedure Name:cmd_Tab2SpecDemandDetail_Save_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2014/02/13 11:50:08 
+Form      Name:frm_BaseData_OPCode-特殊需求細項-存檔
+Function  Name:   作   業   代  碼   資   料   維   護
+Procedure Name:cmd_Tab2SpecDemandDetail_Save_Click
+Error Code:-2147217900	Error Descr:行 1: '紅版' 附近的語法不正確。
+
+記錄時間：2014/02/13 11:51:01 
+Form      Name:frm_BaseData_OPCode-特殊需求細項-存檔
+Function  Name:   作   業   代  碼   資   料   維   護
+Procedure Name:cmd_Tab2SpecDemandDetail_Save_Click
+Error Code:-2147217900	Error Descr:行 1: '紅版' 附近的語法不正確。
+
+記錄時間：2014/02/13 11:51:33 
+Form      Name:frm_BaseData_OPCode-特殊需求細項-存檔
+Function  Name:   作   業   代  碼   資   料   維   護
+Procedure Name:cmd_Tab2SpecDemandDetail_Save_Click
+Error Code:-2147217900	Error Descr:行 1: '紅版' 附近的語法不正確。
+
+記錄時間：2014/02/13 13:52:50 
+Form      Name:frm_BaseData_OPCode-特殊需求-顯示所有資料
+Function  Name:   作   業   代  碼   資   料   維   護
+Procedure Name:cmd_Tab2SpecDemand_Show_Click
+Error Code:9	Error Descr:陣列索引超出範圍
+
+記錄時間：2014/02/13 13:56:00 
+Form      Name:frm_BaseData_OPCode-特殊需求細項-存檔
+Function  Name:   作   業   代  碼   資   料   維   護
+Procedure Name:cmd_Tab2SpecDemandDetail_Save_Click
+Error Code:-2147217900	Error Descr:關鍵字 'Where' 附近的語法不正確。
+
+記錄時間：2014/02/26 11:25:49 
+Form      Name:frm_OP_Other_OrderImport-訂單及客戶資料轉入
+Function  Name:其它訂單轉入及客戶異動維護
+Procedure Name:cmd_OrderImport_Click
+Error Code:-2147217900	Error Descr:無效的物件名稱 'bestwms..sku'。select od.storerkey ,o.orderkey , o.externorderkey , o.priority , orderlinenumber = (select top 1 orderdetail.orderlinenumber from orderdetail where orderdetail.sku = od.sku and orderdetail.orderkey = o.orderkey order by orderdetail.sku) , od.sku , s.descr , s.packkey , openqty = sum(od.openqty) , notes = cast(o.notes as varchar(300)) , o.consigneekey , o.c_company from orders o join orderdetail od on o.orderkey = od.orderkey join gv_skuxpack s on s.sku = od.sku and s.storerkey = od.storerkey where o.B_PHONE2 is null and o.priority in ('R','RC','A2B') group by od.storerkey ,o.orderkey , o.externorderkey , o.priority ,od.storerkey ,o.orderkey , od.externorderkey , o.priority , o.consigneekey , o.c_company ,od.sku, s.descr,cast(o.notes as varchar(300)),s.packkey order by od.storerkey , o.orderkey 
+
+記錄時間：2014/02/26 15:04:59 
+Form      Name:frm_Report_DivideSku-其他排車一覽表-查詢
+Function  Name:花王分貨表
+Procedure Name:cmd_Tab1_Query_Click
+Error Code:9	Error Descr:陣列索引超出範圍
+
+記錄時間：2014/02/26 15:11:56 
+Form      Name:frm_Report_DivideSku-其他排車一覽表-查詢
+Function  Name:花王分貨表
+Procedure Name:cmd_Tab1_Query_Click
+Error Code:9	Error Descr:陣列索引超出範圍
+
+記錄時間：2014/02/26 15:14:40 
+Form      Name:frm_Report_DivideSku-其他排車一覽表-查詢
+Function  Name:花王分貨表
+Procedure Name:cmd_Tab1_Query_Click
+Error Code:9	Error Descr:陣列索引超出範圍
+
+記錄時間：2014/02/26 15:24:07 
+Form      Name:frm_Report_DivideSku-其他排車一覽表-查詢
+Function  Name:花王分貨表
+Procedure Name:cmd_Tab1_Query_Click
+Error Code:9	Error Descr:陣列索引超出範圍
+
+記錄時間：2014/03/17 13:20:29 
+Form      Name:frm_BaseData_OPCode-特殊需求細項-存檔
+Function  Name:   作   業   代  碼   資   料   維   護
+Procedure Name:cmd_Tab2SpecDemandDetail_Save_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2014/03/17 13:20:35 
+Form      Name:frm_BaseData_OPCode-特殊需求細項-存檔
+Function  Name:   作   業   代  碼   資   料   維   護
+Procedure Name:cmd_Tab2SpecDemandDetail_Save_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2014/03/17 13:21:43 
+Form      Name:frm_BaseData_OPCode-特殊需求細項-存檔
+Function  Name:   作   業   代  碼   資   料   維   護
+Procedure Name:cmd_Tab2SpecDemandDetail_Save_Click
+Error Code:-2147217900	Error Descr:行 1: '8*6推疊' 附近的語法不正確。
+
+記錄時間：2014/03/17 13:23:12 
+Form      Name:frm_BaseData_OPCode-特殊需求細項-存檔
+Function  Name:   作   業   代  碼   資   料   維   護
+Procedure Name:cmd_Tab2SpecDemandDetail_Save_Click
+Error Code:-2147217900	Error Descr:行 1: '推疊方式8*6' 附近的語法不正確。
+
+記錄時間：2014/03/18 14:03:27 
+Form      Name:frm_Report_Other-退貨簽收單-查詢
+Function  Name:其他排車報表
+Procedure Name:cmd_Tab0_Query_Click
+Error Code:-2147217900	Error Descr:關鍵字 'as' 附近的語法不正確。
+
+記錄時間：2014/03/18 14:04:16 
+Form      Name:frm_Report_Other-退貨簽收單-查詢
+Function  Name:其他排車報表
+Procedure Name:cmd_Tab0_Query_Click
+Error Code:-2147217900	Error Descr:關鍵字 'as' 附近的語法不正確。
+
+記錄時間：2014/04/08 16:34:15 
+Form      Name:frm_OP_ManualOrders-訂單維護-存檔-資料存檔
+Function  Name:訂單維護作業 
+Procedure Name:Form SubProgram SaveOrdersData
+Error Code:-2147217833	Error Descr:字串或二進位資料會被截斷。
+
+記錄時間：2014/04/08 17:04:37 
+Form      Name:frm_OP_ManualOrders-訂單維護-存檔-資料存檔
+Function  Name:訂單維護作業 
+Procedure Name:Form SubProgram SaveOrdersData
+Error Code:-2147217900	Error Descr:行 1: 'C_ZIP' 附近的語法不正確。
+
+記錄時間：2014/04/08 17:05:10 
+Form      Name:frm_OP_ManualOrders-訂單維護-存檔-資料存檔
+Function  Name:訂單維護作業 
+Procedure Name:Form SubProgram SaveOrdersData
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2014/04/10 11:34:01 
+Form      Name:frm_BaseData_ConsigCar-客戶資料-存檔
+Function  Name:客戶/車輛/貨運公司 基本資料維護作業
+Procedure Name:cmd_Tab0_Save_Click
+Error Code:3421	Error Descr:應用程式目前的操作所使用的值是個錯誤的類型。
+
+記錄時間：2014/04/10 11:34:43 
+Form      Name:frm_BaseData_ConsigCar-客戶資料-存檔
+Function  Name:客戶/車輛/貨運公司 基本資料維護作業
+Procedure Name:cmd_Tab0_Save_Click
+Error Code:3421	Error Descr:應用程式目前的操作所使用的值是個錯誤的類型。
+
+記錄時間：2014/04/22 08:51:29 
+Form      Name:frm_FTP-匯入
+Function  Name:訂單接收
+Procedure Name:cmd_Import_Click
+Error Code:-2147217887	Error Descr:多重步驟操作發生錯誤。請檢查每一個狀態值。
+
+記錄時間：2014/04/22 08:52:04 
+Form      Name:frm_FTP-匯入
+Function  Name:訂單接收
+Procedure Name:cmd_Import_Click
+Error Code:-2147217887	Error Descr:多重步驟操作發生錯誤。請檢查每一個狀態值。
+
+記錄時間：2014/05/20 14:33:48 
+Form      Name:frm_OP_Other_OrderImport-訂單及客戶資料轉入
+Function  Name:其它訂單轉入及客戶異動維護
+Procedure Name:cmd_OrderImport_Click
+Error Code:3705	Error Descr:當物件開啟時，不允許操作。select od.storerkey , o.orderkey , o.externorderkey , o.b_company, o.buyerpo, orderdate = convert(char(8),o.orderdate,112), deliverydate = convert(char(8),o.deliverydate,112), o.priority , od.orderlinenumber, od.externlineno, od.otheruom, od.lottable03, od.retailsku, od.sku , s.descr , s.packkey , openqty = sum(od.openqty) , notes = cast(o.notes as varchar(300)) , o.consigneekey , o.c_company from orders o join orderdetail od on o.orderkey = od.orderkey join gv_skuxpack s on s.sku = od.sku and s.storerkey = od.storerkey where  o.priority in ('R','RC','A2B') and o.storerkey = 'LLFA01' and o.B_PHONE2 is null group by od.storerkey ,o.orderkey , o.externorderkey , o.priority ,od.storerkey ,o.orderkey , od.externorderkey , o.priority , o.consigneekey , o.c_company ,od.sku, s.descr,cast(o.notes as varchar(300)),s.packkey ,orderlinenumber,o.b_company,o.buyerpo,convert(char(8),o.orderdate,112),convert(char(8),o.deliverydate,112),od.externlineno,od.otheruom,od.lottable03,od.retailsku order by o.orderkey ,orderlinenumber 
+
+記錄時間：2014/05/20 16:33:47 
+Form      Name:frm_OP_OrderImport-訂單及客戶資料轉入
+Function  Name:一般訂單轉入及客戶異動維護
+Procedure Name:cmd_OrderImport_Click
+Error Code:-2147217913	Error Descr:將 varchar 數值 '0.14' 轉換成資料型別為 int 的資料行語法錯誤。
+
+記錄時間：2014/05/20 16:34:07 
+Form      Name:frm_OP_OrderImport-訂單及客戶資料轉入
+Function  Name:一般訂單轉入及客戶異動維護
+Procedure Name:cmd_OrderImport_Click
+Error Code:-2147217913	Error Descr:將 varchar 數值 '0.14' 轉換成資料型別為 int 的資料行語法錯誤。
+
+記錄時間：2014/05/20 16:34:44 
+Form      Name:frm_OP_OrderImport-訂單及客戶資料轉入
+Function  Name:一般訂單轉入及客戶異動維護
+Procedure Name:cmd_OrderImport_Click
+Error Code:-2147217913	Error Descr:將 varchar 數值 '0.14' 轉換成資料型別為 int 的資料行語法錯誤。
+
+記錄時間：2014/05/20 16:35:05 
+Form      Name:frm_OP_OrderImport-訂單及客戶資料轉入
+Function  Name:一般訂單轉入及客戶異動維護
+Procedure Name:cmd_OrderImport_Click
+Error Code:-2147217913	Error Descr:將 varchar 數值 '0.14' 轉換成資料型別為 int 的資料行語法錯誤。
+
+記錄時間：2014/05/20 16:53:00 
+Form      Name:frm_OP_OrderImport-訂單及客戶資料轉入
+Function  Name:一般訂單轉入及客戶異動維護
+Procedure Name:cmd_OrderImport_Click
+Error Code:3704	Error Descr:當物件關閉時，不允許操作。
+
+記錄時間：2014/05/21 11:17:28 
+Form      Name:frm_BaseData_ConsigCar-客戶資料-存檔
+Function  Name:客戶/車輛/貨運公司 基本資料維護作業
+Procedure Name:cmd_Tab0_Save_Click
+Error Code:13	Error Descr:型態不符
+
+記錄時間：2014/05/21 11:17:37 
+Form      Name:frm_BaseData_ConsigCar-客戶資料-存檔
+Function  Name:客戶/車輛/貨運公司 基本資料維護作業
+Procedure Name:cmd_Tab0_Save_Click
+Error Code:13	Error Descr:型態不符
+
+記錄時間：2014/05/21 18:37:15 
+Form      Name:frm_OP_SDNConfirm-訂單查詢
+Function  Name:簽單確認
+Procedure Name:Form 內部 SubProgram Display_OrderData_OneReceiptNo
+Error Code:3021	Error Descr:可能是 BOF 或 EOF 的值為 True，或目前的資料錄已被刪除。所要求的操作需要目前的資料錄。
+
+記錄時間：2014/05/21 18:37:26 
+Form      Name:frm_OP_SDNConfirm-訂單查詢
+Function  Name:簽單確認
+Procedure Name:Form 內部 SubProgram Display_OrderData_OneReceiptNo
+Error Code:3021	Error Descr:可能是 BOF 或 EOF 的值為 True，或目前的資料錄已被刪除。所要求的操作需要目前的資料錄。
+
+記錄時間：2014/05/21 18:38:00 
+Form      Name:frm_OP_SDNConfirm-訂單查詢
+Function  Name:簽單確認
+Procedure Name:Form 內部 SubProgram Display_OrderData_OneReceiptNo
+Error Code:3021	Error Descr:可能是 BOF 或 EOF 的值為 True，或目前的資料錄已被刪除。所要求的操作需要目前的資料錄。
+
+記錄時間：2014/05/21 18:38:17 
+Form      Name:frm_OP_SDNConfirm-訂單查詢
+Function  Name:簽單確認
+Procedure Name:Form 內部 SubProgram Display_OrderData_OneReceiptNo
+Error Code:3021	Error Descr:可能是 BOF 或 EOF 的值為 True，或目前的資料錄已被刪除。所要求的操作需要目前的資料錄。
+
+記錄時間：2014/05/21 18:38:48 
+Form      Name:frm_OP_SDNConfirm-訂單查詢
+Function  Name:簽單確認
+Procedure Name:Form 內部 SubProgram Display_OrderData_OneReceiptNo
+Error Code:3021	Error Descr:可能是 BOF 或 EOF 的值為 True，或目前的資料錄已被刪除。所要求的操作需要目前的資料錄。
+
+記錄時間：2014/05/21 18:41:56 
+Form      Name:frm_OP_SDNConfirm-訂單查詢
+Function  Name:簽單確認
+Procedure Name:Form 內部 SubProgram Display_OrderData_OneReceiptNo
+Error Code:3021	Error Descr:可能是 BOF 或 EOF 的值為 True，或目前的資料錄已被刪除。所要求的操作需要目前的資料錄。
+
+記錄時間：2014/06/18 17:14:39 
+Form      Name:frm_OP_SDNConfirm-訂單查詢
+Function  Name:簽單確認
+Procedure Name:Form 內部 SubProgram Display_OrderData_OneReceiptNo
+Error Code:3021	Error Descr:可能是 BOF 或 EOF 的值為 True，或目前的資料錄已被刪除。所要求的操作需要目前的資料錄。
+
+記錄時間：2014/06/18 17:14:44 
+Form      Name:frm_OP_SDNConfirm-訂單查詢
+Function  Name:簽單確認
+Procedure Name:Form 內部 SubProgram Display_OrderData_OneReceiptNo
+Error Code:3021	Error Descr:可能是 BOF 或 EOF 的值為 True，或目前的資料錄已被刪除。所要求的操作需要目前的資料錄。
+
+記錄時間：2014/06/20 18:26:07 
+Form      Name:frm_OP_Other_OrderImport-訂單及客戶資料轉入
+Function  Name:其它訂單轉入及客戶異動維護
+Procedure Name:cmd_OrderImport_Click
+Error Code:3705	Error Descr:當物件開啟時，不允許操作。select od.storerkey , o.orderkey , o.externorderkey , o.b_company, o.customerorderkey, orderdate = convert(char(8),o.orderdate,112), deliverydate = convert(char(8),o.deliverydate,112), o.priority , od.orderlinenumber, od.externlineno, od.otheruom, od.lottable03, od.retailsku, od.sku , s.descr , s.packkey , openqty = sum(od.openqty) , notes = cast(o.notes as varchar(300)) , o.consigneekey , o.c_company from orders o join orderdetail od on o.orderkey = od.orderkey join gv_skuxpack s on s.sku = od.sku and s.storerkey = od.storerkey where  o.priority in ('R','RC','A2B') and o.storerkey in ('LLFA01','LMBO01') and o.B_PHONE2 is null group by od.storerkey ,o.orderkey , o.externorderkey , o.priority ,od.storerkey ,o.orderkey , od.externorderkey , o.priority , o.consigneekey , o.c_company ,od.sku, s.descr,cast(o.notes as varchar(300)),s.packkey ,orderlinenumber,o.b_company,o.buyerpo,o.CustomerOrderkey,convert(char(8),o.orderdate,112),convert(char(8),o.deliverydate,112),od.externlineno,od.otheruom,od.lottable03,od.retailsku order by o.orderkey ,orderlinenumber 
+
+記錄時間：2014/06/20 18:26:18 
+Form      Name:frm_OP_Other_OrderImport-訂單及客戶資料轉入
+Function  Name:其它訂單轉入及客戶異動維護
+Procedure Name:cmd_OrderImport_Click
+Error Code:3705	Error Descr:當物件開啟時，不允許操作。select od.storerkey , o.orderkey , o.externorderkey , o.b_company, o.customerorderkey, orderdate = convert(char(8),o.orderdate,112), deliverydate = convert(char(8),o.deliverydate,112), o.priority , od.orderlinenumber, od.externlineno, od.otheruom, od.lottable03, od.retailsku, od.sku , s.descr , s.packkey , openqty = sum(od.openqty) , notes = cast(o.notes as varchar(300)) , o.consigneekey , o.c_company from orders o join orderdetail od on o.orderkey = od.orderkey join gv_skuxpack s on s.sku = od.sku and s.storerkey = od.storerkey where  o.priority in ('R','RC','A2B') and o.storerkey in ('LLFA01','LMBO01') and o.B_PHONE2 is null group by od.storerkey ,o.orderkey , o.externorderkey , o.priority ,od.storerkey ,o.orderkey , od.externorderkey , o.priority , o.consigneekey , o.c_company ,od.sku, s.descr,cast(o.notes as varchar(300)),s.packkey ,orderlinenumber,o.b_company,o.buyerpo,o.CustomerOrderkey,convert(char(8),o.orderdate,112),convert(char(8),o.deliverydate,112),od.externlineno,od.otheruom,od.lottable03,od.retailsku order by o.orderkey ,orderlinenumber 
+
+記錄時間：2014/06/20 18:30:02 
+Form      Name:frm_OP_Other_OrderImport-訂單及客戶資料轉入
+Function  Name:其它訂單轉入及客戶異動維護
+Procedure Name:cmd_OrderImport_Click
+Error Code:-2147168242	Error Descr:沒有正在作用的異動。insert into BestWMS..asndetail (asnKey,asnLineNumber,ExternLineNo,SKU,Skudescription,StorerKey,QtyOrdered,packkey,OtherUOM,RetailSku) values( '0000000006','00001','0001000        ','D38183110           ','香滿室中性地板劑玫瑰1.8KG補(II)                             ','LMBO01         ','5','D38183110 ','','') 
+
+記錄時間：2014/06/20 18:31:02 
+Form      Name:frm_OP_Other_OrderImport-訂單及客戶資料轉入
+Function  Name:其它訂單轉入及客戶異動維護
+Procedure Name:cmd_OrderImport_Click
+Error Code:-2147168242	Error Descr:沒有正在作用的異動。insert into BestWMS..asndetail (asnKey,asnLineNumber,ExternLineNo,SKU,Skudescription,StorerKey,QtyOrdered,packkey,OtherUOM,RetailSku) values( '0000000012','00001','0001000        ','D38183110           ','香滿室中性地板劑玫瑰1.8KG補(II)                             ','LMBO01         ','5','D38183110 ','','') 
+
+記錄時間：2014/06/23 16:03:00 
+Form      Name:frm_OP_Other_OrderImport-訂單及客戶資料轉入
+Function  Name:其它訂單轉入及客戶異動維護
+Procedure Name:cmd_OrderImport_Click
+Error Code:-2147217873	Error Descr:PRIMARY KEY 違反條件約束 'PK_ORT03W'。無法在物件 'ORT03W' 上插入重複索引鍵。insert into BestWMS..asndetail (asnKey,asnLineNumber,ExternLineNo,SKU,Skudescription,StorerKey,QtyOrdered,packkey,OtherUOM,RetailSku) values( '0000000091','00019','0019000        ','D40300020           ','全效強淨柔軟洗衣精3KG(IV)                                   ','LMBO01         ','3','D40300020 ','','') 
+
+記錄時間：2014/06/28 11:39:27 
+Form      Name:frm_OP_Other_OrderImport-訂單及客戶資料轉入
+Function  Name:其它訂單轉入及客戶異動維護
+Procedure Name:cmd_OrderImport_Click
+Error Code:-2147217865	Error Descr:無效的物件名稱 'BestWMS..asn'。insert into BestWMS..asn (asnKey,StorerKey,externasnkey , sellersreference,asntype,notes,SellersReference2,OtherReference,ASNDate,VesselDate) values( '0000000001','LMBO01         ','14000825','10000497            ','CO','','','                                                            ','20140619','20140619') 
+
+記錄時間：2014/06/30 15:27:44 
+Form      Name:frm_OP_Other_OrderImport-訂單及客戶資料轉入
+Function  Name:其它訂單轉入及客戶異動維護
+Procedure Name:cmd_OrderImport_Click
+Error Code:3704	Error Descr:當物件關閉時，不允許操作。SELECT RTRIM(Code) AS 代碼, RTRIM(Description) AS 搬運工具 From CodeLKUP Where ListName = 'MOVETOOL'
+
+記錄時間：2014/06/30 15:29:20 
+Form      Name:frm_OP_Other_OrderImport-訂單及客戶資料轉入
+Function  Name:其它訂單轉入及客戶異動維護
+Procedure Name:cmd_OrderImport_Click
+Error Code:3705	Error Descr:當物件開啟時，不允許操作。select od.storerkey , o.orderkey , o.externorderkey , o.b_company, o.customerorderkey, orderdate = convert(char(8),o.orderdate,112), deliverydate = convert(char(8),o.deliverydate,112), o.priority , od.orderlinenumber, od.externlineno, od.otheruom, od.lottable03, od.retailsku, od.sku , s.descr , s.packkey , openqty = sum(od.openqty) , notes = cast(o.notes as varchar(300)) , o.consigneekey , o.c_company from orders o join orderdetail od on o.orderkey = od.orderkey join gv_skuxpack s on s.sku = od.sku and s.storerkey = od.storerkey where  o.priority in ('R','RC','A2B') and o.storerkey in ('LLFA01','LMBO01') and o.B_PHONE2 is null group by od.storerkey ,o.orderkey , o.externorderkey , o.priority ,od.storerkey ,o.orderkey , od.externorderkey , o.priority , o.consigneekey , o.c_company ,od.sku, s.descr,cast(o.notes as varchar(300)),s.packkey ,orderlinenumber,o.b_company,o.buyerpo,o.CustomerOrderkey,convert(char(8),o.orderdate,112),convert(char(8),o.deliverydate,112),od.externlineno,od.otheruom,od.lottable03,od.retailsku order by o.orderkey ,orderlinenumber 
+
+記錄時間：2014/07/01 10:02:39 
+Form      Name:frm_OP_Other_OrderImport-訂單及客戶資料轉入
+Function  Name:其它訂單轉入及客戶異動維護
+Procedure Name:cmd_OrderImport_Click
+Error Code:-2147217900	Error Descr:行 1: 'openqty' 附近的語法不正確。select od.storerkey , o.orderkey , o.externorderkey , o.b_company, o.customerorderkey, orderdate = convert(char(8),o.orderdate,112), deliverydate = convert(char(8),o.deliverydate,112), o.priority , od.orderlinenumber, od.externlineno, od.otheruom, od.lottable03, od.retailsku, od.sku , s.descr , s.packkey , priority = isnull(o.externordertype,o.priority) openqty = sum(od.openqty) , notes = cast(o.notes as varchar(300)) , o.consigneekey , o.c_company from orders o join orderdetail od on o.orderkey = od.orderkey join gv_skuxpack s on s.sku = od.sku and s.storerkey = od.storerkey where  o.priority in ('R','RC','A2B') and o.storerkey in ('LLFA01','LMBO01') and o.B_PHONE2 is null group by od.storerkey ,o.orderkey , o.externorderkey , o.priority ,od.storerkey ,o.orderkey , od.externorderkey , o.priority , o.consigneekey , o.c_company ,od.sku, s.descr,cast(o.notes as varchar(300)),s.packkey ,orderlinenumber,o.b_company,o.buyerpo,o.CustomerOrderkey,convert(char(8),o.orderdate,112),convert(char(8),o.deliverydate,112),od.externlineno,od.otheruom,od.lottable03,od.retailsku order by o.orderkey ,orderlinenumber 
+
+記錄時間：2014/07/01 10:02:55 
+Form      Name:frm_OP_Other_OrderImport-訂單及客戶資料轉入
+Function  Name:其它訂單轉入及客戶異動維護
+Procedure Name:cmd_OrderImport_Click
+Error Code:-2147217900	Error Descr:資料行 'o.ExternOrderType' 在選取清單中無效，因為它並未包含在彙總函數或 GROUP BY 子句中。select od.storerkey , o.orderkey , o.externorderkey , o.b_company, o.customerorderkey, orderdate = convert(char(8),o.orderdate,112), deliverydate = convert(char(8),o.deliverydate,112), o.priority , od.orderlinenumber, od.externlineno, od.otheruom, od.lottable03, od.retailsku, od.sku , s.descr , s.packkey , priority = isnull(o.externordertype,o.priority), openqty = sum(od.openqty) , notes = cast(o.notes as varchar(300)) , o.consigneekey , o.c_company from orders o join orderdetail od on o.orderkey = od.orderkey join gv_skuxpack s on s.sku = od.sku and s.storerkey = od.storerkey where  o.priority in ('R','RC','A2B') and o.storerkey in ('LLFA01','LMBO01') and o.B_PHONE2 is null group by od.storerkey ,o.orderkey , o.externorderkey , o.priority ,od.storerkey ,o.orderkey , od.externorderkey , o.priority , o.consigneekey , o.c_company ,od.sku, s.descr,cast(o.notes as varchar(300)),s.packkey ,orderlinenumber,o.b_company,o.buyerpo,o.CustomerOrderkey,convert(char(8),o.orderdate,112),convert(char(8),o.deliverydate,112),od.externlineno,od.otheruom,od.lottable03,od.retailsku order by o.orderkey ,orderlinenumber 
+
+記錄時間：2014/07/01 11:39:26 
+Form      Name:frm_OP_SDNConfirm-異常訂單
+Function  Name:簽單確認
+Procedure Name:cmd_OneOrder_NoDelivery_Click
+Error Code:-2147217900	Error Descr:無效的資料行名稱 'potype'。
+
+記錄時間：2014/07/02 18:01:51 
+Form      Name:frm_OP_Other_OrderImport-訂單及客戶資料轉入
+Function  Name:其它訂單轉入及客戶異動維護
+Procedure Name:cmd_OrderImport_Click
+Error Code:-2147467259	Error Descr:交易 (處理序識別碼 66) 在 lock 資源上已經被另一個處理序鎖死並造成死結。請重新執行該交易。select od.storerkey , o.orderkey , o.externorderkey , o.b_company, o.customerorderkey, orderdate = convert(char(8),o.orderdate,112), deliverydate = convert(char(8),o.deliverydate,112), o.priority , od.orderlinenumber, od.externlineno, od.otheruom, od.lottable03, od.retailsku, od.sku , s.descr , s.packkey , priority = isnull(o.externordertype,o.priority), openqty = sum(od.openqty) , notes = cast(o.notes as varchar(300)) , o.consigneekey , o.c_company from orders o join orderdetail od on o.orderkey = od.orderkey join gv_skuxpack s on s.sku = od.sku and s.storerkey = od.storerkey where  o.priority in ('R','RC','A2B') and o.storerkey in ('LLFA01','LMBO01') and convert(char(8),o.adddate,112) = '20140701' group by od.storerkey ,o.orderkey , o.externorderkey , o.priority ,od.storerkey ,o.orderkey , od.externorderkey , o.priority , o.consigneekey , o.c_company ,od.sku, s.descr,cast(o.notes as varchar(300)),s.packkey ,orderlinenumber,o.b_company,o.buyerpo,o.CustomerOrderkey,convert(char(8),o.orderdate,112),convert(char(8),o.deliverydate,112),od.externlineno,od.otheruom,od.lottable03,od.retailsku,isnull(o.externordertype,o.priority) order by o.orderkey ,orderlinenumber 
+
+記錄時間：2014/07/10 10:43:54 
+Form      Name:frm_OP_RouteConfirm-出車確認-路線編號刪除
+Function  Name:出車確認
+Procedure Name:cmd_Tab2_RouteNoDelete_Click
+Error Code:3021	Error Descr:可能是 BOF 或 EOF 的值為 True，或目前的資料錄已被刪除。所要求的操作需要目前的資料錄。
+
+記錄時間：2014/07/10 10:44:12 
+Form      Name:frm_OP_RouteConfirm-出車確認-路線編號刪除
+Function  Name:出車確認
+Procedure Name:cmd_Tab2_RouteNoDelete_Click
+Error Code:3021	Error Descr:可能是 BOF 或 EOF 的值為 True，或目前的資料錄已被刪除。所要求的操作需要目前的資料錄。
+
+記錄時間：2014/07/17 16:51:18 
+Form      Name:frm_OP_RouteConfirm-出車確認 >> Tab2路線編號查詢
+Function  Name:出車確認
+Procedure Name:cmd_Tab2_RouteNoQuery_Click
+Error Code:-2147217900	Error Descr:資料行 's1.DELIVERY_DATE' 在選取清單中無效，因為它並未包含在彙總函數中且沒有 GROUP BY 子句。
+
+記錄時間：2014/07/17 16:51:22 
+Form      Name:frm_OP_RouteConfirm-出車確認 >> Tab2路線編號查詢
+Function  Name:出車確認
+Procedure Name:cmd_Tab2_RouteNoQuery_Click
+Error Code:-2147217900	Error Descr:資料行 's1.DELIVERY_DATE' 在選取清單中無效，因為它並未包含在彙總函數中且沒有 GROUP BY 子句。
+
+記錄時間：2014/07/28 10:44:40 
+Form      Name:frm_OP_RouteConfirm出車確認-確認路編
+Function  Name:出車確認
+Procedure Name:cmd_Tab0_Confirm_Click
+Error Code:-2147217873	Error Descr:PRIMARY KEY 違反條件約束 'PK_SDN02T'。無法在物件 'SDN02T' 上插入重複索引鍵。
+
+記錄時間：2014/08/01 14:10:21 
+Form      Name:frm_OP_Other_OrderImport-訂單及客戶資料轉入
+Function  Name:其它訂單轉入及客戶異動維護
+Procedure Name:cmd_OrderImport_Click
+Error Code:-2147217900	Error Descr:無效的資料行名稱 'ordertype'。select od.storerkey , o.orderkey , o.externorderkey , o.b_company, o.customerorderkey, orderdate = convert(char(8),o.orderdate,112), deliverydate = convert(char(8),o.deliverydate,112), priority = rtrim(o.priority) ,ordertype = rtrim(isnull(o.ordertype,'')), od.orderlinenumber, od.externlineno, od.otheruom, od.lottable03, od.retailsku, od.sku , s.descr , s.packkey , openqty = sum(od.openqty) , notes = cast(o.notes as varchar(300)) , o.consigneekey , o.c_company, od.lottable06 from orders o join orderdetail od on o.orderkey = od.orderkey join gv_skuxpack s on s.sku = od.sku and s.storerkey = od.storerkey where  o.priority in ('R','RC','A2B') and o.storerkey in ('LLFA01','LMBO01') and  o.B_PHONE2 is null group by od.storerkey ,o.orderkey , o.externorderkey , o.priority ,od.storerkey ,o.orderkey , od.externorderkey , o.priority , o.consigneekey , o.c_company ,od.sku, s.descr,cast(o.notes as varchar(300)),s.packkey ,orderlinenumber,o.b_company,o.buyerpo,o.CustomerOrderkey,convert(char(8),o.orderdate,112),convert(char(8),o.deliverydate,112),od.externlineno,od.otheruom,od.lottable03,od.retailsku,od.lottable06 order by o.orderkey ,orderlinenumber 
+
+記錄時間：2014/08/01 14:11:46 
+Form      Name:frm_OP_Other_OrderImport-訂單及客戶資料轉入
+Function  Name:其它訂單轉入及客戶異動維護
+Procedure Name:cmd_OrderImport_Click
+Error Code:-2147217900	Error Descr:資料行 'o.ExternOrderType' 在選取清單中無效，因為它並未包含在彙總函數或 GROUP BY 子句中。select od.storerkey , o.orderkey , o.externorderkey , o.b_company, o.customerorderkey, orderdate = convert(char(8),o.orderdate,112), deliverydate = convert(char(8),o.deliverydate,112), priority = rtrim(o.priority) ,ordertype = rtrim(isnull(o.externordertype,'')), od.orderlinenumber, od.externlineno, od.otheruom, od.lottable03, od.retailsku, od.sku , s.descr , s.packkey , openqty = sum(od.openqty) , notes = cast(o.notes as varchar(300)) , o.consigneekey , o.c_company, od.lottable06 from orders o join orderdetail od on o.orderkey = od.orderkey join gv_skuxpack s on s.sku = od.sku and s.storerkey = od.storerkey where  o.priority in ('R','RC','A2B') and o.storerkey in ('LLFA01','LMBO01') and  o.B_PHONE2 is null group by od.storerkey ,o.orderkey , o.externorderkey , o.priority ,od.storerkey ,o.orderkey , od.externorderkey , o.priority , o.consigneekey , o.c_company ,od.sku, s.descr,cast(o.notes as varchar(300)),s.packkey ,orderlinenumber,o.b_company,o.buyerpo,o.CustomerOrderkey,convert(char(8),o.orderdate,112),convert(char(8),o.deliverydate,112),od.externlineno,od.otheruom,od.lottable03,od.retailsku,od.lottable06 order by o.orderkey ,orderlinenumber 
+
+記錄時間：2014/08/01 17:57:07 
+Form      Name:frm_OP_Other_OrderImport-訂單及客戶資料轉入
+Function  Name:其它訂單轉入及客戶異動維護
+Procedure Name:cmd_OrderImport_Click
+Error Code:-2147217900	Error Descr:無效的資料行名稱 'Lottable06'。insert into BestWMS..asndetail (asnKey,asnLineNumber,ExternLineNo,externasnkey,SKU,Skudescription,StorerKey,QtyOrdered,packkey,OtherUOM,RetailSku,UOM,Lottable06) values( '0000000508','00001','0001000        ','14000426','D40350030           ','全效強淨柔軟洗衣精3.5KG(IV)                                 ','LMBO01         ','4','D40350030 ','','','EA','162               ') 
+
+記錄時間：2014/08/12 17:05:20 
+Form      Name:frm_Report_TRPPlan-VLL上貨表-查詢
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab0_Query_Click
+Error Code:-2147467259	Error Descr:交易 (處理序識別碼 102) 在 lock 資源上已經被另一個處理序鎖死並造成死結。請重新執行該交易。
+
+記錄時間：2014/08/12 17:05:55 
+Form      Name:frm_Report_TRPPlan-VLL上貨表-查詢
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab0_Query_Click
+Error Code:-2147467259	Error Descr:交易 (處理序識別碼 102) 在 lock | communication buffer 資源上已經被另一個處理序鎖死並造成死結。請重新執行該交易。
+
+記錄時間：2014/08/29 12:00:25 
+Form      Name:frm_OP_RouteConfirm出車確認-確認路編
+Function  Name:出車確認
+Procedure Name:cmd_Tab0_Confirm_Click
+Error Code:-2147217873	Error Descr:PRIMARY KEY 違反條件約束 'PK_SDN02T'。無法在物件 'SDN02T' 上插入重複索引鍵。
+
+記錄時間：2014/09/09 09:23:18 
+Form      Name:frm_OP_SDNConfirm-未出訂單
+Function  Name:簽單確認
+Procedure Name:cmd_OnOrder_NoDelivery_Click
+Error Code:3021	Error Descr:可能是 BOF 或 EOF 的值為 True，或目前的資料錄已被刪除。所要求的操作需要目前的資料錄。
+
+記錄時間：2014/09/09 09:23:31 
+Form      Name:frm_OP_SDNConfirm-未出訂單
+Function  Name:簽單確認
+Procedure Name:cmd_OnOrder_NoDelivery_Click
+Error Code:3021	Error Descr:可能是 BOF 或 EOF 的值為 True，或目前的資料錄已被刪除。所要求的操作需要目前的資料錄。
+
+記錄時間：2014/09/09 09:24:29 
+Form      Name:frm_OP_SDNConfirm-未出訂單
+Function  Name:簽單確認
+Procedure Name:cmd_OnOrder_NoDelivery_Click
+Error Code:3021	Error Descr:可能是 BOF 或 EOF 的值為 True，或目前的資料錄已被刪除。所要求的操作需要目前的資料錄。
+
+記錄時間：2014/09/23 11:28:13 
+Form      Name:frm_FTP-匯入
+Function  Name:訂單接收
+Procedure Name:cmd_Import_Click
+Error Code:-2147220973	Error Descr:該傳輸無法連線到伺服器。
+
+
+記錄時間：2014/09/24 16:24:37 
+Form      Name:frm_OP_SDNAbnormal-未出訂單
+Function  Name:配送異常維護
+Procedure Name:cmd_OnOrder_NoDelivery_Click
+Error Code:3705	Error Descr:當物件開啟時，不允許操作。
+
+記錄時間：2014/09/25 10:16:29 
+Form      Name:frm_OP_Other_OrderImport-訂單及客戶資料轉入
+Function  Name:其它訂單轉入及客戶異動維護
+Procedure Name:cmd_OrderImport_Click
+Error Code:-2147217873	Error Descr:PRIMARY KEY 違反條件約束 'PK_ORT02W_TEMP'。無法在物件 'ORT02W_TEMP' 上插入重複索引鍵。select od.storerkey , o.orderkey , o.externorderkey , o.b_company, o.customerorderkey, orderdate = convert(char(8),o.orderdate,112), deliverydate = convert(char(8),o.deliverydate,112), priority = rtrim(o.priority) ,ordertype = rtrim(isnull(o.externordertype,'')), od.orderlinenumber, od.externlineno, od.otheruom, od.lottable03, od.retailsku, od.sku , s.descr , s.packkey , openqty = sum(od.openqty) , notes = cast(o.notes as varchar(300)) , o.consigneekey , o.c_company, od.lottable06 from orders o join orderdetail od on o.orderkey = od.orderkey join gv_skuxpack s on s.sku = od.sku and s.storerkey = od.storerkey where  o.priority in ('R','RC','A2B') and o.storerkey in ('LLFA01','LMBO01') and  o.B_PHONE2 is null group by od.storerkey ,o.orderkey , o.externorderkey , o.priority ,od.storerkey ,o.orderkey , od.externorderkey , o.priority , rtrim(isnull(o.externordertype,'')),o.consigneekey , o.c_company ,od.sku, s.descr,cast(o.notes as varchar(300)),s.packkey ,orderlinenumber,o.b_company,o.buyerpo,o.CustomerOrderkey,convert(char(8),o.orderdate,112),convert(char(8),o.deliverydate,112),od.externlineno,od.otheruom,od.lottable03,od.retailsku,od.lottable06 order by o.orderkey ,orderlinenumber 
+
+記錄時間：2014/09/25 11:21:00 
+Form      Name:frm_OP_Other_OrderImport-訂單及客戶資料轉入
+Function  Name:其它訂單轉入及客戶異動維護
+Procedure Name:cmd_OrderImport_Click
+Error Code:-2147217873	Error Descr:PRIMARY KEY 違反條件約束 'PK_ORT02W_TEMP'。無法在物件 'ORT02W_TEMP' 上插入重複索引鍵。select od.storerkey , o.orderkey , o.externorderkey , o.b_company, o.customerorderkey, orderdate = convert(char(8),o.orderdate,112), deliverydate = convert(char(8),o.deliverydate,112), priority = rtrim(o.priority) ,ordertype = rtrim(isnull(o.externordertype,'')), od.orderlinenumber, od.externlineno, od.otheruom, od.lottable03, od.retailsku, od.sku , s.descr , s.packkey , openqty = sum(od.openqty) , notes = cast(o.notes as varchar(300)) , o.consigneekey , o.c_company, od.lottable06 from orders o join orderdetail od on o.orderkey = od.orderkey join gv_skuxpack s on s.sku = od.sku and s.storerkey = od.storerkey where  o.priority in ('R','RC','A2B') and o.storerkey in ('LLFA01','LMBO01') and  o.B_PHONE2 is null group by od.storerkey ,o.orderkey , o.externorderkey , o.priority ,od.storerkey ,o.orderkey , od.externorderkey , o.priority , rtrim(isnull(o.externordertype,'')),o.consigneekey , o.c_company ,od.sku, s.descr,cast(o.notes as varchar(300)),s.packkey ,orderlinenumber,o.b_company,o.buyerpo,o.CustomerOrderkey,convert(char(8),o.orderdate,112),convert(char(8),o.deliverydate,112),od.externlineno,od.otheruom,od.lottable03,od.retailsku,od.lottable06 order by o.orderkey ,orderlinenumber 
+
+記錄時間：2014/09/26 11:47:01 
+Form      Name:frm_OP_Other_OrderImport-訂單及客戶資料轉入
+Function  Name:其它訂單轉入及客戶異動維護
+Procedure Name:cmd_OrderImport_Click
+Error Code:-2147217873	Error Descr:PRIMARY KEY 違反條件約束 'PK_ORT03W'。無法在物件 'ORT03W' 上插入重複索引鍵。select od.storerkey , o.orderkey , o.externorderkey , o.b_company, o.customerorderkey, orderdate = convert(char(8),o.orderdate,112), deliverydate = convert(char(8),o.deliverydate,112), priority = rtrim(o.priority) ,ordertype = rtrim(isnull(o.externordertype,'')), od.orderlinenumber, od.externlineno, od.otheruom, od.lottable03, od.retailsku, od.sku , s.descr , s.packkey , openqty = sum(od.openqty) , notes = cast(o.notes as varchar(300)) , o.consigneekey , o.c_company, od.lottable06 from orders o join orderdetail od on o.orderkey = od.orderkey join gv_skuxpack s on s.sku = od.sku and s.storerkey = od.storerkey where  o.priority in ('R','RC','A2B') and o.storerkey in ('LLFA01','LMBO01') and  o.B_PHONE2 is null group by od.storerkey ,o.orderkey , o.externorderkey , o.priority ,od.storerkey ,o.orderkey , od.externorderkey , o.priority , rtrim(isnull(o.externordertype,'')),o.consigneekey , o.c_company ,od.sku, s.descr,cast(o.notes as varchar(300)),s.packkey ,orderlinenumber,o.b_company,o.buyerpo,o.CustomerOrderkey,convert(char(8),o.orderdate,112),convert(char(8),o.deliverydate,112),od.externlineno,od.otheruom,od.lottable03,od.retailsku,od.lottable06 order by o.orderkey ,orderlinenumber 
+
+記錄時間：2014/10/02 10:38:55 
+Form      Name:frm_OP_Other_OrderImport-訂單及客戶資料轉入
+Function  Name:其它訂單轉入及客戶異動維護
+Procedure Name:cmd_OrderImport_Click
+Error Code:-2147217873	Error Descr:PRIMARY KEY 違反條件約束 'PK_ORT02W_TEMP'。無法在物件 'ORT02W_TEMP' 上插入重複索引鍵。insert into BestWMS..asndetail (asnKey,asnLineNumber,ExternLineNo,externasnkey,SKU,Skudescription,StorerKey,QtyOrdered,packkey,OtherUOM,RetailSku,UOM,Lottable06) values( '0000001561','00001','0001000        ','CO14003118','F11200010           ','愛的世界除蹣抗菌洗衣精2000G II                              ','LMBO01         ','6','F11200010 ','','','EA','162               ') 
+
+記錄時間：2014/10/21 13:42:24 
+Form      Name:frm_Pallet_CSVehicle_id_no調撥
+Function  Name:中南區車號匯入
+Procedure Name:cmd_Tab1_Query_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2014/10/21 13:43:12 
+Form      Name:frm_Pallet_CSVehicle_id_no調撥
+Function  Name:中南區車號匯入
+Procedure Name:cmd_Tab1_Query_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2014/10/21 13:43:35 
+Form      Name:frm_Pallet_CSVehicle_id_no調撥
+Function  Name:中南區車號匯入
+Procedure Name:cmd_Tab1_Query_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2014/10/21 15:34:46 
+Form      Name:frm_Pallet_CSVehicle_id_no調撥
+Function  Name:中南區車號匯入
+Procedure Name:cmd_Tab1_Query_Click
+Error Code:-2147217900	Error Descr:無效的資料行名稱 'CarNo'。
+
+記錄時間：2014/10/21 16:34:27 
+Form      Name:frm_Pallet_CSVehicle_id_no調撥
+Function  Name:中南區車號匯入
+Procedure Name:cmd_Tab1_Query_Click
+Error Code:-2147217900	Error Descr:無效的資料行名稱 'delivery_dtae'。
+
+記錄時間：2014/10/21 16:50:35 
+Form      Name:frm_Pallet_CSVehicle_id_no調撥
+Function  Name:中南區車號匯入
+Procedure Name:cmd_Tab1_Query_Click
+Error Code:5	Error Descr:程序呼叫或引數不正確
+
+記錄時間：2014/11/13 11:31:03 
+Form      Name:frm_OP_ManualOrders-訂單維護-訂單查詢
+Function  Name:訂單維護作業 
+Procedure Name:cmd_OrdersQuery_Click
+Error Code:-2147217900	Error Descr:'isnul' 為無法識別的 函數名稱。
+
+記錄時間：2014/11/13 11:31:06 
+Form      Name:frm_OP_ManualOrders-訂單維護-訂單查詢
+Function  Name:訂單維護作業 
+Procedure Name:cmd_OrdersQuery_Click
+Error Code:-2147217900	Error Descr:'isnul' 為無法識別的 函數名稱。
+
+記錄時間：2014/11/13 11:31:19 
+Form      Name:frm_OP_ManualOrders-訂單維護-訂單查詢
+Function  Name:訂單維護作業 
+Procedure Name:cmd_OrdersQuery_Click
+Error Code:-2147217900	Error Descr:資料行前置詞 'o' 與用於查詢中的資料表名稱或別名不符。
+
+記錄時間：2014/11/17 16:48:50 
+Form      Name:frm_OP_ManualOrders-訂單維護-存檔-資料存檔
+Function  Name:訂單維護作業 
+Procedure Name:Form SubProgram SaveOrdersData
+Error Code:-2147217900	Error Descr:行 1: 'C_ZIP' 附近的語法不正確。
+
+記錄時間：2014/11/26 11:57:20 
+Form      Name:frm_OP_SDNConfirm-訂單查詢
+Function  Name:簽單確認
+Procedure Name:Form 內部 SubProgram Display_OrderData_OneReceiptNo
+Error Code:94	Error Descr:Null 的使用不正確
+
+記錄時間：2014/11/26 11:58:06 
+Form      Name:frm_OP_SDNConfirm-訂單查詢
+Function  Name:簽單確認
+Procedure Name:Form 內部 SubProgram Display_OrderData_OneReceiptNo
+Error Code:-2147217900	Error Descr:行 1: 'priority' 附近的語法不正確。
+
+記錄時間：2014/11/27 14:55:12 
+Form      Name:frm_OP_ManualOrders-訂單維護-訂單查詢
+Function  Name:訂單維護作業 
+Procedure Name:cmd_OrdersQuery_Click
+Error Code:-2147217900	Error Descr:資料行前置詞 'o' 與用於查詢中的資料表名稱或別名不符。
+
+記錄時間：2014/11/27 18:22:31 
+Form      Name:frm_OP_ManualOrders-訂單維護-存檔-資料存檔
+Function  Name:訂單維護作業 
+Procedure Name:Form SubProgram SaveOrdersData
+Error Code:9	Error Descr:陣列索引超出範圍
+
+記錄時間：2014/11/27 18:25:09 
+Form      Name:frm_OP_ManualOrders-訂單維護-存檔-資料存檔
+Function  Name:訂單維護作業 
+Procedure Name:Form SubProgram SaveOrdersData
+Error Code:9	Error Descr:陣列索引超出範圍
+
+記錄時間：2014/11/27 18:29:57 
+Form      Name:frm_OP_ManualOrders-訂單維護-存檔-資料存檔
+Function  Name:訂單維護作業 
+Procedure Name:Form SubProgram SaveOrdersData
+Error Code:9	Error Descr:陣列索引超出範圍
+
+記錄時間：2014/11/27 18:31:53 
+Form      Name:frm_OP_ManualOrders-訂單維護-存檔-資料存檔
+Function  Name:訂單維護作業 
+Procedure Name:Form SubProgram SaveOrdersData
+Error Code:9	Error Descr:陣列索引超出範圍
+
+記錄時間：2014/11/27 18:33:19 
+Form      Name:frm_OP_ManualOrders-訂單維護-存檔-資料存檔
+Function  Name:訂單維護作業 
+Procedure Name:Form SubProgram SaveOrdersData
+Error Code:9	Error Descr:陣列索引超出範圍
+
+記錄時間：2014/11/27 18:36:56 
+Form      Name:frm_OP_ManualOrders-訂單維護-存檔-資料存檔
+Function  Name:訂單維護作業 
+Procedure Name:Form SubProgram SaveOrdersData
+Error Code:9	Error Descr:陣列索引超出範圍
+
+記錄時間：2014/11/27 18:38:45 
+Form      Name:frm_OP_ManualOrders-訂單維護-存檔-資料存檔
+Function  Name:訂單維護作業 
+Procedure Name:Form SubProgram SaveOrdersData
+Error Code:9	Error Descr:陣列索引超出範圍
+
+記錄時間：2014/11/27 18:45:01 
+Form      Name:frm_OP_ManualOrders-訂單維護-存檔-資料存檔
+Function  Name:訂單維護作業 
+Procedure Name:Form SubProgram SaveOrdersData
+Error Code:9	Error Descr:陣列索引超出範圍
+
+記錄時間：2014/11/27 18:52:48 
+Form      Name:frm_OP_ManualOrders-訂單維護-存檔-資料存檔
+Function  Name:訂單維護作業 
+Procedure Name:Form SubProgram SaveOrdersData
+Error Code:9	Error Descr:陣列索引超出範圍
+
+記錄時間：2014/11/28 09:19:34 
+Form      Name:frm_OP_ManualOrders-訂單維護-存檔-資料存檔
+Function  Name:訂單維護作業 
+Procedure Name:Form SubProgram SaveOrdersData
+Error Code:9	Error Descr:陣列索引超出範圍
+
+記錄時間：2014/11/28 09:30:50 
+Form      Name:frm_OP_ManualOrders-訂單維護-存檔-資料存檔
+Function  Name:訂單維護作業 
+Procedure Name:Form SubProgram SaveOrdersData
+Error Code:9	Error Descr:陣列索引超出範圍
+
+記錄時間：2014/11/28 09:32:26 
+Form      Name:frm_OP_ManualOrders-訂單維護-存檔-資料存檔
+Function  Name:訂單維護作業 
+Procedure Name:Form SubProgram SaveOrdersData
+Error Code:9	Error Descr:陣列索引超出範圍
+
+記錄時間：2014/11/28 11:43:11 
+Form      Name:frm_OP_TRPPlan--TIHI_LABEL
+Function  Name: 排  車  作  業
+Procedure Name:cmd_PrintReport_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2014/11/28 11:44:11 
+Form      Name:frm_OP_TRPPlan--TIHI_LABEL
+Function  Name: 排  車  作  業
+Procedure Name:cmd_PrintReport_Click
+Error Code:-2147217904	Error Descr:無值提供給一或多個必要參數。
+
+記錄時間：2014/11/28 11:44:21 
+Form      Name:frm_OP_TRPPlan--TIHI_LABEL
+Function  Name: 排  車  作  業
+Procedure Name:cmd_PrintReport_Click
+Error Code:-2147217904	Error Descr:無值提供給一或多個必要參數。
+
+記錄時間：2014/12/03 14:03:37 
+Form      Name:frm_FTP-匯入
+Function  Name:訂單接收
+Procedure Name:cmd_Import_Click
+Error Code:55	Error Descr:檔案已開啟
+
+記錄時間：2014/12/05 17:05:39 
+Form      Name:frm_OP_RouteConfirm出車確認-確認路編
+Function  Name:出車確認
+Procedure Name:cmd_Tab0_Confirm_Click
+Error Code:3705	Error Descr:當物件開啟時，不允許操作。
+
+記錄時間：2014/12/06 13:23:25 
+Form      Name:frm_OP_CutOrders-待切割訂單-訂單切割
+Function  Name:ㄧ單多車訂單切割
+Procedure Name:cmd_Tab1_CutOrders_Click
+Error Code:30009	Error Descr:不正確的資料列值。
+
+記錄時間：2014/12/06 13:38:13 
+Form      Name:frm_OP_SDNConfirm-訂單查詢
+Function  Name:簽單確認
+Procedure Name:Form 內部 SubProgram Display_OrderData_OneReceiptNo
+Error Code:-2147217900	Error Descr:行 1: 'sku' 附近的語法不正確。
+
+記錄時間：2014/12/06 13:39:14 
+Form      Name:frm_OP_SDNConfirm-訂單查詢
+Function  Name:簽單確認
+Procedure Name:Form 內部 SubProgram Display_OrderData_OneReceiptNo
+Error Code:-2147217900	Error Descr:行 1: 'sku' 附近的語法不正確。
+
+記錄時間：2014/12/06 14:42:50 
+Form      Name:frm_OP_SDNConfirm-訂單查詢
+Function  Name:簽單確認
+Procedure Name:Form 內部 SubProgram Display_OrderData_OneReceiptNo
+Error Code:-2147217900	Error Descr:行 1: '應收' 附近的語法不正確。
+
+記錄時間：2014/12/08 10:37:41 
+Form      Name:frm_Other_OPTPlan-退貨排車-匯入待排車訂單
+Function  Name:其它排車作業
+Procedure Name:cmd_Tab0_ImportOrders_Click
+Error Code:-2147217887	Error Descr:無法將非 Null 的資料行更新為 Null。
+
+記錄時間：2014/12/08 13:14:15 
+Form      Name:frm_Other_OPTPlan-退貨排車-匯入待排車訂單
+Function  Name:其它排車作業
+Procedure Name:cmd_Tab0_ImportOrders_Click
+Error Code:-2147217887	Error Descr:無法將非 Null 的資料行更新為 Null。
+
+記錄時間：2014/12/08 13:27:20 
+Form      Name:frm_Other_OPTPlan-退貨排車-匯入待排車訂單
+Function  Name:其它排車作業
+Procedure Name:cmd_Tab0_ImportOrders_Click
+Error Code:-2147217887	Error Descr:無法將非 Null 的資料行更新為 Null。
+
+記錄時間：2014/12/11 10:45:45 
+Form      Name:frm_OP_RouteConfirm出車確認-確認路編
+Function  Name:出車確認
+Procedure Name:cmd_Tab0_Confirm_Click
+Error Code:-2147217873	Error Descr:PRIMARY KEY 違反條件約束 'PK_SDN02T'。無法在物件 'SDN02T' 上插入重複索引鍵。
+
+記錄時間：2014/12/12 16:53:42 
+Form      Name:frm_OP_BacktoEXE-載入待回傳路編
+Function  Name:排車資料回傳設定
+Procedure Name:cmd_RouteList_Click
+Error Code:94	Error Descr:Null 的使用不正確
+
+記錄時間：2014/12/15 14:38:54 
+Form      Name:frm_OP_TRPPlan-路線編號列表-路線編號查詢
+Function  Name: 排  車  作  業
+Procedure Name:cmd_Tab1_RouteNoQuery_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2015/07/16 09:45:45 
+Form      Name:frm_OP_TRPPlan-路線編號列表-路線編號查詢
+Function  Name: 排  車  作  業
+Procedure Name:cmd_Tab1_RouteNoQuery_Click
+Error Code:-2147217887	Error Descr:無法將非 Null 的資料行更新為 Null。
+
+記錄時間：2015/07/16 10:14:16 
+Form      Name:frm_OP_TRPPlan-路線編號列表-路線編號查詢
+Function  Name: 排  車  作  業
+Procedure Name:cmd_Tab1_RouteNoQuery_Click
+Error Code:3021	Error Descr:可能是 BOF 或 EOF 的值為 True，或目前的資料錄已被刪除。所要求的操作需要目前的資料錄。
+
+記錄時間：2015/07/17 12:38:23 
+Form      Name:frm_OP_BacktoEXE-載入待回傳路編
+Function  Name:排車資料回傳設定
+Procedure Name:cmd_RouteList_Click
+Error Code:94	Error Descr:Null 的使用不正確
+
+記錄時間：2015/07/21 19:54:06 
+Form      Name:frm_OP_ManualOrders-訂單維護-存檔-資料存檔
+Function  Name:訂單維護作業 
+Procedure Name:Form SubProgram SaveOrdersData
+Error Code:-2147217873	Error Descr:無法用唯一索引 'PK_ORDERDETAIL' 在物件 'ORDERDETAIL' 中插入重複的索引鍵資料列。
+
+記錄時間：2015/07/22 17:25:33 
+Form      Name:frm_FTP-匯入
+Function  Name:訂單接收
+Procedure Name:cmdImportT13_Click
+Error Code:-2147217873	Error Descr:PRIMARY KEY 違反條件約束 'PK_TRP01M'。無法在物件 'TRP01M' 上插入重複索引鍵。
+
+記錄時間：2015/07/22 17:27:19 
+Form      Name:frm_FTP-匯入
+Function  Name:訂單接收
+Procedure Name:cmdImportT13_Click
+Error Code:-2147217873	Error Descr:PRIMARY KEY 違反條件約束 'PK_TRP01M'。無法在物件 'TRP01M' 上插入重複索引鍵。
+
+記錄時間：2015/07/22 17:28:03 
+Form      Name:frm_FTP-匯入
+Function  Name:訂單接收
+Procedure Name:cmdImportT13_Click
+Error Code:-2147217873	Error Descr:PRIMARY KEY 違反條件約束 'PK_TRP01M'。無法在物件 'TRP01M' 上插入重複索引鍵。
+
+記錄時間：2015/08/21 21:31:37 
+Form      Name:frm_FTP-匯入
+Function  Name:訂單接收
+Procedure Name:cmd_Import_Click
+Error Code:-2147217887	Error Descr:多重步驟操作發生錯誤。請檢查每一個狀態值。
+
+記錄時間：2015/09/02 14:18:30 
+Form      Name:frm_Other_OPTPlan-退貨排車-匯入待排車訂單
+Function  Name:其它排車作業
+Procedure Name:cmd_Tab0_ImportOrders_Click
+Error Code:-2147217887	Error Descr:無法將非 Null 的資料行更新為 Null。
+
+記錄時間：2015/09/02 14:18:40 
+Form      Name:frm_Other_OPTPlan-退貨排車-匯入待排車訂單
+Function  Name:其它排車作業
+Procedure Name:cmd_Tab0_ImportOrders_Click
+Error Code:-2147217887	Error Descr:無法將非 Null 的資料行更新為 Null。
+
+記錄時間：2015/09/04 10:43:19 
+Form      Name:frm_OP_SDNConfirm-訂單查詢
+Function  Name:簽單確認
+Procedure Name:Form 內部 SubProgram Display_OrderData_OneReceiptNo
+Error Code:3021	Error Descr:可能是 BOF 或 EOF 的值為 True，或目前的資料錄已被刪除。所要求的操作需要目前的資料錄。
+
+記錄時間：2015/09/06 01:01:32 
+Form      Name:frm_BaseData_ConsigCar-車輛資料-存檔
+Function  Name:客戶/車輛/貨運公司 基本資料維護作業
+Procedure Name:cmd_Tab1_Save_Click
+Error Code:-2147217900	Error Descr:無效的資料行名稱 'VEHICLE_ID_NO'。
+
+記錄時間：2015/09/07 16:01:28 
+Form      Name:frm_OP_SDNConfirm-異常訂單
+Function  Name:簽單確認
+Procedure Name:cmd_OneOrder_NoDelivery_Click
+Error Code:-2147217873	Error Descr:INSERT 陳述式與 TABLE FOREIGN KEY 條件約束 'FK_PODETAIL_SKU_01' 發生衝突。衝突發生於資料庫 'BestWMS'，資料表 'SKU'。
+
+記錄時間：2015/09/07 16:01:35 
+Form      Name:frm_OP_SDNConfirm-異常訂單
+Function  Name:簽單確認
+Procedure Name:cmd_OneOrder_NoDelivery_Click
+Error Code:-2147217873	Error Descr:INSERT 陳述式與 TABLE FOREIGN KEY 條件約束 'FK_PODETAIL_SKU_01' 發生衝突。衝突發生於資料庫 'BestWMS'，資料表 'SKU'。
+
+記錄時間：2015/09/07 16:07:34 
+Form      Name:frm_OP_SDNConfirm-異常訂單
+Function  Name:簽單確認
+Procedure Name:cmd_OneOrder_NoDelivery_Click
+Error Code:-2147217873	Error Descr:INSERT 陳述式與 TABLE FOREIGN KEY 條件約束 'FK_PODETAIL_SKU_01' 發生衝突。衝突發生於資料庫 'BestWMS'，資料表 'SKU'。
+
+記錄時間：2015/09/09 00:40:58 
+Form      Name:frm_BaseData_ConsigCar-車輛資料-存檔
+Function  Name:客戶/車輛/貨運公司 基本資料維護作業
+Procedure Name:cmd_Tab1_Save_Click
+Error Code:91	Error Descr:沒有設定物件變數或 With 區塊變數
+
+記錄時間：2015/09/09 00:57:02 
+Form      Name:frm_BaseData_ConsigCar-車輛資料-存檔
+Function  Name:客戶/車輛/貨運公司 基本資料維護作業
+Procedure Name:cmd_Tab1_Save_Click
+Error Code:-2147217900	Error Descr:INSERT 陳述式中的資料行數量大於 VALUES 子句中所指定的值。在 VALUES 子句中所指定的數量值必須和 INSERT 陳述式中所指定的資料行數量相符。
+
+記錄時間：2015/09/15 18:11:41 
+Form      Name:frm_Report_TRPPlan-VLL上貨表-列印
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab0_PrintReport_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2015/09/15 20:12:18 
+Form      Name:frm_Report_TRPPlan-VLL上貨表-列印
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab0_PrintReport_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2015/09/21 13:18:51 
+Form      Name:frm_BaseData_OPCode-郵遞區號-顯示所有資料
+Function  Name:   作   業   代  碼   資   料   維   護
+Procedure Name:cmd_Tab4ZIP_Show_Click
+Error Code:-2147217900	Error Descr:無效的資料行名稱 'E_Abb'。
+
+記錄時間：2015/09/21 13:46:32 
+Form      Name:frm_BaseData_OPCode-運送區域-存檔
+Function  Name:   作   業   代  碼   資   料   維   護
+Procedure Name:cmd_Tab3Area_Save_Click
+Error Code:-2147217900	Error Descr:行 1: ' Where ZIP = ' 附近的語法不正確。
+
+記錄時間：2015/09/21 15:05:35 
+Form      Name:frm_BaseData_OPCode-郵遞區號-顯示所有資料
+Function  Name:   作   業   代  碼   資   料   維   護
+Procedure Name:cmd_Tab4ZIP_Show_Click
+Error Code:-2147217900	Error Descr:無效的資料行名稱 'E_Abb'。
+
+記錄時間：2015/09/22 16:32:42 
+Form      Name:frm_Report_TRPPlan-VLL上貨表-列印
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab0_PrintReport_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2015/10/07 14:37:39 
+Form      Name:frm_OP_RouteConfirm出車確認-確認路編
+Function  Name:出車確認
+Procedure Name:cmd_Tab0_Confirm_Click
+Error Code:-2147217873	Error Descr:PRIMARY KEY 違反條件約束 'PK_SDN01T'。無法在物件 'SDN01T' 上插入重複索引鍵。
+
+記錄時間：2015/10/07 15:12:33 
+Form      Name:frm_OP_RouteConfirm出車確認-確認路編
+Function  Name:出車確認
+Procedure Name:cmd_Tab0_Confirm_Click
+Error Code:-2147217873	Error Descr:PRIMARY KEY 違反條件約束 'PK_SDN01T'。無法在物件 'SDN01T' 上插入重複索引鍵。
+
+記錄時間：2015/10/25 22:28:48 
+Form      Name:frm_OP_ManualOrders-訂單維護-存檔-資料存檔
+Function  Name:訂單維護作業 
+Procedure Name:Form SubProgram SaveOrdersData
+Error Code:3704	Error Descr:當物件關閉時，不允許操作。
+
+記錄時間：2015/10/25 23:49:51 
+Form      Name:frm_OP_ManualOrders-訂單維護-存檔-資料存檔
+Function  Name:訂單維護作業 
+Procedure Name:Form SubProgram SaveOrdersData
+Error Code:-2147467259	Error Descr:因處於手動或分散式異動模式，所以無法建立新連線。
+
+記錄時間：2015/10/25 23:50:42 
+Form      Name:frm_OP_ManualOrders-訂單維護-存檔-資料存檔
+Function  Name:訂單維護作業 
+Procedure Name:Form SubProgram SaveOrdersData
+Error Code:-2147467259	Error Descr:因處於手動或分散式異動模式，所以無法建立新連線。
+
+記錄時間：2015/10/25 23:54:23 
+Form      Name:frm_OP_ManualOrders-訂單維護-存檔-資料存檔
+Function  Name:訂單維護作業 
+Procedure Name:Form SubProgram SaveOrdersData
+Error Code:-2147467259	Error Descr:因處於手動或分散式異動模式，所以無法建立新連線。
+
+記錄時間：2015/10/26 14:52:54 
+Form      Name:frm_OP_ManualOrders-訂單維護-存檔-資料存檔
+Function  Name:訂單維護作業 
+Procedure Name:Form SubProgram SaveOrdersData
+Error Code:3704	Error Descr:當物件關閉時，不允許操作。
+
+記錄時間：2015/10/26 15:37:07 
+Form      Name:frm_OP_ManualOrders-訂單維護-存檔-資料存檔
+Function  Name:訂單維護作業 
+Procedure Name:Form SubProgram SaveOrdersData
+Error Code:3704	Error Descr:當物件關閉時，不允許操作。
+
+記錄時間：2015/12/17 23:32:59 
+Form      Name:frm_OP_DCRouteMerge-二次排車-建立二次排車路編
+Function  Name:二次排車作業
+Procedure Name:cmd_Tab0_CreateRoute_Click
+Error Code:-2147217900	Error Descr:插入錯誤: 資料行名稱或提供的數值數量與資料表定義不相符。
+
+記錄時間：2015/12/17 23:35:46 
+Form      Name:frm_OP_DCRouteMerge-二次排車-建立二次排車路編
+Function  Name:二次排車作業
+Procedure Name:cmd_Tab0_CreateRoute_Click
+Error Code:-2147217900	Error Descr:無效的資料行名稱 'Priority'。
+
+記錄時間：2015/12/17 23:51:03 
+Form      Name:frm_OP_DCRouteMerge-二次排車-建立二次排車路編
+Function  Name:二次排車作業
+Procedure Name:cmd_Tab0_CreateRoute_Click
+Error Code:-2147217873	Error Descr:PRIMARY KEY 違反條件約束 'PK_AppOrderDate'。無法在物件 'AppOrderDate' 上插入重複索引鍵。
+
+記錄時間：2016/01/04 12:21:00 
+Form      Name:frm_Report_DivideSku--TIHI_LABEL
+Function  Name:花王分貨表
+Procedure Name:cmd_PrintReport_Click
+Error Code:91	Error Descr:沒有設定物件變數或 With 區塊變數
+
+記錄時間：2016/01/04 13:04:09 
+Form      Name:frm_Report_DivideSku-其他排車一覽表-查詢
+Function  Name:花王分貨表
+Procedure Name:cmd_Tab1_Query_Click
+Error Code:9	Error Descr:陣列索引超出範圍
+
+記錄時間：2016/01/04 14:57:22 
+Form      Name:frm_Report_DivideSku-其他排車一覽表-查詢
+Function  Name:花王分貨表
+Procedure Name:cmd_Tab1_Query_Click
+Error Code:9	Error Descr:陣列索引超出範圍
+
+記錄時間：2016/01/04 14:58:24 
+Form      Name:frm_Report_DivideSku-其他排車一覽表-查詢
+Function  Name:花王分貨表
+Procedure Name:cmd_Tab1_Query_Click
+Error Code:9	Error Descr:陣列索引超出範圍
+
+記錄時間：2016/01/04 15:04:34 
+Form      Name:frm_Report_DivideSku-其他排車一覽表-查詢
+Function  Name:花王分貨表
+Procedure Name:cmd_Tab1_Query_Click
+Error Code:-2147217900	Error Descr:無效的資料行名稱 '分類'。
+
+記錄時間：2016/01/07 16:21:49 
+Form      Name:frm_OP_RouteConfirm出車確認-確認路編
+Function  Name:出車確認
+Procedure Name:cmd_Tab0_Confirm_Click
+Error Code:-2147217900	Error Descr:關鍵字 'from' 附近的語法不正確。
+
+記錄時間：2016/01/07 16:22:38 
+Form      Name:frm_OP_RouteConfirm出車確認-確認路編
+Function  Name:出車確認
+Procedure Name:cmd_Tab0_Confirm_Click
+Error Code:-2147217900	Error Descr:關鍵字 'from' 附近的語法不正確。
+
+記錄時間：2016/01/28 11:55:04 
+Form      Name:frm_Report_TRPPlan-VLL上貨表-列印
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab0_PrintReport_Click
+Error Code:-2147352571	Error Descr:類型不相符。
+
+記錄時間：2016/01/28 11:57:26 
+Form      Name:frm_Report_TRPPlan-VLL上貨表-列印
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab0_PrintReport_Click
+Error Code:-2147352571	Error Descr:類型不相符。
+
+記錄時間：2016/01/28 11:57:38 
+Form      Name:frm_Report_TRPPlan-VLL上貨表-列印
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab0_PrintReport_Click
+Error Code:-2147352571	Error Descr:類型不相符。
+
+記錄時間：2016/01/28 11:58:21 
+Form      Name:frm_Report_TRPPlan-VLL上貨表-列印
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab0_PrintReport_Click
+Error Code:-2147352571	Error Descr:類型不相符。
+
+記錄時間：2016/05/15 01:05:20 
+Form      Name:frm_BaseData_OPCode_1-計費代碼-存檔
+Function  Name:進階代碼資料維護
+Procedure Name:cmd_Tab1CarType_Save_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2016/05/15 01:16:09 
+Form      Name:frm_BaseData_OPCode_1-車輛種類-顯示所有資料
+Function  Name:進階代碼資料維護
+Procedure Name:cmd_Tab1CarType_Show_Click
+Error Code:-2147217900	Error Descr:關鍵字 'Order' 附近的語法不正確。
+
+記錄時間：2016/05/20 14:47:27 
+Form      Name:frm_BaseData_OPCode_1-計費代碼-存檔
+Function  Name:進階代碼資料維護
+Procedure Name:cmd_Tab1CarType_Save_Click
+Error Code:-2147217913	Error Descr:將 varchar 數值 'True' 轉換成資料型別為 bit 的資料行語法錯誤。
+
+記錄時間：2016/06/24 16:36:31 
+Form      Name:frm_BaseData_Sku--
+Function  Name:貨號基本資料維護
+Procedure Name:text_sku_KeyPress
+Error Code:-2147467259	Error Descr:[DBNETLIB][ConnectionWrite (send()).]一般網路錯誤。 查閱您的網路文件。
+
+記錄時間：2016/10/24 13:59:20 
+Form      Name:frm_OP_OrderImport-訂單及客戶資料轉入
+Function  Name:一般訂單轉入及客戶異動維護
+Procedure Name:cmd_OrderImport_Click
+Error Code:-2147217913	Error Descr:將 varchar 值 '台中' 轉換成資料類型 int 時，轉換失敗。
+
+記錄時間：2016/10/24 13:59:56 
+Form      Name:frm_OP_OrderImport-訂單及客戶資料轉入
+Function  Name:一般訂單轉入及客戶異動維護
+Procedure Name:cmd_OrderImport_Click
+Error Code:-2147217913	Error Descr:將 varchar 值 '台中' 轉換成資料類型 int 時，轉換失敗。
+
+記錄時間：2016/10/24 14:01:20 
+Form      Name:frm_OP_OrderImport-訂單及客戶資料轉入
+Function  Name:一般訂單轉入及客戶異動維護
+Procedure Name:cmd_OrderImport_Click
+Error Code:-2147217913	Error Descr:將 varchar 值 '台中' 轉換成資料類型 int 時，轉換失敗。
+
+記錄時間：2016/10/24 14:02:37 
+Form      Name:frm_OP_OrderImport-訂單及客戶資料轉入
+Function  Name:一般訂單轉入及客戶異動維護
+Procedure Name:cmd_OrderImport_Click
+Error Code:-2147217913	Error Descr:將 varchar 值 '台中' 轉換成資料類型 int 時，轉換失敗。
+
+記錄時間：2016/12/23 10:12:31 
+Form      Name:frm_OP_SDNConfirm-正常訂單
+Function  Name:簽單確認
+Procedure Name:cmd_OnOrder_Deliveryok_Click
+Error Code:404	Error Descr:MDI 子表單不能以強制回應的方式來顯示
+
+記錄時間：2017/03/20 18:21:31 
+Form      Name:frm_FTP-匯入
+Function  Name:訂單接收
+Procedure Name:cmdImportT7_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2017/03/20 18:21:37 
+Form      Name:frm_FTP-匯入
+Function  Name:訂單接收
+Procedure Name:cmdImportT7_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2017/03/20 18:21:52 
+Form      Name:frm_FTP-匯入
+Function  Name:訂單接收
+Procedure Name:cmdImportT7_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2017/03/23 16:13:39 
+Form      Name:frm_FTP-匯入
+Function  Name:訂單接收
+Procedure Name:cmdImportT7_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2017/06/13 14:47:32 
+Form      Name:frm_OP_RouteConfirm出車確認-確認路編
+Function  Name:出車確認
+Procedure Name:cmd_Tab0_Confirm_Click
+Error Code:-2147217873	Error Descr:無法插入 NULL 值到資料行 'SIGN_QTY'，資料表 'BestTMS.dbo.SDN03T'; 資料行不得有 Null。INSERT 失敗。
+
+記錄時間：2017/12/13 11:35:20 
+Form      Name:frm_OP_RouteConfirm-出車確認 >> Tab2路線編號查詢
+Function  Name:出車確認
+Procedure Name:cmd_Tab2_RouteNoQuery_Click
+Error Code:-2147217900	Error Descr:資料行 'SDN01T.C_VEHICLE_ID_NO' 在選取清單中無效，因為它並未包含在彙總函式或 GROUP BY 子句中。
+
+記錄時間：2017/12/21 15:45:50 
+Form      Name:frm_OP_BacktoEXE-載入待回傳路編
+Function  Name:排車資料回傳設定
+Procedure Name:cmd_RouteList_Click
+Error Code:94	Error Descr:Null 的使用不正確
+
+記錄時間：2017/12/21 15:47:42 
+Form      Name:frm_OP_BacktoEXE-載入待回傳路編
+Function  Name:排車資料回傳設定
+Procedure Name:cmd_RouteList_Click
+Error Code:94	Error Descr:Null 的使用不正確
+
+記錄時間：2017/12/21 15:49:40 
+Form      Name:frm_OP_BacktoEXE-載入待回傳路編
+Function  Name:排車資料回傳設定
+Procedure Name:cmd_RouteList_Click
+Error Code:94	Error Descr:Null 的使用不正確
+
+記錄時間：2017/12/21 15:50:33 
+Form      Name:frm_OP_BacktoEXE-載入待回傳路編
+Function  Name:排車資料回傳設定
+Procedure Name:cmd_RouteList_Click
+Error Code:94	Error Descr:Null 的使用不正確
+
+記錄時間：2017/12/21 15:51:11 
+Form      Name:frm_OP_BacktoEXE-載入待回傳路編
+Function  Name:排車資料回傳設定
+Procedure Name:cmd_RouteList_Click
+Error Code:94	Error Descr:Null 的使用不正確
+
+記錄時間：2017/12/21 15:53:38 
+Form      Name:frm_OP_BacktoEXE-載入待回傳路編
+Function  Name:排車資料回傳設定
+Procedure Name:cmd_RouteList_Click
+Error Code:94	Error Descr:Null 的使用不正確
+
+記錄時間：2017/12/21 15:54:50 
+Form      Name:frm_OP_BacktoEXE-載入待回傳路編
+Function  Name:排車資料回傳設定
+Procedure Name:cmd_RouteList_Click
+Error Code:94	Error Descr:Null 的使用不正確
+
+記錄時間：2018/01/30 14:45:25 
+Form      Name:frm_OP_Other_OrderImport-訂單及客戶資料轉入
+Function  Name:其它訂單轉入及客戶異動維護
+Procedure Name:cmd_OrderImport_Click
+Error Code:-2147217900	Error Descr:資料行 'orderdetail.Lottable05' 在選取清單中無效，因為它並未包含在彙總函式或 GROUP BY 子句中。select od.storerkey , o.orderkey , o.externorderkey , o.b_company, o.customerorderkey, orderdate = convert(char(8),o.orderdate,112), deliverydate = convert(char(8),o.deliverydate,112), priority = rtrim(o.priority) ,ordertype = rtrim(isnull(o.externordertype,'')), od.orderlinenumber, od.externlineno, od.otheruom, od.lottable05, od.retailsku, od.sku , s.descr , s.packkey , openqty = sum(od.openqty) , notes = cast(o.notes as varchar(300)) , o.consigneekey , o.c_company, od.lottable06 from orders o join orderdetail od on o.orderkey = od.orderkey join gv_skuxpack s on s.sku = od.sku and s.storerkey = od.storerkey where  o.priority in ('R','RC','A2B') and o.storerkey in ('LLFA01','LMBO01','LPSI01') and o.B_PHONE2 is null and o.type <> '刪單' group by od.storerkey ,o.orderkey , o.externorderkey , o.priority ,od.storerkey ,o.orderkey , od.externorderkey , o.priority , rtrim(isnull(o.externordertype,'')),o.consigneekey , o.c_company ,od.sku, s.descr,cast(o.notes as varchar(300)),s.packkey ,orderlinenumber,o.b_company,o.buyerpo,o.CustomerOrderkey,convert(char(8),o.orderdate,112),convert(char(8),o.deliverydate,112),od.externlineno,od.otheruom,od.lottable03,od.retailsku,od.lottable06 order by o.orderkey ,orderlinenumber 
+
+記錄時間：2018/01/30 15:12:56 
+Form      Name:frm_OP_Other_OrderImport-訂單及客戶資料轉入
+Function  Name:其它訂單轉入及客戶異動維護
+Procedure Name:cmd_OrderImport_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。insert into BestWMS..asn (asnKey,StorerKey,externasnkey , sellersreference,asntype,notes,SellersReference2,OtherReference,ASNDate,VesselDate) values( '0000011300','LPSI01         ','81086068','6851                ','RC','','','                                                            ','20180125','20180125') 
+
+記錄時間：2018/01/30 15:13:23 
+Form      Name:frm_OP_Other_OrderImport-訂單及客戶資料轉入
+Function  Name:其它訂單轉入及客戶異動維護
+Procedure Name:cmd_OrderImport_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。insert into BestWMS..asn (asnKey,StorerKey,externasnkey , sellersreference,asntype,notes,SellersReference2,OtherReference,ASNDate,VesselDate) values( '0000011300','LPSI01         ','81086068','6851                ','RC','','','                                                            ','20180125','20180125') 
+
+記錄時間：2018/01/30 15:18:40 
+Form      Name:frm_OP_Other_OrderImport-訂單及客戶資料轉入
+Function  Name:其它訂單轉入及客戶異動維護
+Procedure Name:cmd_OrderImport_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。insert into BestWMS..asn (asnKey,StorerKey,externasnkey , sellersreference,asntype,notes,SellersReference2,OtherReference,ASNDate,VesselDate) values( '0000011300','LPSI01         ','81086068','6851                ','RC','','','                                                            ','20180125','20180125') 
+
+記錄時間：2018/01/30 15:27:20 
+Form      Name:frm_OP_Other_OrderImport-訂單及客戶資料轉入
+Function  Name:其它訂單轉入及客戶異動維護
+Procedure Name:cmd_OrderImport_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。insert into BestWMS..asn (asnKey,StorerKey,externasnkey , sellersreference,asntype,notes,SellersReference2,OtherReference,ASNDate,VesselDate) values( '0000011300','LPSI01         ','81086068','6851                ','RC','','','                                                            ','20180125','20180125') 
+
+記錄時間：2018/01/30 15:54:41 
+Form      Name:frm_OP_Other_OrderImport-訂單及客戶資料轉入
+Function  Name:其它訂單轉入及客戶異動維護
+Procedure Name:cmd_OrderImport_Click
+Error Code:-2147217900	Error Descr:資料行 'orderdetail.Lottable03' 在選取清單中無效，因為它並未包含在彙總函式或 GROUP BY 子句中。select od.storerkey , o.orderkey , o.externorderkey , o.b_company, o.customerorderkey, orderdate = convert(char(8),o.orderdate,112), deliverydate = convert(char(8),o.deliverydate,112), priority = rtrim(o.priority) ,ordertype = rtrim(isnull(o.externordertype,'')), od.orderlinenumber, od.externlineno, od.otheruom, od.lottable05, od.retailsku, od.sku , s.descr , s.packkey , openqty = sum(od.openqty) , notes = cast(o.notes as varchar(300)) , o.consigneekey , o.c_company, od.lottable06, od.lottable03 from orders o join orderdetail od on o.orderkey = od.orderkey join gv_skuxpack s on s.sku = od.sku and s.storerkey = od.storerkey where  o.priority in ('R','RC','A2B') and o.storerkey in ('LLFA01','LMBO01','LPSI01') and o.B_PHONE2 is null and o.type <> '刪單' group by od.storerkey ,o.orderkey , o.externorderkey , o.priority ,od.storerkey ,o.orderkey , od.externorderkey , o.priority , rtrim(isnull(o.externordertype,'')),o.consigneekey , o.c_company ,od.sku, s.descr,cast(o.notes as varchar(300)),s.packkey ,orderlinenumber,o.b_company,o.buyerpo,o.CustomerOrderkey,convert(char(8),o.orderdate,112),convert(char(8),o.deliverydate,112),od.externlineno,od.otheruom,od.lottable05,od.retailsku,od.lottable06 order by o.orderkey ,orderlinenumber 
+
+記錄時間：2018/01/30 15:54:50 
+Form      Name:frm_OP_Other_OrderImport-訂單及客戶資料轉入
+Function  Name:其它訂單轉入及客戶異動維護
+Procedure Name:cmd_OrderImport_Click
+Error Code:-2147217900	Error Descr:資料行 'orderdetail.Lottable03' 在選取清單中無效，因為它並未包含在彙總函式或 GROUP BY 子句中。select od.storerkey , o.orderkey , o.externorderkey , o.b_company, o.customerorderkey, orderdate = convert(char(8),o.orderdate,112), deliverydate = convert(char(8),o.deliverydate,112), priority = rtrim(o.priority) ,ordertype = rtrim(isnull(o.externordertype,'')), od.orderlinenumber, od.externlineno, od.otheruom, od.lottable05, od.retailsku, od.sku , s.descr , s.packkey , openqty = sum(od.openqty) , notes = cast(o.notes as varchar(300)) , o.consigneekey , o.c_company, od.lottable06, od.lottable03 from orders o join orderdetail od on o.orderkey = od.orderkey join gv_skuxpack s on s.sku = od.sku and s.storerkey = od.storerkey where  o.priority in ('R','RC','A2B') and o.storerkey in ('LLFA01','LMBO01','LPSI01') and o.B_PHONE2 is null and o.type <> '刪單' group by od.storerkey ,o.orderkey , o.externorderkey , o.priority ,od.storerkey ,o.orderkey , od.externorderkey , o.priority , rtrim(isnull(o.externordertype,'')),o.consigneekey , o.c_company ,od.sku, s.descr,cast(o.notes as varchar(300)),s.packkey ,orderlinenumber,o.b_company,o.buyerpo,o.CustomerOrderkey,convert(char(8),o.orderdate,112),convert(char(8),o.deliverydate,112),od.externlineno,od.otheruom,od.lottable05,od.retailsku,od.lottable06 order by o.orderkey ,orderlinenumber 
+
+記錄時間：2018/01/30 15:54:54 
+Form      Name:frm_OP_Other_OrderImport-訂單及客戶資料轉入
+Function  Name:其它訂單轉入及客戶異動維護
+Procedure Name:cmd_OrderImport_Click
+Error Code:-2147217900	Error Descr:資料行 'orderdetail.Lottable03' 在選取清單中無效，因為它並未包含在彙總函式或 GROUP BY 子句中。select od.storerkey , o.orderkey , o.externorderkey , o.b_company, o.customerorderkey, orderdate = convert(char(8),o.orderdate,112), deliverydate = convert(char(8),o.deliverydate,112), priority = rtrim(o.priority) ,ordertype = rtrim(isnull(o.externordertype,'')), od.orderlinenumber, od.externlineno, od.otheruom, od.lottable05, od.retailsku, od.sku , s.descr , s.packkey , openqty = sum(od.openqty) , notes = cast(o.notes as varchar(300)) , o.consigneekey , o.c_company, od.lottable06, od.lottable03 from orders o join orderdetail od on o.orderkey = od.orderkey join gv_skuxpack s on s.sku = od.sku and s.storerkey = od.storerkey where  o.priority in ('R','RC','A2B') and o.storerkey in ('LLFA01','LMBO01','LPSI01') and o.B_PHONE2 is null and o.type <> '刪單' group by od.storerkey ,o.orderkey , o.externorderkey , o.priority ,od.storerkey ,o.orderkey , od.externorderkey , o.priority , rtrim(isnull(o.externordertype,'')),o.consigneekey , o.c_company ,od.sku, s.descr,cast(o.notes as varchar(300)),s.packkey ,orderlinenumber,o.b_company,o.buyerpo,o.CustomerOrderkey,convert(char(8),o.orderdate,112),convert(char(8),o.deliverydate,112),od.externlineno,od.otheruom,od.lottable05,od.retailsku,od.lottable06 order by o.orderkey ,orderlinenumber 
+
+記錄時間：2018/01/30 15:59:55 
+Form      Name:frm_OP_Other_OrderImport-訂單及客戶資料轉入
+Function  Name:其它訂單轉入及客戶異動維護
+Procedure Name:cmd_OrderImport_Click
+Error Code:-2147217900	Error Descr:資料行 'orderdetail.Lottable03' 在選取清單中無效，因為它並未包含在彙總函式或 GROUP BY 子句中。select od.storerkey , o.orderkey , o.externorderkey , o.b_company, o.customerorderkey, orderdate = convert(char(8),o.orderdate,112), deliverydate = convert(char(8),o.deliverydate,112), priority = rtrim(o.priority) ,ordertype = rtrim(isnull(o.externordertype,'')), od.orderlinenumber, od.externlineno, od.otheruom, od.lottable05, od.retailsku, od.sku , s.descr , s.packkey , openqty = sum(od.openqty) , notes = cast(o.notes as varchar(300)) , o.consigneekey , o.c_company, od.lottable06, od.lottable03 from orders o join orderdetail od on o.orderkey = od.orderkey join gv_skuxpack s on s.sku = od.sku and s.storerkey = od.storerkey where  o.priority in ('R','RC','A2B') and o.storerkey in ('LLFA01','LMBO01','LPSI01') and o.B_PHONE2 is null and o.type <> '刪單' group by od.storerkey ,o.orderkey , o.externorderkey , o.priority ,od.storerkey ,o.orderkey , od.externorderkey , o.priority , rtrim(isnull(o.externordertype,'')),o.consigneekey , o.c_company ,od.sku, s.descr,cast(o.notes as varchar(300)),s.packkey ,orderlinenumber,o.b_company,o.buyerpo,o.CustomerOrderkey,convert(char(8),o.orderdate,112),convert(char(8),o.deliverydate,112),od.externlineno,od.otheruom,od.lottable05,od.retailsku,od.lottable06 order by o.orderkey ,orderlinenumber 
+
+記錄時間：2018/01/30 16:00:46 
+Form      Name:frm_OP_Other_OrderImport-訂單及客戶資料轉入
+Function  Name:其它訂單轉入及客戶異動維護
+Procedure Name:cmd_OrderImport_Click
+Error Code:-2147217900	Error Descr:INSERT 陳述式中的資料行數量小於 VALUES 子句中所指定的值。在 VALUES 子句中值的數量必須和 INSERT 陳述式中所指定的資料行數量相符。insert into BestWMS..asndetail (asnKey,asnLineNumber,ExternLineNo,externasnkey,SKU,Skudescription,StorerKey,QtyOrdered,packkey,OtherUOM,RetailSku,UOM,Lottable06,Effectivedate) values( '0000011344','00001','','81086068','320013204           ','T43樂事樂無限雞汁味洋芋片160g經濟包66元12入                 ','LPSI01         ','84','320013204 ','CV        ','','EA','                  ','2018/9/5','20180905          ') 
+
+記錄時間：2018/01/30 18:06:38 
+Form      Name:frm_Report_Other-退貨排車一覽表-列印
+Function  Name:其他排車報表
+Procedure Name:cmd_Tab1_PrintReport_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2018/01/30 18:06:41 
+Form      Name:frm_Report_Other-退貨排車一覽表-列印
+Function  Name:其他排車報表
+Procedure Name:cmd_Tab1_PrintReport_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2018/01/30 18:07:18 
+Form      Name:frm_Report_Other-退貨排車一覽表-列印
+Function  Name:其他排車報表
+Procedure Name:cmd_Tab1_PrintReport_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2018/01/30 18:07:41 
+Form      Name:frm_Report_Other-退貨排車一覽表-列印
+Function  Name:其他排車報表
+Procedure Name:cmd_Tab1_PrintReport_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2018/01/30 18:08:45 
+Form      Name:frm_Report_Other-退貨排車一覽表-列印
+Function  Name:其他排車報表
+Procedure Name:cmd_Tab1_PrintReport_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2018/05/18 14:11:30 
+Form      Name:frm_Report_TRPPlan-棧板維護by路編-查詢
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab6_Query_Click
+Error Code:-2147217900	Error Descr:發現除以零的錯誤。
+
+記錄時間：2018/05/18 14:25:50 
+Form      Name:frm_Report_TRPPlan-棧板維護by路編-查詢
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab6_Query_Click
+Error Code:-2147217900	Error Descr:接近 '運送重量' 之處的語法不正確。
+
+記錄時間：2018/05/18 14:26:36 
+Form      Name:frm_Report_TRPPlan-棧板維護by路編-查詢
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab6_Query_Click
+Error Code:9	Error Descr:陣列索引超出範圍
+
+記錄時間：2018/07/20 14:11:37 
+Form      Name:frm_BaseData_ConsigCar-客戶允收天數資料-顯示所有資料
+Function  Name:客戶/車輛/貨運公司 基本資料維護作業
+Procedure Name:cmd_Tab4_AcceptableShow_Click
+Error Code:-2147217865	Error Descr:無效的物件名稱 'Acceptable'。
+
+記錄時間：2018/07/23 17:26:28 
+Form      Name:frm_Report_TRPPlan-VLL上貨表-列印
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab0_PrintReport_Click
+Error Code:3704	Error Descr:當物件關閉時，不允許操作。
+
+記錄時間：2018/07/24 19:39:12 
+Form      Name:frm_OP_OrderImport-訂單及客戶資料轉入-確認存檔
+Function  Name:一般訂單轉入及客戶異動維護
+Procedure Name:cmd_Update_Click
+Error Code:3421	Error Descr:應用程式目前的操作所使用的值是個錯誤的類型。
+
+記錄時間：2018/07/24 19:50:10 
+Form      Name:frm_BaseData_ConsigCar允收天數匯入-存檔
+Function  Name:客戶/車輛/貨運公司 基本資料維護作業
+Procedure Name:cmd_Tab0_Save_Click
+Error Code:3704	Error Descr:當物件關閉時，不允許操作。
+
+記錄時間：2018/07/24 19:50:15 
+Form      Name:frm_BaseData_ConsigCar允收天數匯入-存檔
+Function  Name:客戶/車輛/貨運公司 基本資料維護作業
+Procedure Name:cmd_Tab0_Save_Click
+Error Code:3704	Error Descr:當物件關閉時，不允許操作。
+
+記錄時間：2018/07/24 19:50:43 
+Form      Name:frm_BaseData_ConsigCar允收天數匯入-存檔
+Function  Name:客戶/車輛/貨運公司 基本資料維護作業
+Procedure Name:cmd_Tab0_Save_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2018/07/24 19:51:06 
+Form      Name:frm_BaseData_ConsigCar允收天數匯入-存檔
+Function  Name:客戶/車輛/貨運公司 基本資料維護作業
+Procedure Name:cmd_Tab0_Save_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2018/07/24 20:02:24 
+Form      Name:frm_BaseData_ConsigCar允收天數匯入-存檔
+Function  Name:客戶/車輛/貨運公司 基本資料維護作業
+Procedure Name:cmd_Tab0_Save_Click
+Error Code:70	Error Descr:沒有使用權限
+
+記錄時間：2018/07/24 20:02:27 
+Form      Name:frm_BaseData_ConsigCar允收天數匯入-存檔
+Function  Name:客戶/車輛/貨運公司 基本資料維護作業
+Procedure Name:cmd_Tab0_Save_Click
+Error Code:70	Error Descr:沒有使用權限
+
+記錄時間：2018/07/24 20:44:10 
+Form      Name:frm_Report_TRPPlan-VLL上貨表-列印
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab0_PrintReport_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2018/07/24 20:44:27 
+Form      Name:frm_Report_TRPPlan-VLL上貨表-列印
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab0_PrintReport_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2018/07/24 20:45:00 
+Form      Name:frm_Report_TRPPlan-VLL上貨表-列印
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab0_PrintReport_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2018/07/24 20:46:17 
+Form      Name:frm_Report_TRPPlan-VLL上貨表-列印
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab0_PrintReport_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2018/07/24 20:46:43 
+Form      Name:frm_Report_TRPPlan-VLL上貨表-列印
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab0_PrintReport_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2018/07/25 13:06:46 
+Form      Name:frm_Report_TRPPlan-VLL上貨表-列印
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab0_PrintReport_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2018/07/28 15:07:17 
+Form      Name:frm_Report_TRPPlan-VLL上貨表-列印
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab0_PrintReport_Click
+Error Code:91	Error Descr:沒有設定物件變數或 With 區塊變數
+
+記錄時間：2018/07/28 15:07:59 
+Form      Name:frm_Report_TRPPlan-VLL上貨表-列印
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab0_PrintReport_Click
+Error Code:91	Error Descr:沒有設定物件變數或 With 區塊變數
+
+記錄時間：2018/07/28 15:17:29 
+Form      Name:frm_Report_TRPPlan-VLL上貨表-列印
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab0_PrintReport_Click
+Error Code:91	Error Descr:沒有設定物件變數或 With 區塊變數
+
+記錄時間：2018/07/28 15:19:16 
+Form      Name:frm_Report_TRPPlan-VLL上貨表-列印
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab0_PrintReport_Click
+Error Code:91	Error Descr:沒有設定物件變數或 With 區塊變數
+
+記錄時間：2018/08/10 11:29:16 
+Form      Name:frm_Report_TRPPlan-排車一覽表-轉 EXCEL
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab5_SavetoExcel_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2018/08/16 16:01:06 
+Form      Name:frm_Report_TRPPlan-排車一覽表-列印
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab5_PrintReport_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2018/08/16 16:12:13 
+Form      Name:frm_Report_TRPPlan-排車一覽表-列印
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab5_PrintReport_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2018/08/16 16:13:17 
+Form      Name:frm_Report_TRPPlan-排車一覽表-列印
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab5_PrintReport_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2018/08/21 17:54:34 
+Form      Name:frm_Report_TRPPlan-排車一覽表-查詢
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab5_Query_Click
+Error Code:-2147217900	Error Descr:無效的資料行名稱 '貨主名稱'。
+
+記錄時間：2018/11/12 17:36:36 
+Form      Name:frm_FTP-匯入
+Function  Name:訂單接收
+Procedure Name:cmdImportT7_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2018/11/12 17:38:52 
+Form      Name:frm_FTP-匯入
+Function  Name:訂單接收
+Procedure Name:cmdImportT11_Click
+Error Code:9	Error Descr:陣列索引超出範圍
+
+記錄時間：2018/12/07 10:01:09 
+Form      Name:frm_OP_ManualOrders-訂單維護-存檔-資料存檔
+Function  Name:訂單維護作業 
+Procedure Name:Form SubProgram SaveOrdersData
+Error Code:-2147217900	Error Descr:使用 UNION、INTERSECT 或 EXCEPT 運算子結合的所有查詢，其目標清單中的運算式數量必須相等。
+
+記錄時間：2018/12/07 10:06:20 
+Form      Name:frm_OP_ManualOrders-訂單維護-存檔-資料存檔
+Function  Name:訂單維護作業 
+Procedure Name:Form SubProgram SaveOrdersData
+Error Code:-2147217900	Error Descr:使用 UNION、INTERSECT 或 EXCEPT 運算子結合的所有查詢，其目標清單中的運算式數量必須相等。
+
+記錄時間：2018/12/07 10:24:36 
+Form      Name:frm_OP_ManualOrders-訂單維護-存檔-資料存檔
+Function  Name:訂單維護作業 
+Procedure Name:Form SubProgram SaveOrdersData
+Error Code:-2147217900	Error Descr:使用 UNION、INTERSECT 或 EXCEPT 運算子結合的所有查詢，其目標清單中的運算式數量必須相等。
+
+記錄時間：2018/12/07 10:27:58 
+Form      Name:frm_OP_ManualOrders-訂單維護-存檔-資料存檔
+Function  Name:訂單維護作業 
+Procedure Name:Form SubProgram SaveOrdersData
+Error Code:-2147217900	Error Descr:使用 UNION、INTERSECT 或 EXCEPT 運算子結合的所有查詢，其目標清單中的運算式數量必須相等。
+
+記錄時間：2018/12/07 10:35:08 
+Form      Name:frm_OP_ManualOrders-訂單維護-存檔-資料存檔
+Function  Name:訂單維護作業 
+Procedure Name:Form SubProgram SaveOrdersData
+Error Code:-2147217900	Error Descr:使用 UNION、INTERSECT 或 EXCEPT 運算子結合的所有查詢，其目標清單中的運算式數量必須相等。
+
+記錄時間：2018/12/07 10:37:57 
+Form      Name:frm_OP_ManualOrders-訂單維護-存檔-資料存檔
+Function  Name:訂單維護作業 
+Procedure Name:Form SubProgram SaveOrdersData
+Error Code:-2147217873	Error Descr:違反 PRIMARY KEY 條件約束 'PK_ORDERS'。無法在物件 'dbo.ORDERS' 中插入重複的索引鍵。唯一索引鍵值是 (0001666720)。
+
+記錄時間：2018/12/20 09:17:14 
+Form      Name:frm_BaseData_ConsigCar-客戶允收天數資料-顯示所有資料
+Function  Name:客戶/車輛/貨運公司 基本資料維護作業
+Procedure Name:cmd_Tab4_AcceptableShow_Click
+Error Code:-2147217865	Error Descr:無效的物件名稱 'Exceed_UTL..sku'。
+
+記錄時間：2019/01/23 09:27:51 
+Form      Name:frm_OP_ManualOrders-訂單維護-訂單查詢
+Function  Name:訂單維護作業 
+Procedure Name:cmd_OrdersQuery_Click
+Error Code:94	Error Descr:Null 的使用不正確
+
+記錄時間：2019/01/23 09:28:20 
+Form      Name:frm_OP_ManualOrders-訂單維護-訂單查詢
+Function  Name:訂單維護作業 
+Procedure Name:cmd_OrdersQuery_Click
+Error Code:94	Error Descr:Null 的使用不正確
+
+記錄時間：2019/01/23 09:28:53 
+Form      Name:frm_OP_ManualOrders-訂單維護-訂單查詢
+Function  Name:訂單維護作業 
+Procedure Name:cmd_OrdersQuery_Click
+Error Code:94	Error Descr:Null 的使用不正確
+
+記錄時間：2019/01/23 09:32:38 
+Form      Name:frm_OP_ManualOrders-訂單維護-訂單查詢
+Function  Name:訂單維護作業 
+Procedure Name:cmd_OrdersQuery_Click
+Error Code:94	Error Descr:Null 的使用不正確
+
+記錄時間：2019/03/29 18:58:05 
+Form      Name:frm_Report_Other-退貨排車一覽表-查詢
+Function  Name:其他排車報表
+Procedure Name:cmd_Tab1_Query_Click
+Error Code:-2147217900	Error Descr:無效的資料行名稱 '出車日期'。
+
+記錄時間：2019/04/01 14:07:00 
+Form      Name:frm_Report_Other-退貨排車一覽表-查詢
+Function  Name:其他排車報表
+Procedure Name:cmd_Tab1_Query_Click
+Error Code:-2147217900	Error Descr:無效的資料行名稱 '目的區域'。
+
+記錄時間：2019/04/01 14:07:03 
+Form      Name:frm_Report_Other-退貨排車一覽表-查詢
+Function  Name:其他排車報表
+Procedure Name:cmd_Tab1_Query_Click
+Error Code:-2147217900	Error Descr:無效的資料行名稱 '目的區域'。
+
+記錄時間：2019/04/01 15:50:02 
+Form      Name:frm_Report_Other-退貨排車一覽表-查詢
+Function  Name:其他排車報表
+Procedure Name:cmd_Tab1_Query_Click
+Error Code:-2147217900	Error Descr:無效的資料行名稱 '車牌號碼'。
+
+記錄時間：2019/04/01 15:51:08 
+Form      Name:frm_Report_Other-退貨排車一覽表-查詢
+Function  Name:其他排車報表
+Procedure Name:cmd_Tab1_Query_Click
+Error Code:9	Error Descr:陣列索引超出範圍
+
+記錄時間：2019/04/01 15:58:36 
+Form      Name:frm_Report_Other-排車一覽表-轉 EXCEL
+Function  Name:其他排車報表
+Procedure Name:cmd_Tab5_SavetoExcel_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2019/04/01 16:05:03 
+Form      Name:frm_Report_Other-排車一覽表-轉 EXCEL
+Function  Name:其他排車報表
+Procedure Name:cmd_Tab5_SavetoExcel_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2019/04/01 16:13:34 
+Form      Name:frm_Report_Other-排車一覽表-轉 EXCEL
+Function  Name:其他排車報表
+Procedure Name:cmd_Tab5_SavetoExcel_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2019/04/01 17:36:06 
+Form      Name:frm_Report_Other-退貨排車一覽表-查詢
+Function  Name:其他排車報表
+Procedure Name:cmd_Tab1_Query_Click
+Error Code:9	Error Descr:陣列索引超出範圍
+
+記錄時間：2019/04/22 11:19:04 
+Form      Name:frm_Report_TRPPlan-VLL上貨表-查詢
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab0_Query_Click
+Error Code:-2147217900	Error Descr:無法繫結多重部分 (Multi-Part) 識別碼 "t08m.C_Name"。
+
+記錄時間：2019/05/08 11:43:35 
+Form      Name:frm_Report_TRPPlan-VLL上貨表-列印
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab0_PrintReport_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2019/05/08 11:46:27 
+Form      Name:frm_Report_TRPPlan-VLL上貨表-列印
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab0_PrintReport_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2019/05/08 11:47:42 
+Form      Name:frm_Report_TRPPlan-VLL上貨表-列印
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab0_PrintReport_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2019/05/14 11:04:28 
+Form      Name:frm_OP_TRPPlan-排車列表-匯入待排車訂單
+Function  Name: 排  車  作  業
+Procedure Name:cmd_Tab0_ImportOrders_Click
+Error Code:-2147217900	Error Descr:遺漏字元字串 ') Order by 訂單編號 ' 後面的引號。
+
+記錄時間：2019/05/14 11:04:43 
+Form      Name:frm_OP_TRPPlan-排車列表-匯入待排車訂單
+Function  Name: 排  車  作  業
+Procedure Name:cmd_Tab0_ImportOrders_Click
+Error Code:-2147217900	Error Descr:遺漏字元字串 ') Order by 訂單編號 ' 後面的引號。
+
+記錄時間：2019/05/14 11:06:06 
+Form      Name:frm_OP_TRPPlan-排車列表-匯入待排車訂單
+Function  Name: 排  車  作  業
+Procedure Name:cmd_Tab0_ImportOrders_Click
+Error Code:-2147217900	Error Descr:遺漏字元字串 ' )  Order by 訂單編號 ' 後面的引號。
+
+記錄時間：2019/05/14 11:07:21 
+Form      Name:frm_OP_TRPPlan-排車列表-匯入待排車訂單
+Function  Name: 排  車  作  業
+Procedure Name:cmd_Tab0_ImportOrders_Click
+Error Code:-2147217900	Error Descr:遺漏字元字串 ' )  Order by 訂單編號 ' 後面的引號。
+
+記錄時間：2019/05/14 11:07:31 
+Form      Name:frm_OP_TRPPlan-排車列表-匯入待排車訂單
+Function  Name: 排  車  作  業
+Procedure Name:cmd_Tab0_ImportOrders_Click
+Error Code:-2147217900	Error Descr:遺漏字元字串 ' )  Order by 訂單編號 ' 後面的引號。
+
+記錄時間：2019/07/04 15:40:28 
+Form      Name:frm_BaseData_OPCode-車輛種類-顯示所有資料
+Function  Name:   作   業   代  碼   資   料   維   護
+Procedure Name:cmd_Tab1CarType_Show_Click
+Error Code:-2147217900	Error Descr:無效的資料行名稱 'csr_type'。
+
+記錄時間：2019/07/04 15:49:44 
+Form      Name:frm_BaseData_OPCode-車輛種類-存檔
+Function  Name:   作   業   代  碼   資   料   維   護
+Procedure Name:cmd_Tab1CarType_Save_Click
+Error Code:-2147217900	Error Descr:接近 '大車' 之處的語法不正確。
+
+記錄時間：2019/07/07 20:41:00 
+Form      Name:frm_Report_TRPPlan-VLL上貨表-列印
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab0_PrintReport_Click
+Error Code:3021	Error Descr:可能是 BOF 或 EOF 的值為 True，或目前的資料錄已被刪除。所要求的操作需要目前的資料錄。
+
+記錄時間：2019/07/07 20:42:04 
+Form      Name:frm_Report_TRPPlan-VLL上貨表-列印
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab0_PrintReport_Click
+Error Code:3021	Error Descr:可能是 BOF 或 EOF 的值為 True，或目前的資料錄已被刪除。所要求的操作需要目前的資料錄。
+
+記錄時間：2019/07/24 16:07:25 
+Form      Name:frm_Report_TRPPlan-VLL上貨表-列印
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab0_PrintReport_Click
+Error Code:-2147217871	Error Descr:查詢逾時過期
+
+記錄時間：2019/08/22 10:04:58 
+Form      Name:frm_Report_TRPPlan-VLL上貨表-列印
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab0_PrintReport_Click
+Error Code:-2147217900	Error Descr:發現除以零的錯誤。
+
+記錄時間：2019/08/22 10:11:41 
+Form      Name:frm_Report_TRPPlan-VLL上貨表-列印
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab0_PrintReport_Click
+Error Code:-2147217900	Error Descr:發現除以零的錯誤。
+
+記錄時間：2019/11/07 10:54:47 
+Form      Name:frm_Other_OPTPlan-排車作業-依地址建立路線編號
+Function  Name:其它排車作業
+Procedure Name:cmd_Tab0_CreateRoute_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2019/11/07 10:55:09 
+Form      Name:frm_Other_OPTPlan-排車作業-依地址建立路線編號
+Function  Name:其它排車作業
+Procedure Name:cmd_Tab0_CreateRoute_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2019/11/07 10:55:43 
+Form      Name:frm_Other_OPTPlan-排車作業-依地址建立路線編號
+Function  Name:其它排車作業
+Procedure Name:cmd_Tab0_CreateRoute_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2019/11/07 11:04:31 
+Form      Name:frm_Other_OPTPlan-排車作業-依地址建立路線編號
+Function  Name:其它排車作業
+Procedure Name:cmd_Tab0_CreateRoute_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2019/11/07 11:07:33 
+Form      Name:frm_Other_OPTPlan-排車作業-依地址建立路線編號
+Function  Name:其它排車作業
+Procedure Name:cmd_Tab0_CreateRoute_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2019/11/07 11:11:50 
+Form      Name:frm_Other_OPTPlan-排車作業-依地址建立路線編號
+Function  Name:其它排車作業
+Procedure Name:cmd_Tab0_CreateRoute_Click
+Error Code:3021	Error Descr:可能是 BOF 或 EOF 的值為 True，或目前的資料錄已被刪除。所要求的操作需要目前的資料錄。
+
+記錄時間：2019/11/07 11:13:21 
+Form      Name:frm_Other_OPTPlan-排車作業-依地址建立路線編號
+Function  Name:其它排車作業
+Procedure Name:cmd_Tab0_CreateRoute_Click
+Error Code:3021	Error Descr:可能是 BOF 或 EOF 的值為 True，或目前的資料錄已被刪除。所要求的操作需要目前的資料錄。
+
+記錄時間：2019/11/07 11:16:29 
+Form      Name:frm_Other_OPTPlan-排車作業-依地址建立路線編號
+Function  Name:其它排車作業
+Procedure Name:cmd_Tab0_CreateRoute_Click
+Error Code:-2147217900	Error Descr:接近 ')' 之處的語法不正確。
+
+記錄時間：2019/11/11 09:11:48 
+Form      Name:frm_Other_OPTPlan-排車作業-依地址建立路線編號
+Function  Name:其它排車作業
+Procedure Name:cmd_Tab0_CreateRoute_Click
+Error Code:-2147217900	Error Descr:無效的資料行名稱 '路線編號'。
+
+記錄時間：2019/11/11 09:17:44 
+Form      Name:frm_Other_OPTPlan-排車作業-依地址建立路線編號
+Function  Name:其它排車作業
+Procedure Name:cmd_Tab0_CreateRoute_Click
+Error Code:-2147217900	Error Descr:無效的資料行名稱 '路線編號'。
+
+記錄時間：2019/11/11 09:18:31 
+Form      Name:frm_Other_OPTPlan-排車作業-依地址建立路線編號
+Function  Name:其它排車作業
+Procedure Name:cmd_Tab0_CreateRoute_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2019/11/20 17:45:33 
+Form      Name:frm_OP_RouteConfirm出車確認-打散重組
+Function  Name:出車確認
+Procedure Name:cmd_Tab0_Del_Click
+Error Code:-2147217873	Error Descr:違反 PRIMARY KEY 條件約束 'PK_SDN03W'。無法在物件 'dbo.SDN03W' 中插入重複的索引鍵。
+
+記錄時間：2019/11/20 17:47:03 
+Form      Name:frm_OP_RouteConfirm出車確認-打散重組
+Function  Name:出車確認
+Procedure Name:cmd_Tab0_Del_Click
+Error Code:-2147217873	Error Descr:違反 PRIMARY KEY 條件約束 'PK_SDN03W'。無法在物件 'dbo.SDN03W' 中插入重複的索引鍵。
+
+記錄時間：2020/09/11 18:09:32 
+Form      Name:frm_Report_TRPPlan-VLL上貨表-列印
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab0_PrintReport_Click
+Error Code:-2147217887	Error Descr:欄位太小以致於無法接受您試圖加入的資料數量。請試著插入或貼上較少的資料。
+
+記錄時間：2020/09/11 18:13:31 
+Form      Name:frm_Report_TRPPlan-VLL上貨表-列印
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab0_PrintReport_Click
+Error Code:-2147217887	Error Descr:欄位太小以致於無法接受您試圖加入的資料數量。請試著插入或貼上較少的資料。
+
+記錄時間：2020/09/11 18:16:02 
+Form      Name:frm_Report_TRPPlan-VLL上貨表-列印
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab0_PrintReport_Click
+Error Code:-2147217887	Error Descr:欄位太小以致於無法接受您試圖加入的資料數量。請試著插入或貼上較少的資料。
+
+記錄時間：2020/09/11 18:29:29 
+Form      Name:frm_Report_TRPPlan-VLL上貨表-列印
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab0_PrintReport_Click
+Error Code:-2147217887	Error Descr:欄位太小以致於無法接受您試圖加入的資料數量。請試著插入或貼上較少的資料。
+
+記錄時間：2020/09/11 18:30:34 
+Form      Name:frm_Report_TRPPlan-VLL上貨表-列印
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab0_PrintReport_Click
+Error Code:-2147217887	Error Descr:欄位太小以致於無法接受您試圖加入的資料數量。請試著插入或貼上較少的資料。
+
+記錄時間：2020/09/11 18:31:05 
+Form      Name:frm_Report_TRPPlan-VLL上貨表-列印
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab0_PrintReport_Click
+Error Code:-2147217887	Error Descr:欄位太小以致於無法接受您試圖加入的資料數量。請試著插入或貼上較少的資料。
+
+記錄時間：2020/09/11 18:33:53 
+Form      Name:frm_Report_TRPPlan-VLL上貨表-列印
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab0_PrintReport_Click
+Error Code:-2147217887	Error Descr:欄位太小以致於無法接受您試圖加入的資料數量。請試著插入或貼上較少的資料。
+
+記錄時間：2020/09/11 18:34:08 
+Form      Name:frm_Report_TRPPlan-VLL上貨表-列印
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab0_PrintReport_Click
+Error Code:-2147217887	Error Descr:欄位太小以致於無法接受您試圖加入的資料數量。請試著插入或貼上較少的資料。
+
+記錄時間：2020/09/11 18:36:30 
+Form      Name:frm_Report_TRPPlan-VLL上貨表-列印
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab0_PrintReport_Click
+Error Code:-2147217887	Error Descr:欄位太小以致於無法接受您試圖加入的資料數量。請試著插入或貼上較少的資料。
+
+記錄時間：2020/09/11 18:51:18 
+Form      Name:frm_Report_TRPPlan-VLL上貨表-列印
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab0_PrintReport_Click
+Error Code:-2147217887	Error Descr:欄位太小以致於無法接受您試圖加入的資料數量。請試著插入或貼上較少的資料。
+
+記錄時間：2020/09/11 19:01:17 
+Form      Name:frm_Report_TRPPlan-VLL上貨表-列印
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab0_PrintReport_Click
+Error Code:-2147217887	Error Descr:欄位太小以致於無法接受您試圖加入的資料數量。請試著插入或貼上較少的資料。
+
+記錄時間：2020/10/14 17:44:02 
+Form      Name:frm_OP_ManualOrders-訂單維護-訂單查詢
+Function  Name:訂單維護作業 
+Procedure Name:cmd_OrdersQuery_Click
+Error Code:-2147467259	Error Descr:[DBNETLIB][ConnectionWrite (send()).]一般網路錯誤。 查閱您的網路文件。
+
+記錄時間：2020/11/18 09:45:44 
+Form      Name:frm_Report_TRPPlan-排車一覽表-列印
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab5_PrintReport_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2020/11/18 09:45:49 
+Form      Name:frm_Report_TRPPlan-排車一覽表-列印
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab5_PrintReport_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2020/11/18 09:46:02 
+Form      Name:frm_Report_TRPPlan-排車一覽表-列印
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab5_PrintReport_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2020/11/18 09:46:24 
+Form      Name:frm_Report_TRPPlan-排車一覽表-列印
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab5_PrintReport_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2020/12/14 10:46:33 
+Form      Name:frm_Report_TRPPlan-排車一覽表-列印
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab5_PrintReport_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2020/12/14 10:47:23 
+Form      Name:frm_Report_TRPPlan-排車一覽表-列印
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab5_PrintReport_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2020/12/14 10:47:25 
+Form      Name:frm_Report_TRPPlan-排車一覽表-列印
+Function  Name: 排車作業報表
+Procedure Name:cmd_Tab5_PrintReport_Click
+Error Code:3265	Error Descr:在所要求名稱或序數的相關集合物件中找不到此項目。
+
+記錄時間：2021/04/22 11:31:16 
+Form      Name:frm_Query_Orders-訂單查詢
+Function  Name:  訂   單   資   料   查   詢
+Procedure Name:cmd_Query
+Error Code:-2147217900	Error Descr:無效的物件名稱 'bestwms..sku'。
+
+記錄時間：2021/04/22 17:33:09 
+Form      Name:frm_Query_Orders-訂單查詢
+Function  Name:  訂   單   資   料   查   詢
+Procedure Name:cmd_Query
+Error Code:-2147217900	Error Descr:無效的物件名稱 'bestwms..sku'。
+
+記錄時間：2021/04/22 17:36:26 
+Form      Name:frm_Report_DivideSku-其他排車一覽表-查詢
+Function  Name:花王分貨表
+Procedure Name:cmd_Tab1_Query_Click
+Error Code:-2147217865	Error Descr:無效的物件名稱 'bestwms..sku'。
+
+記錄時間：2021/04/22 17:38:15 
+Form      Name:frm_Query_Orders-訂單查詢
+Function  Name:  訂   單   資   料   查   詢
+Procedure Name:cmd_Query
+Error Code:-2147217900	Error Descr:無效的物件名稱 'bestwms..sku'。
